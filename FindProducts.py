@@ -2,10 +2,10 @@ import os
 import json
 
 # Define the path to the directory containing the text files
-directory_path = 'products'
+directory_path = '/Users/moiz/Moiz/Github/ITA-Project/RAG/products'
 
 # Output file where consolidated data will be saved
-output_file = 'FinalProductsList.txt'
+output_file = 'RAG/FinalProductsList.txt'
 
 # Read each file in the directory
 def read_product_files(directory):
