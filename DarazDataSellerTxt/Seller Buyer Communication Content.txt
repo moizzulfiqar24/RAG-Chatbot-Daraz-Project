@@ -1,0 +1,61 @@
+Instant messenger:
+
+How do I set up Quick Replies?
+If you want to improve your response rate, you can set up quick messages that you can send to Customers when they send in an inquiry. You can set up quick replies by accessing the settings Icon on the top left-hand corner of your Instant Messaging window and writing in your customized messages. You can select up to six quick replies.
+
+What are the IM Chat Policies?
+Sellers are not allowed to redirect buyers to purchase from other websites out of Daraz.
+Sellers are not allowed to induce buyers to conduct offline transactions.Sellers are not allowed to send spam messages (a message that the recipient did not request for) to Daraz buyers via any communication space within or out of Daraz platform.
+Please refrain from using threatening language, profanities or hate speech in your communications with the buyer.
+Please do not exchange personal contact numbers, email addresses or web addresses(any external link) with the buyer.
+All sellers are required to respond to buyers within the agreed time frame as part of all sellers’ commitment to be trustworthy and reliable.
+Standard SLA to reply to a customer query will be within working hours.
+Self Promotion is prohibited: Sellers are not allowed to conduct fake conversations with intentions to increase their performance, in one way or another, on Daraz platform.
+
+Chat Broadcast:
+
+How to use Chat Broadcast?
+To use Chat Broadcast tool please use the below steps:
+Access Chat Broadcast: You can easily access the Chat Broadcast feature from the Customer Engagement tab on the Seller Center
+Enable Chat Broadcast: Send a message to your buyers using Daraz Chat
+Personalized Communication: Customize your Chat Broadcast to send a personalized message to buyers and Send the message with a customized product name to let your buyers know exactly what you are selling
+View Performance: At the top of the Chat Broadcast main page, view the overall performance of the Chat Broadcast feature, keep a track of messages sent and received and monitor any actions taken by the customer in response to the Chat Broadcast
+Note: To disable Chat Broadcast Tool please fill this https://docs.google.com/forms/d/e/1FAIpQLScN730VBi0aB8RHR8-R865q8wxaRj-8gVlLxYChSCXU1cSkOw/viewform
+
+What are Objectives & Benefits of Chat Broadcast?
+To provide you with an easy tool to carry out retargeting and remarketing to your buyers
+Send automatic messages to specific target groups
+View the performance of the Chat Broadcast feature
+Reach out to buyers to promote your products
+Bring back old buyers
+Encourage buyers who have added products to cart to purchase them
+
+What are Best Practices of Chat Broadcast?
+Use these practice while using Chat Broadcast
+Try sending messages between 8:00 AM-8:00 PM only
+Send a few messages per day to avoid disturbing sellers
+Use the dashboard to see the performance of your messages
+Don’t send same type of messages in a day
+
+What is Chat Broadcast tool?
+Chat Broadcast is a new tool that will help you promote your store directly to customers and improve your overall selling experience. It will help you convert interested customers into guaranteed sales. Sellers can do this by sending customized automatic communications to selected sellers.
+You can
+Create custom lists of buyers
+Send automatic messages to customers on chat
+Create custom templates for these communications
+Check the performance of these communications
+
+Message Center:
+
+What is expected from you while answering customers questions?
+Respond or report every question within 24hrs.
+Only communicate product-related information.
+Do not use inappropriate language.
+
+Where can I see the questions asked by the Customers?
+The seller can view and respond to the questions asked by the customers from the Message Center available on Seller Center’s Dashboard.
+
+Why is it important to answer potential customer questions?
+It provides additional product information enabling your potential customers to make smarter shopping decisions.
+It increases your customer’s trust and will help you get a higher seller rating.
+It reduces the rejection rate and returns rate thanks to product knowledge.
