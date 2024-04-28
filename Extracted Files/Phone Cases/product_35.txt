@@ -1,0 +1,92 @@
+{
+    "URL": "https://www.daraz.pk/products/s1-i217644656-s1428153464.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "A to Z Shop (Rawalpindi)",
+    "Product Name": "Vivo S1 Pro Rich Boss Synthetic Leather Flip Cover"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Brown",
+        "Red",
+        "Camel"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1428153465": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area A to Z Shop (Rawalpindi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        },
+        "1428153464": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area A to Z Shop (Rawalpindi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        },
+        "1428153467": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area A to Z Shop (Rawalpindi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        },
+        "1428153466": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area A to Z Shop (Rawalpindi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "Looking for a Flip Cover which is very durable and real leather feel. Rich Boss Flip Cover is the answer! A simple and sober hand stitched design will give your smartphone a rich-look. Synthetic leather has been used which gives a real-feel leather look. A combination of perfect fit and superior quality make a must-buy flip cover for your smartphone. It also comes with a stand view feature which facilitates the horizontal viewing or you can watch videos and movies at your ease with this stand view feature. Handcrafted from high quality faux leather with beautiful stitching, each case looks and feels luxurious; precise cutouts ensure full access to ports and function buttons, speakers and camera.One week warranty for a refund if any quality issue. We’re aiming to provide each customer with the highest standard of customer service. If, for any reason, you&#x27;re not satisfied with our Upgraded Phone case, simply contact us, we will take care of all quality-related issues with a REFUND                     ",
+    "highlights": [
+        "design high quality material precise cuts interior microfiber",
+        "Rich Boss Synthetic Leather Flip Cover "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-39%%",
+            "Rs. 1999",
+            "Rs. 1222"
+        ],
+        [
+            "-33%%",
+            "Rs. 1999",
+            "Rs. 1333"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "68%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

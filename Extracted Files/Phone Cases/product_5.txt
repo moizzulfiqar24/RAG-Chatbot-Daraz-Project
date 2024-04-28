@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/google-pixel-3-transparent-silicon-back-cover-bumper-case-for-google-pixel-3-i397935434-s1925586473.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AA mobile shop",
+    "Product Name": "Google Pixel 3 Transparent Silicon Back Cover Bumper Case for Google Pixel 3"
+}
+
+{
+    "Color Family": [
+        "Clear"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1925586473": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "NOTE :",
+        "ALL MODEL AVAILABLE AT MY SHOPE.",
+        "OPPO.",
+        "VIVO.",
+        "TECNO.",
+        "INFINIX.",
+        "SAMSUNG.",
+        "XIAOMI.",
+        "POCO.",
+        "REALME.",
+        "Made fromImported Top-Grade Silicone Material due to which the cover has an Ultra Rich&amp; Premium Finish.Provides endured protection for your phone while complementing&amp; enhancing the natural beauty of your phone's design.The cover featuresprecision cutouts which provide seamless &amp; easy access to all Buttons,Ports, Camera, Speakers &amp; Microphone.Extremely Easy to Install &amp;Uninstal"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-46%%",
+            "Rs. 399",
+            "Rs. 215"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "84%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

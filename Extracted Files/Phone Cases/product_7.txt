@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/ios-i417032977-s1978844533.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SAAD COLLECTIONS 1607837941",
+    "Product Name": "Universal Waterproof Mobile Pouch | Cover | Case for IPhone Android - Water Proof Cover Bag Mobile Phone Protector Universal Waterproof Mobile Pouch Case for All IOS and Android - Water Proof Cover Bag Mobile Phone Protector"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1978844533": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Universal Waterproof Mobile Pouch Case for IPhone Android - Water Proof Cover Bag Mobile Phone ProtectorBrand new and made of dedicated soft PVC/ABS material, which has high-security performance waterproofing effects",
+        "Triple protection: Two layer of airtight sealing closure and a piece of adhesive tape, fully protect your device",
+        "The waterproof case allows you to comfortably operate the mobile phone function, not affect sound quality"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-60%%",
+            "Rs. 300",
+            "Rs. 120"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "95%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

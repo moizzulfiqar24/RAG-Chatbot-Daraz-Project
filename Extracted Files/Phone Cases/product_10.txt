@@ -1,0 +1,96 @@
+{
+    "URL": "https://www.daraz.pk/products/high-quality-retro-magnetic-flip-leather-case-for-samsung-galaxy-a14-5g-phone-case-wallet-card-cover-i380239478-s1873966415.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HCAXY",
+    "Product Name": "High Quality Retro Magnetic Flip Leather Case For Samsung Galaxy A14 5G Phone Case Wallet Card Cover"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "Coffee"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1873966416": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 3 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1873966415": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 3 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1873966419": {
+            "During Time": "5 - 7 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 3 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 5 May"
+        },
+        "1873966418": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 3 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1873966417": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 3 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Made for high quality PU Leather and soft TPU inner shellProvides comfortable touch feeling and better protects your phone from dust bumps and scratchesKickstand function is convenient for movie-watching or video-chattingMagnetic closure keeps your phone safe like glove fall assistanceInterior TPU case with precise cutting and buttons provides easy touching and quick responseThe shockproof wallet case has 2 card slots 1 wallet and 1 magnetic lock which makes your trip safer and more convenient without carrying a extra walletUnique design allows easy access to all buttons controls and ports"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-42%%",
+            "Rs. 2279",
+            "Rs. 1322"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

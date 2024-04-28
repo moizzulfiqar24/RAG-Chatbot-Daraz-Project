@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/-i317482707-s1684226580.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "cloth shop and other items",
+    "Product Name": "WATERPROOF MOBILE COVER"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1684226580": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Top quality waterproof bag for smartphones",
+        "Suitable for smartphones up to 6 inches in length",
+        "Helps to protect the smartphone from water and dirt",
+        "Support finger touch",
+        "Easy to use",
+        "Portable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 300",
+            "Rs. 149"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "95%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

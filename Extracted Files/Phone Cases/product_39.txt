@@ -1,0 +1,80 @@
+{
+    "URL": "https://www.daraz.pk/products/oppo-f7-soft-case-modern-color-transparent-tpu-shielding-back-cover-i393203445-s1917203216.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "KD Accessories (Karachi)",
+    "Product Name": "OPPO F7 Soft Case Modern Color Transparent TPU Shielding Back Cover"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Red"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from KD Accessories (Karachi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 7 May"
+        },
+        "1917203216": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from KD Accessories (Karachi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 7 May"
+        },
+        "1917203217": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from KD Accessories (Karachi)",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 7 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Show off your phone brand by using Transparent TPU Case .",
+        "Practical and minimal slim-fit see-through design.",
+        "Prevent scratches and bumps​"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-54%%",
+            "Rs. 299",
+            "Rs. 139"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

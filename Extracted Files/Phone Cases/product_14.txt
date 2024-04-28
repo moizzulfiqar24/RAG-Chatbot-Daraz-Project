@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/f15-tpu-i204044852-s1404522883.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Future Accessories",
+    "Product Name": "Oppo F15 Antishock Drop Resistance Transparent TPU Case Silicone Back Cover"
+}
+
+{
+    "Color Family": [
+        "Clear"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1404522883": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "100% brand new and high quality",
+        "It Perfectly matches with your Phone&#39;s shape",
+        "Effectively protects your cellphone against dust, dirt, bump, and scratches",
+        "Complete access to all control buttons without removing the case",
+        "Ultra-thin, lightweight. Easy and convenient installation"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-63%%",
+            "Rs. 399",
+            "Rs. 149"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "99%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
