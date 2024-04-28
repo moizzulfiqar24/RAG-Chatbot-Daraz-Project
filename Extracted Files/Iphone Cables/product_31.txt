@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/lightning-to-35mm-headphone-jack-adapter-for-iphone-i368782920-s1828139390.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "dynamiteaccessories",
+    "Product Name": "Lightning to 3.5mm Headphone Jack Adapter For Iphone"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1828139390": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Product: Lightning to 3.5mm Headphone Jack Adapter",
+        "Works with all Lightning connector devices and supports iOS10 or later",
+        "This adapter lets you connect devices that use a 3.5 mm audio plug to your Lightning devices.",
+        "High Quality"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-53%%",
+            "Rs. 490",
+            "Rs. 230"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "86%",
+        "Ship on Time": "89%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

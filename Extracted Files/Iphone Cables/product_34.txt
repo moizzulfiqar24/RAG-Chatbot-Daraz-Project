@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/3-in-1-120w-6a-fast-charging-type-c-cable-micro-usb-for-iphone-charging-cable-for-samsung-huawei-xiaomi-phone-charger-usb-cable-i479234714-s2249084755.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "Oks Traders",
+    "Seller Name": "Oks Traders 1655713962",
+    "Product Name": "3 in 1 120W 6A Fast Charging Type C Cable Micro USB for iPhone Charging Cable for Samsung Huawei Xiaomi Phone Charger USB Cable"
+}
+
+{
+    "Color Family": [
+        "Orange"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2249084755": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<strong>•</strong><span style=\\\"font-size: 14px;\\\">This 3 in 1 charging cable is a must-have for all mobile phone users. With a 120W power output and 6A fast charging capability, this cable ensures that your device is charged quickly and efficiently. The cable is compatible with a range of devices, including iPhones, Samsung, Huawei, and Xiaomi phones. Its Type C and Micro USB connectors make it versatile and convenient to use. This cable is perfect for those who are always on the go and need a reliable charging solution. Get yours today and never worry about running out of battery again!</span>",
+    "highlights": [
+        "3 in 1 120W 6A Fast Charging Type C Cable Micro USB for iPhone Charging Cable for Samsung Huawei Xiaomi Phone Charger USB Cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 500",
+            "Rs. 249"
+        ],
+        [
+            "Rs. 332%",
+            "Rs. 500",
+            "Rs. 249"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "83%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

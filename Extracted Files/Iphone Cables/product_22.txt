@@ -1,0 +1,99 @@
+{
+    "URL": "https://www.daraz.pk/products/1-3-120-6a-led-c-i471501108-s2224312175.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Penny shop",
+    "Product Name": "3 in 1 Data cable 120w 6A Fast Charging original liquid silicon with Led Light  type C Android & I Phone"
+}
+
+{
+    "Color Family": [
+        "Blue",
+        "Multicolor",
+        "Orange",
+        "Yellow"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        },
+        "2224312174": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        },
+        "2224312173": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        },
+        "2224312172": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Step 1:",
+        "• 3 in 1 data cable for fast charging.",
+        "• Original liquid silicon material for durability.",
+        "• Compatible with type C, Android, and iPhone.",
+        "• LED light indicator for convenient use.",
+        "Step 2:",
+        "• Fast charging capability for multiple devices.",
+        "• Durable and original liquid silicon material used.",
+        "• Compatible with various devices including Android and iPhone.",
+        "• LED light indicator for easy visibility during charging."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-36%%",
+            "Rs. 699",
+            "Rs. 449"
+        ],
+        [
+            "-43%%",
+            "Rs. 699",
+            "Rs. 399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

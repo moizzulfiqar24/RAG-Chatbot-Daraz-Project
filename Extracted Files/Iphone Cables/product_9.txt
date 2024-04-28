@@ -1,0 +1,90 @@
+{
+    "URL": "https://www.daraz.pk/products/3-usb-a-c-i460258639-s2182803165.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "TheOmniMart",
+    "Product Name": "3m, Imported Amazon Basics USB-A to USB-C Fast Charging and Data Cable, Type C Fast Charging Cable"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2182803165": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area TheOmniMart",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "Introducing the Amazon Basics USB-C to USB-A Cable – a versatile and reliable accessory designed for seamless connectivity and efficient charging. Here's a comprehensive look at its features:<br/><br/>**Brand: Amazon Basics**<br/><br/>**Connector Type: USB-C, USB-A**<br/><br/>**Cable Type: USB**<br/><br/>**Length: 3 meters**<br/><br/>**Compatible Devices:**<br/>iPhone 15, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 15 Plus, iPad Air 5/4, iPad Mini 6, iPad Pro 12.9 6/5/4/3, iPad Pro 11 3/2/1, MacBook Air M2 15in/13in, MacBook Air M1, MacBook Air Retina 13in, MacBook Pro 16in/14in, Mac Pro 2023/2019, iMac 24in M3/M1, iMac Retina 5K/4K; Samsung Galaxy S23/S22/S20/S10/S9/S8/S7/S5/S4 series; Samsung Z Fold, Flip, A, Note, Tab; Huawei P60/P50/P40/P30/P20, Mate, Nova; Xiaomi 14/13/12/11, Xiaomi Redmi, Xiaomi Mi; LG G8/G7/G6/G5/G4/G3, LG V60/V50/V40/V30/V20, LG Velvet, U, Stylo; Google Pixel, Nexus; HTC Desire, Wildfire, U; Motorola Edge, Razr, Moto G, Defy; Asus, Nokia, Sony, and other USB A/USB C compatible devices.<br/><br/>**Special Feature: Data Transfer**<br/><br/>**Description:**<br/><br/>The Amazon Basics USB-C to USB-A Cable is USB-IF Certified, ensuring reliable connectivity between any USB-C and standard USB-A enabled devices. Perfect for charging smartphones, power banks, wall/car chargers, and low-power devices, this cable also facilitates efficient data transfer between smartphones, tablets, laptops, hard drives, and more.<br/><br/>**Fast Charge and Data Transfer:**<br/>Experience the convenience of fast charging for your devices, coupled with high-speed data transfer capabilities. Whether you need to power up your gadgets or transfer data, this cable ensures a swift and efficient process.<br/><br/>**In the Box:**<br/>Included in the package is one USB-C 2.0 to USB-A cable, designed for charging and powering devices, as well as transferring data, photos, and music. This versatile accessory is an all-in-one solution for your connectivity needs.<br/><br/>**Warranty:**<br/>Backed by an Amazon Basics 6 Months Limited Warranty, this cable is designed to provide peace of mind and reliability in your everyday charging and data transfer tasks.<br/><br/>**Note:**<br/>Products with electrical plugs are designed for worldwide use. Please be aware that outlets and voltage differ internationally, and this product may require an adapter or converter for use in your destination. Always check compatibility before purchasing to ensure seamless functionality.",
+    "highlights": [
+        "**Amazon Basics USB-C to USB-A Cable: Highlights**",
+        "**Brand:** Amazon Basics",
+        "**Connector Type:** USB-C, USB-A",
+        "**Cable Type:** USB",
+        "**Length:** 3 meters",
+        "**Compatible Devices:** ",
+        "- iPhone 15, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 15 Plus",
+        "- iPad Air 5/4, iPad Mini 6, iPad Pro 12.9 6/5/4/3, iPad Pro 11 3/2/1",
+        "- MacBook Air M2 15in/13in, MacBook Air M1, MacBook Air Retina 13in, MacBook Pro 16in/14in, Mac Pro 2023/2019",
+        "- iMac 24in M3/M1, iMac Retina 5K/4K",
+        "- Samsung Galaxy S23/S22/S20/S10/S9/S8/S7/S5/S4 series; Samsung Z Fold, Flip, A, Note, Tab",
+        "- Huawei P60/P50/P40/P30/P20, Mate, Nova",
+        "- Xiaomi 14/13/12/11, Xiaomi Redmi, Xiaomi Mi",
+        "- LG G8/G7/G6/G5/G4/G3, LG V60/V50/V40/V30/V20, LG Velvet, U, Stylo",
+        "- Google Pixel, Nexus",
+        "- HTC Desire, Wildfire, U",
+        "- Motorola Edge, Razr, Moto G, Defy",
+        "- Asus, Nokia, Sony, and other USB A/USB C compatible devices",
+        "**Special Feature:** Data Transfer",
+        "**About this Item:**",
+        "The Amazon Basics USB-C to USB-A Cable is USB-IF Certified, ensuring seamless compatibility between USB-C and USB-A enabled devices. This versatile cable is designed for various applications, including charging smartphones, power banks, wall/car chargers, and low-power devices. It is equally suitable for high-speed data transfer between smartphones, tablets, laptops, hard drives, and more.",
+        "**In the Box:**",
+        "1 cable, USB-C 2.0 to USB-A, for charging and powering devices, and efficient data transfer of photos and music.",
+        "**Fast Charge and Data Transfer:**",
+        "Experience the convenience of fast charging for your devices along with swift data transfer capabilities. This cable is engineered to provide optimal performance for your charging and data transfer needs.",
+        "**Warranty:**",
+        "Backed by an Amazon Basics 6 Months Limited Warranty, you can trust in the reliability and durability of this cable for your everyday usage.",
+        "**Note:**",
+        "Products with electrical plugs are designed for use worldwide. However, outlets and voltage standards may vary internationally, so it's advisable to check compatibility and, if necessary, use an adapter or converter for your destination. Please verify compatibility before making a purchase."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-63%%",
+            "Rs. 999",
+            "Rs. 369"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "96%",
+        "Ship on Time": "86%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/otg-30-usb-otg-usb-usb-u-145-i456072001-s2236249320.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HY e-Store",
+    "Product Name": "iPHONE OTG Adapter 3.0 Lightning to USB Port OTG Connector For iphone, ipad - High SpeedUSB Female Support Connect USB Flash Drive, U Disk, for iPhone 145Pro Max (Multi-Colored)"
+}
+
+{
+    "Color Family": [
+        "OTG For iPhone"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2236249320": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area HY e-Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• High-speed OTG adapter for iPhone and iPad.• Connect USB flash drives and U disks.• Lightning to USB 3.0 port connector.• Compatible with Apple devices.• Multi-colored design.• Ideal for transferring data quickly.• Perfect for mobile professionals.• Lightweight and portable.• Easy to use and convenient.• Enhance your mobile experience with this adapter."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-46%%",
+            "Rs. 1500",
+            "Rs. 811"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "85%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

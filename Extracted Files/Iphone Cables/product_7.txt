@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/magnetic-cable-3-in-1-fast-charging-cable-micro-usb-charger-iphone-charger-type-c-charger-type-c-connectore-pins-fast-charger-for-all-mobiles-magnetic-charging-cable-micro-usb-type-c-ios-3a-fast-charging-360-degree-led-indication-multi-colours-i338186778-s1914284248.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Bismillah Shopping Mall..",
+    "Product Name": "Magnetic Cable 3 in 1 Fast Charging Cable-Micro USB Charger-Iphone Charger - Type C Charger - Type C Connectore  Pins Fast Charger For All Mobiles - Magnetic Charging Cable Micro USB Type C & iOS - 3A Fast Charging-360 Degree LED Indication-multi colours"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1914284248": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "￼ ￼ ￼ ￼ ￼ ￼ Magnetic Cable 3 in 1 Fast Charging Cable - Micro USB Charger - Iphone Charger - Type C Charger - Type C Connectore / Pins Fast Charger For All Mobiles - Magnetic Charging Cable Micro USB Type C &amp; iOS - 3A Fast Charging - 360 Degree LED Indication -BlackType: 3 in 1 Magnetic charging cable for Type c, Micro usb % Ios DeviceFunction: Magnetic Cable, Magnetic Pin, Charging, 2.4A Charging Cable Type : MagneticLength:1m / 2mType C USB Cable/For Lightning/MicroSupport Charging + Data TransferBest quality.available in multiple colour(silver,black,red)",
+    "highlights": [
+        "Magnetic Cable 3 in 1 Fast Charging Cable - Micro USB Charger - Iphone Charger - Type C Charger - Type C Connectore / Pins Fast Charger For All Mobiles - Magnetic Charging Cable Micro USB Type C &amp; iOS - 3A Fast Charging - 360 Degree LED Indication -Black Type: 3 in 1 Magnetic charging cable for Type c, Micro usb % Ios Device Function: Magnetic Cable, Magnetic Pin, Charging, 2.4A Charging Cable Type : Magnetic Length:1m / 2mType C USB Cable/For Lightning/Micro Support Charging + Data Transfer Best quality. available in multiple colour(silver,black,red)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-42%%",
+            "Rs. 600",
+            "Rs. 348"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "73%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

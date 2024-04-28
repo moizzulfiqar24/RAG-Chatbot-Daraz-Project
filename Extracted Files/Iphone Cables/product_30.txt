@@ -1,0 +1,157 @@
+{
+    "URL": "https://www.daraz.pk/products/baseus-pd-20w-usb-c-cable-for-iphone-13-pro-max-fast-charging-usb-c-cable-for-iphone-12-mini-pro-max-data-usb-type-c-cable-i458883845-s2174000116.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "BASEUS",
+    "Seller Name": "Baseus Official Store",
+    "Product Name": "Baseus PD 20W USB C Cable for iPhone 13 Pro Max Fast Charging USB C Cable for iPhone 12 mini pro max Data USB Type C Cable"
+}
+
+{
+    "Color Family": [
+        "Blue 2M",
+        "Deep Blue 2M",
+        "White 2M",
+        "Orange 2M",
+        "Purple 2M",
+        "Dark Green 2M",
+        "Blue 1M",
+        "Dark Blue 1M",
+        "White 1M",
+        "Orange 1M",
+        "Purple 1M",
+        "Dark Green 1M"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2217849300": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849301": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849296": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849297": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849298": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849299": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849292": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849293": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849294": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849295": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2174000116": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2217849291": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "<span style=\\\"font-family: none;\\\"></span>",
+    "highlights": [
+        " Brand Name: BASEUS Certification: CE Certification: FCC Certification: RoHS Connector B: LIGHTNING Maximum Current: 3A Origin: CN(Origin) Connector A: TYPE-C Features: Fast Charge Cable Has Retail Package: Yes Length: 0.5m , 1m , 2m Data transmission: 480Mbps Feature 1: USB Cable for iPhone 13 12 Pro Max Feature 2: USB Cable for iPhone 12 11 Pro Max Feature 3: USB Charger Cable for iPhone SE 8 7 6s Plus Feature 4: PD 20W Fast Charging for iPhone"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-23%%",
+            "Rs. 1572",
+            "Rs. 1209"
+        ],
+        [
+            "-23%%",
+            "Rs. 1897",
+            "Rs. 1459"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "2 Years Brand Warranty",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

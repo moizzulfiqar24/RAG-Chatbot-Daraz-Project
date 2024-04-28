@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/c-14-13-xs-p30-usb-c-i415338353-s1974633172.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Tech Max.",
+    "Product Name": "Lightning Female To Type-C Male Cable Adapter for iphone 14 13 Pro XS Huawei P30 Cable USB C To Lighting Connector Converter"
+}
+
+{
+    "Color Family": [
+        "Type C to Lightning"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1974633172": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Tech Max.",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "❤❤❤ Hi ! Welcome to My Shop ! ❤❤❤ ",
+    "highlights": [
+        "Product name: Multifunctional conversion head",
+        "Material: aluminum alloy + PVC",
+        "Size: about 20.1 * 12.5 * 6.4mm",
+        "Style: c male to lightning female",
+        "Power: 5V,2.1A",
+        "Interface: Type-c",
+        "Features: anti-short circuit, anti-reverse connection, anti-quick charger high voltage, anti-inverse current",
+        "Quantity: 1"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 596",
+            "Rs. 359"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

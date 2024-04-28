@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-i487555940-s2294189817.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "786 Rajput Mobile Accessories",
+    "Product Name": "Android Micro USB to Lightning Converter| Android To Iphone Converter"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2294189817": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Android Micro USB to Lightning Converter- Category: Mobile Accessories>Cables & ConvertersStep 2:- Additional Keywords: Android, Micro USB, Lightning, Converter, iPhoneStep 3:• Convert Android Micro USB to Lightning for iPhone.• Compatible with various Android devices and iPhone models.• Convenient for charging and data transfer between different devices.Step 4:• Not compatible with all Android and iPhone models.Step 5:- Product highlights generated."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-47%%",
+            "Rs. 150",
+            "Rs. 79"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

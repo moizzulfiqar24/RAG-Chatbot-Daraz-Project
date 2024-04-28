@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/6-6s-7-8-11-12-xs-ios-5x-i353448926-s1786506424.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "stop 'n' shop",
+    "Product Name": "iPhone Data Cable For Fast Charging for Apple iPhone 6, 6s, 7, 8 Plus 11 12 Pro XS Max & iPad and iOS Devices Charging Cables - 5X More Durable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1786506424": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area stop 'n' shop",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Compatible Devices]: iPhones, iPad Air, iPad mini, iPod Nano and iPod Touch",
+        "[Fast Charging Speed and Syncing Data]: It allows charging and syncing at high speeds, and it is compatible with charging adaptors, charging stations with numerous ports, or power banks.",
+        "[Strength &amp; Stability]: Premium aluminum housing that is tightened tightly around the cable to ensure durability and flexibility.",
+        "[Safety]: This feature prevents your device from being damaged by excess current. There is a thick copper core, as well as multiple shielding, anti-interference, and circuit protection layers."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-60%%",
+            "Rs. 499",
+            "Rs. 199"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "76%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

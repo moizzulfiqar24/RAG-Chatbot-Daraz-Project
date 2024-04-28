@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/2-usb-c-pd-20-2-i467993527-s2210124583.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "M  Accessories",
+    "Product Name": "iPhone Data Cable 2 Meter WEKOME USB-C to Lightning PD 20W Fast Charge Data Cable 2m Apple Certified cable"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2210124583": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Introducing the iPhone Data Cable 2 Meter WEKOME USB-C to Lightning PD 20W Fast Charge Data Cable! This certified Apple cable showcases a sturdy rubber cable type and a convenient 2-meter length, offering flexibility for charging and data transfer. Its USB-C to Lightning connection ensures efficient and fast 20W power delivery charging for various Apple devices. The WEKOME cable is tailored for mobiles and tablets, serving as a crucial accessory for users in need of dependable and high-speed connectivity.",
+    "highlights": [
+        "• Cable Type: Rubber Cable",
+        "• Product Title: iPhone Data Cable 2 Meter WEKOME USB-C to Lightning PD 20W Fast Charge Data Cable 2m Apple Certified cable",
+        "• Model: wecom usb c",
+        "• Cable Length: 4",
+        "• Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Cables &amp; Converters"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 400",
+            "Rs. 277"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/35mm-90-degree-elbow-audio-adapter-right-angle-female-to-male-aux-gold-plated-connector-stereo-plug-l-shape-jack-4-pole-converter-angled-for-earphone-headphones-i1506708-s1396360634.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Mega Store (Lahore)",
+    "Product Name": "3.5mm 90 Degree Elbow Audio Adapter Right Angle Female to Male AUX Gold Plated Connector Stereo Plug L Shape Jack 4 Pole Converter Angled For Earphone Headphones"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1396360634": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<span style=\\\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap\\\">3.5mm male plug to female jack four poles right-angle audio adapter.</span>",
+    "highlights": [
+        "3.5mm male plug to female jack four-pole right-angle audio adapter.",
+        "Support hot plug, plug, and play.",
+        "Easy and convenient to use.",
+        "Lightweight, small size, easy to carry.",
+        "With high quality and durable performance.",
+        "100% brand new and in good condition.",
+        "Connector: 3.5mm",
+        "Let your headphone or other device be compatible with most professional audio and home stereo equipment.",
+        "Suitable for: iPhone Android or other digital products which have this interface"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 299",
+            "Rs. 249"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

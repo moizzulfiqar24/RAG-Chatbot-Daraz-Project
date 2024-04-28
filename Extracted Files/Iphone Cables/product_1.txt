@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/ce-412-i216752140-s1426692603.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AD TECH (KARACHI)",
+    "Product Name": "SPACE - Jelly Lightning (IPHONE) Cable - Fast Charge + Data Sync - (CE-412)"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1426692603": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Cable Length : 100cm",
+        "Material : Silicon Coated",
+        "Output : 2.4A",
+        "Compatible with all Lightning Port enabled mobile devices.",
+        "Tangle-Free Design : This solid cable is a jelly cable, so it&#39;s intense and doesn&#39;t tangle.",
+        "Metal Connectors : The metal connectors for the USB and Lightning ports are solid metal and should function admirably with most cases.",
+        "Rapid Charge : This cable can energize your gadgets rapidly and offers expedient information move."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-5%%",
+            "Rs. 500",
+            "Rs. 475"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-5-14-i466883499-s2203873266.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Im.ZENIX",
+    "Product Name": "iPhone Data Cable | USB to Lightning Cable | FAST Charging & Data Syncing Compatible from iPhone 5 till iPhone 14 pro max | iPads | iPods | Data Cable for iPhone All Models | ZENIX"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Compatible with Apple devices for seamless connectivity and charging.",
+        "• Lightning connection for fast charging and data syncing.",
+        "• 1 meter cable length for convenient use.",
+        "• Express delivery available in Karachi for quick shipping.",
+        "• High-quality data cable compatible with iPhone 5 to iPhone 14 Pro Max.",
+        "• Versatile cable suitable for iPads and iPods as well.",
+        "• Reliable and durable USB to Lightning cable by ZENIX."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-28%%",
+            "Rs. 200",
+            "Rs. 145"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
