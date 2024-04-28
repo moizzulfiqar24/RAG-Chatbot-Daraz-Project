@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/2000mah-c-i438404111-s2193901357.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "M.A kitchen store",
+    "Product Name": "TYPE C portable keychain emergency power bank 2000mah battery lightening"
+}
+
+{
+    "Color Family": [
+        "Pink"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Portable keychain power bank with 2000mAh battery capacity.• Compatible with both lightning and type c connectors.• Ideal for emergency charging on-the-go.• Lightweight and easy to carry on your keychain.• Suitable for mobiles and tablets.• Charging cable not included"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "83%",
+        "Ship on Time": "84%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

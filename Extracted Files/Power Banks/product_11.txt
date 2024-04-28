@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/0-i427958122-s2035407289.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Master's Collection",
+    "Product Name": "Super quality Travel charger power bank for all mobile phones 0"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2035407289": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "100% original as shown in picture",
+        "Multi-Protection",
+        "Premium Microchip",
+        "1A Output",
+        "Easily charge your Qi-compatible phone by placing it on this pad",
+        "No need to connect any cable to the phone",
+        "Great to charge more devices via USB output",
+        "Dual USB output supports 1A and 2.1A",
+        "Battery Capacity 2600 mAH",
+        "Input DC 5V - 2A (Max)",
+        "Built-in over-charge protection",
+        "Maximum ambient temperature 25 degrees Celsius"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-29%%",
+            "Rs. 650",
+            "Rs. 459"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

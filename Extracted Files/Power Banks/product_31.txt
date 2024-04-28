@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/10000mah-usb-i432319522-s2122847051.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Q Hub",
+    "Product Name": "10000mAh ELEC Power Bank: Dual USB Port for Fast Charging on the Go!"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2122847051": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/5bec7a0e815fd9f8353aa73af1f9b48b.jpg\\\" data-spm-anchor-id=\\\"0.0.0.i20.56287463Tvkvci\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/5fa3254762b0f7158d34b9cd249bd20d.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/6c01510d07cc3c8aa23797ce3938e314.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/6ffccbf5e3253f4c082a5d57540287ef.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/8f3d56c51e620d2590c7b3f8844489d6.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/08e92ea88b496a3b7d9b5cc3da79a27c.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/795acc3a2bfafa3c7e49fbbeb1a5b2bf.jpg\\\"/>",
+    "highlights": [
+        "100% Same As Pics",
+        "100% Original &amp; Branded Product",
+        "Beautiful Design",
+        "High Quality",
+        "Type: Portable Mobile Powers- All Power Banks Support Fast Charging",
+        "Material: ABS",
+        "Power (W): 18W MAX Output",
+        "Battery Energy: 10000 mah",
+        "Working Temperature: 5-35 Deg.C",
+        "Charging Time: About 11 Hours For 20000mAH Model ( 5V/2A Charger ), About 6.5 Hours ( 18W Charger ), About 4.5 Hours ( 45W Charger )"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-55%%",
+            "Rs. 2999",
+            "Rs. 1349"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "75%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

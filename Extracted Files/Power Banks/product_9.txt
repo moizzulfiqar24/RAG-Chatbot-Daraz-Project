@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/power-bank-2600mah-and-10000mah-high-speed-charging-with-usb-port-multi-color-i456979629-s2271904656.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Falak Mall",
+    "Product Name": "Power Bank 2600mAh High Speed Charging with USB Port - Multi Color"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2271904656": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/e3f24f81cda938383afc50ddf7a0f6d3.jpg\\\"/><br/>",
+    "highlights": [
+        "100% original as shown in picture",
+        "Multi-Protection",
+        "Premium Microchip",
+        "1A / 2AOutput",
+        "Great to charge more devices via USB output",
+        "Dual USB output supports 1A and 2.1A",
+        "Input DC 5V - 2A (Max)",
+        "Built-in over-charge protection",
+        "Maximum ambient temperature 25 degrees Celsius"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 999",
+            "Rs. 698"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "75%",
+        "Ship on Time": "88%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/10000-mah-usb-led-i436374052-s2095393875.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Gadgets Outlet",
+    "Product Name": "Samsung Power bank 10000 mAh - Dual Usb Ports portable powerbank - Led Flashlight"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "6 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Gadgets Outlet",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "10000 mAh powerbank",
+        "locally manufactured",
+        "10000mah",
+        "LED Flashlight",
+        "plastic body",
+        "good built quality",
+        "microusb",
+        "cell system"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-60%%",
+            "Rs. 3499",
+            "Rs. 1399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "80%",
+        "Ship on Time": "75%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

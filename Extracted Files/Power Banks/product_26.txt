@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/10000-mah-rpp96-i453198939-s2150820763.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Q Hub",
+    "Product Name": "Power Bank 10000 Mah RPP96"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2150820763": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "This is a lightweight and large capacity two-way fast charging. It has efficient energy conversion. This power bank has a good quality and high capacity 10000mAh battery. This Remax power bank has 2 USB outputs for more efficient energy conversion and also, has 2 inputs for charging that is more durable."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 2999",
+            "Rs. 1499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "75%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

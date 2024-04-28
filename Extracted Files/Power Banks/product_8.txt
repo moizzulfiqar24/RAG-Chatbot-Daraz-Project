@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/66-20000-mah-20000-mah-led-40000-mah-i457617658-s2242702479.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Hendrix's",
+    "Product Name": "P66W Super Fast Charge Power Bank 20000mAh-Power Bank- Fast Charging- 20000mah fast charging With LED- Best Portable Charger for Fast Charging And Portable External Battery Fast Charger For Mobile Phone"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2242702479": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Hendrix's",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 7 May"
+        }
+    }
+}
+
+{
+    "desc": "Step 1:<br/>Filtered product Attributes:<br/>- Battery Capacity: 10001 mAh to 20000 mAh<br/>- Product Title: P66W Super Fast Charge Power Bank 20000mAh-Power Bank- Fast Charging- 20000mah fast charging With LED- Best Portable Charger for Fast Charging And Portable External Battery Fast Charger For Mobile Phone<br/>- Ports: 3<br/>- Charging Cable Included: Yes<br/>- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Power Banks<br/><br/>Step 2:<br/>No additional keywords provided.<br/><br/>Step 3:<br/>Introducing the P66W Super Fast Charge Power Bank 20000mAh, the ultimate solution for on-the-go charging. With a massive 20000mAh battery capacity, this power bank ensures that your devices stay powered up throughout the day. Equipped with 3 ports and a charging cable included, it offers versatile and convenient charging options for multiple devices. The LED feature adds a touch of convenience, making it easy to use in low-light conditions. Whether you need a quick top-up or a full charge, this power bank is the best portable charger for fast charging and a reliable external battery for mobile phones.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative.<br/><br/>Description:<br/>Introducing the P66W Super Fast Charge Power Bank 20000mAh, the ultimate solution for on-the-go charging. With a massive 20000mAh battery capacity, this power bank ensures that your devices stay powered up throughout the day. Equipped with 3 ports and a charging cable included, it offers versatile and convenient charging options for multiple devices. The LED feature adds a touch of convenience, making it easy to use in low-light conditions. Whether you need a quick top-up or a full charge, this power bank is the best portable charger for fast charging and a reliable external battery for mobile phones.",
+    "highlights": [
+        "• This power bank is designed to charge your devices super fast with its 66W output, making it one of the most powerful portable chargers available.",
+        "• With a 20000mAh capacity, you can use your devices for extended periods of time without worrying about running out of battery.",
+        "• The LED display on the power bank allows you to easily monitor the battery level and know when it's time to recharge.",
+        "• The multicolor design of the power bank not only looks stylish, but also makes it easy to find in your bag or purse.",
+        "• This power bank is the best choice for charging your mobile phones and tablets on the go, thanks to its compatibility with various devices.",
+        "• Whether you're traveling, working, or just out and about, this power bank is the perfect solution for keeping your devices charged and ready to use."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-18%%",
+            "Rs. 4899",
+            "Rs. 3999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "98%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

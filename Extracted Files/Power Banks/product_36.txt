@@ -1,0 +1,81 @@
+{
+    "URL": "https://www.daraz.pk/products/joyroom-20000mah-225w-super-fast-charge-power-bank-with-led-display-i157700365-s1324076338.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Afan Traders",
+    "Product Name": "Joyroom 20000mah 22.5W Super Fast Charge Power Bank with Led Display"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1324076338": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Detail Images: ￼ ￼ ￼ ￼ ￼ ￼ ￼",
+    "highlights": [
+        "High-Speed Charging: Support PD3.0 QC3.0, AFC, FCP, SCP, PE quick charge protocols. It can charge 3 devices simultaneously and you can share it with your family and friends. 3.0A fast charging speed ensures 4.4 times faster than an ordinary power bank, greatly shortening the charging time for your phones. ",
+        "20000mAh/22.5W Real Capacity: 20000mAh power bank can charge most phones 5-8 times and other USB devices multiple times for an average of 9 days of unrestrained usage per charge, and no need to worry about losing contact with anyone due to being out of power. ",
+        "Fashionable Large LED Digital Display: This unique portable charger features an excellent LED indicator, a percentage-based readout shows you the precise remaining power. No more guessing about the remaining power and let you fully recharge the power bank before you go. ",
+        "Provides Charging of Multiple Devices: Support the charging of mobile phones, tablets, notebooks, watches, and headphones, so that your devices can be fully charged anytime, anywhere. ",
+        "Superior Safety: Certified by CE, FCC, using flame retardant materials and the built-in smart circuitry ensures protection against overcharging, short-circuiting, and discharging thus protecting your devices. You can charge your devices safely. ",
+        "Model: JR-QP192 ",
+        "Li-polymer battery capacity: 20000mAh 3.7V (74Wh) ",
+        "Rated capacity: 12000mAh (5V=3A) ",
+        "Type-C input: 5V=3A, 9V=2A, 12V=1.5A ",
+        "Micro input: 5V=2A, 9V=2A, 12V=1.5A ",
+        "Type-C output: 5V=3A, 9V=2.22A, 12V=1.67A ",
+        "USB1/USB2 output: 4.5V=5A, 5V=4.5A, 5V=3A, 9V=2A, 12V=1.5A USB + Type-C ",
+        "total output: 5V=3A ",
+        "Material: ABS + fireproof PC ",
+        "Product size: 150*69*29mm"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-28%%",
+            "Rs. 8000",
+            "Rs. 5799"
+        ],
+        [
+            "Rs. 100%",
+            "Rs. 8000",
+            "Rs. 5799"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

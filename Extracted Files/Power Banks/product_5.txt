@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/10000mah2600mah6000mah-led-i479965746-s2252604433.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "UZ Mart.",
+    "Product Name": "Portable Powerbank 10000mAh | 2600mAh | 6000mAh with LED Light Universal Power Bank For All Mobiles"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2252604433": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "This product is a \\\"Fast Charging Power Bank\\\" designed to provide quick charging capabilities for all types of mobile phones. It serves as a charger and portable battery, allowing you to charge your devices on the go. The power bank is compatible with all mobile phones, ensuring that it can provide reliable battery backup for various devices.",
+        "This product is a \\\"Fast Charging Power Bank\\\" designed to provide quick charging capabilities for all types of mobile phones. It serves as a charger and portable battery, allowing you to charge your devices on the go. The power bank is compatible with all mobile phones, ensuring that it can provide reliable battery backup for various devices."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 444"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "80%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

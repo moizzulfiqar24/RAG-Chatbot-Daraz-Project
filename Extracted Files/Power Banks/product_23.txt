@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/portable-keychain-power-bank-car-keychain-style-power-bank-for-iphone-ultra-compact-external-fast-charging-power-bank-battery-pack-for-i-phone-i451655649-s2147321305.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Amir Memon Mobile Accessories",
+    "Product Name": "Portable Keychain Power bank - Car keychain Style Power bank for Iphone Ultra-Compact External Fast Charging Power Bank Battery Pack For i-Phone"
+}
+
+{
+    "Color Family": [
+        "Not Specified"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2147321305": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Portable keychain power bank for iPhone",
+        "• Ultra-compact external fast charging battery pack",
+        "• Car keychain style design",
+        "• Battery capacity: 1500 mAh",
+        "• Ideal for on-the-go charging"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-57%%",
+            "Rs. 1500",
+            "Rs. 639"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "77%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

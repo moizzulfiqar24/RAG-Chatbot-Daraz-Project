@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/1-4-b-c-4-10000-mah-i479164632-s2248751562.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AS Mart (LHR)",
+    "Product Name": "10000 MAH mini power bank with 4 cable type B type c 4in1 fast charging best quality power bank with cable for all phones"
+}
+
+{
+    "Color Family": [
+        "10000 MAH"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2248751562": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "orgnal 10000 have own price15000 have own price4 builten cable i phone samsang usb cable and type c cable",
+        "builten cable micro",
+        "i phone",
+        "usb",
+        "typce"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-51%%",
+            "Rs. 3500",
+            "Rs. 1699"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "96%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

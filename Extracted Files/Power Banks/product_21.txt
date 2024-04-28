@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/20-mah-i480338121-s2253642503.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "H2 Trading co",
+    "Product Name": "Apple Magsafe Wireless Power Bank for Iphone 5000mAh 20W Fast Charging"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2253642503": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Product Description",
+    "highlights": [
+        "I Phone Magsafe Wireless Power Bank for Iphone 5000mAh 20W Fast Charging - ",
+        "Product Features",
+        "  1.Official Same style macsafe powerbank2.Packaging material high quality 1:1 copy3.10000mAh battery + 15W wireless charging + magnetic absorption + PD20W wired charge4.Support two way fast charging, original 1:1 charging animation, battery small components5.It is light and easy to take with you6.Charger for iPhone 12 13 14 Pro Max Mini Plus"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-55%%",
+            "Rs. 5000",
+            "Rs. 2248"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

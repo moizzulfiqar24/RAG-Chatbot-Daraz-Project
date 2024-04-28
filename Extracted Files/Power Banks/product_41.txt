@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/audionic-magneto-wireless-powerbank-10000-mah-power-bank-portable-powerbank-5-output-3-input-options-lightening-micro-usb-type-c-led-indicator-polymer-battery-1-year-brand-warranty-i464565183-s2195113557.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "Audionic",
+    "Seller Name": "Audionic",
+    "Product Name": "Audionic Magneto Wireless Powerbank | 10000 mAh Power bank | Portable powerbank | 5 output 3 input options | lightening-Micro USB- Type C | LED indicator | Polymer Battery | 1 year brand warranty"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Green",
+        "Purple"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2195113557": [
+            {
+                "During Time": "5 - 7 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 5 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "USP’s:·        10000mAhBattery Capacity·        MagneticSuction·        WirelessCharging·        Compatiblewith Apple / Type-C / Micro-USB Power line·        2Output Options &amp; 1 Input Options·        LEDStatus Indicator·        22.5W P&amp;D Other Specifications:·        OutputPort: 1 USB Ports + 1 Type C Port·        InputPorts: Type C ·        Li-PolymerBattery Installed in the Device·        1year brand warranty·        QC3.0 Fast Charging·        InputPower: 5V-3.0A·        OutputPower: 5V-4.5A / 5V-3A (Wireless 15 Watt)·        Lightweight easy to carry.·        InputType-C: DC5V-3A/9V-2.25a/12V-1.5A(20W)·        OutputPorts: Type-C: DC5V-3A/9V-2.25A/12V-1.5A (20W)·        USB Port Output:DC4.5V-5A/5V-4.5A/5V-3A/9V-2.25A/12V-1.5A (22.5W) / Wireless 15WNote: ·        Thispower can charge 3 devices at a time.·        Wealways recommend to fully charge the product before using it for the firsttime.·        The actual product may differ from the displayimage on the packaging or the visuals because of lighting or photography.                         "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 9198",
+            "Rs. 4599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "50%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "1 Year Brand Warranty",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

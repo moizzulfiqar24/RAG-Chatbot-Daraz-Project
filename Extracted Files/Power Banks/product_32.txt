@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/66-10000mah-66-20000mah-i469456894-s2285271175.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sheikh Gadgeteria",
+    "Product Name": "66W Super Fast Charge Power Bank 10000mAh|20000mAh Portable External Battery Fast Charger For iPhone Samsung Xiaomi Auxiliary Battery New 66W Super Fast Charge Power Bank 10000mAh Portable External Battery Fast Charger For iPhone Samsung Xiaomi Auxiliary"
+}
+
+{
+    "Color Family": [
+        "Transparent"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2285271175": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered out invalid information from productAttributes.Step 2:No additionalKeyWords found.Step 3:• 66W Super Fast Charge Power Bank for iPhone, Samsung, Xiaomi.• Available in 10000mAh and 20000mAh capacity options.• Equipped with 3 ports for simultaneous charging.• Includes charging cable for added convenience.Step 4:N/AStep 5:• Informative highlights have been provided."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 2399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "85%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

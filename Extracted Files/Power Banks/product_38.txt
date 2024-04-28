@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/power-bank-10000mah-external-battery-pack-10000-mah-power-bank-fast-charging-portable-charger-for-iphone-power-bank-i423099128-s2002487230.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Royal Smart Mart",
+    "Product Name": "Power Bank 10000mAh External Battery Pack 10000 mAh Power bank Fast Charging Portable Charger For iPhone Power bank"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2002487230": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Power Bank 10000mAh External Battery Pack 10000 mAh Power bank Fast Charging Portable Charger For iPhone Power bankItem Name: Power Bank",
+        "Material: Electronic Component",
+        "Input: 2.0A",
+        "Output: 2.0A",
+        "Battery capacity: 10000mAh",
+        "Features: Large Capacity, Multi-interface, Quick Charging",
+        "Size Details:",
+        "14cm x 6.8cm x 2cm/5.51\\\" x 2.68\\\" x 0.79\\\" (Approx.)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-2%%",
+            "Rs. 2500",
+            "Rs. 2450"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

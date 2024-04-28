@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/5000-mah6-i438035063-s2118727227.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Quick Fast",
+    "Product Name": "IPhone_  Original MagSafe Battery Pack | Wireless Magnetic Power bank For iPhone_ Fast charging  5000 mAh | 6 Month Warranty"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2118727227": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "This is the Original MagSafe Battery Pack for iPhone, a wireless magnetic power bank that provides fast charging with a battery capacity of 5000mAh. It comes with a 6-month warranty and is compatible with iPhones. The pack has one port and does not include a charging cable. This power bank is perfect for those who are always on the go and need a reliable source of power for their mobile devices. With its magnetic design, it attaches seamlessly to your iPhone for easy charging. Get the Original MagSafe Battery Pack today and never run out of power again!",
+    "highlights": [
+        "• Original MagSafe Battery Pack for iPhone",
+        "• Wireless Magnetic Power bank with fast charging",
+        "• 5000 mAh capacity for extended use",
+        "• 6 Month Warranty for peace of mind",
+        "• Compatible with iPhone models with MagSafe technology",
+        "• Convenient and easy to use magnetic attachment",
+        "• Perfect for on-the-go charging",
+        "• Sleek and stylish design",
+        "• Not specified ports",
+        "• Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Power Banks"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-42%%",
+            "Rs. 6859",
+            "Rs. 3986"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

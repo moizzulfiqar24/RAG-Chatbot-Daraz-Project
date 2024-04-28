@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/66-20000-mah-20000-mah-40000-mah-i470392823-s2218761224.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Store sky",
+    "Product Name": "66W Super Fast Charge Power Bank 20000mAh - Power Bank - Fast Charging Power Bank - power bank 20000 mah fast charging - power bank 40000 mah - Best Portable Charger for Fast Charging And Portable External Battery Fast Charger"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "6 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 8 May"
+        },
+        "2218761224": {
+            "During Time": "6 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "<strong>Product Description:</strong>\\nStay powered up on the go with our 66W Super Fast Charge Power Bank. With a capacity of 20000mAh, this portable charger offers reliable and efficient charging for your devices. Featuring super-fast charging capabilities, it can charge your devices at lightning speed, making it ideal for busy lifestyles. Whether you're traveling, commuting, or simply on the move, this power bank is your go-to solution for staying connected.",
+    "highlights": [
+        "Capacity: 20000mAh",
+        "Charging Output: 66W",
+        "Compatibility: Compatible with most smartphones, tablets, and other USB-powered devices"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-42%%",
+            "Rs. 4999",
+            "Rs. 2880"
+        ],
+        [
+            "-52%%",
+            "Rs. 9999",
+            "Rs. 4790"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/20-rpp-622-pd-qc-10-mah-i471516560-s2225285399.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Lahorepk online store",
+    "Product Name": "Remax Rpp-622 20w+22.5w Pd+QC Fast Charge Power Bank 10000mah Black"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2225285399": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Remax Rpp-622 20w+22.5w Pd+QC Fast Charge Power Bank 10000mah Black -",
+    "highlights": [
+        "Remax Rpp-622 20w+22.5w Pd+QC Fast Charge Power Bank 10000mah Black -Detail:PRODUCT DESCRIPTIONBattery Capacity: 10000mahInput Voltage:5V-3A / 9V-2A / 12V-1.5ASupported Protocols: PD3.0 PD2.0 QC3.0 QC2.0 Apple 2.4A BC1.2Output Voltage:Usb1 / USB2: 4.5V-5A / 5V-4.5A / 5V-3A / 9V-2A / 12V-1.5A 22.5W (Tối Đa)Support For Collaborative Device: QC3.0 QC2.0 FCP SCP AFC Apple 2.4A BC1.2 VOOCType-C Port Output: 5V-3A / 9V-2.22A / 12V-1.67A 20W (Max)Collaboration Tool Support: PD3.0, PD2.0, QC3.0, QC2.0, Apple 2.4A, BC1.2Total Output: 5V-3A (Max.)Loại-C: 5V-3A / 9V-2A / 12V-1.5ASupported Protocols: PD3.0 PD2.0 QC3.0 QC2.0 Apple 2.4A BC1.2Usb1 / USB2: 4.5V-5A / 5V-4.5A / 5V-3A / 9V-2A / 12V-1.5A 22.5WSupported Protocols: QC3.0 QC2.0 FCP SCP AFC Apple 2.4A BC1.2 VOOCType-C Port Output: 5V-3A / 9V-2.22A / 12V-1.67A 20W (Max)Supported Protocols: PD3.0 PD2.0 QC3.0 QC2.0 Apple 2.4A BC1.2Total Output: 5V-3A (Max.)Product Selling Point:The Type-C Port Supports Two-Way Fast Charging And PD20W Output.Multi-Compatible 22.5W Super Fast Charger, (Huawei P30 Pro / Mate30 Super Fast Charger, Fully Charged In 60 Minutes)Large Screen LED Digital Display Shows Battery Level At A Glance, V0 Fireproof Case, With Simple And Fashionable Appearance.High Quality And High Density Battery Cell, Not Hot, Stable Performance."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 2650"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
