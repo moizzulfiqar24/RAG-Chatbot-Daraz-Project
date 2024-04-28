@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/100-45-c-c-pd-i264573538-s2027459853.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ZI COLLECTION",
+    "Product Name": "100% Original Samsung 45W Super Fast Charger with Type C to Type C Cable (Global Certified Charger) Pd Charger For all Mobile Phone"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2027459853": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Samsung Charger",
+        "45W Charger",
+        "Premium Quality",
+        "Fast Type C to Type C Cable",
+        "50% in just 30 Minutes Guaranteed"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-22%%",
+            "Rs. 2250",
+            "Rs. 1750"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "82%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

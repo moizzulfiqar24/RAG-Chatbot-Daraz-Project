@@ -1,0 +1,76 @@
+{
+    "URL": "https://www.daraz.pk/products/45-usb-c-s22-s21-s20-13-i348629685-s1777585194.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "UGREEN",
+    "Seller Name": "Ugreen",
+    "Product Name": "UGREEN 45W GaN Charger with Dual USB Type C Ports Fast Charging for iPad Pro iPad mini SAMSUNG S23 S22 S21 S20 iPhone 13 pro max"
+}
+
+{
+    "Color Family": [
+        "EU Plug",
+        "US Plug"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1777585194": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Ugreen",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1822865033": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Ugreen",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "45W Max Charging: Either USB-C port outputs up to 45W to your MacBook Air M2 2022 Go from 0% to 72% within an hour.",
+        "Dual-Port Simultaneous Charge: Charge your iPhone 14 and iPad Air fast and simultaneously.",
+        "One Charger, Any Device: This 45W dual usb c charger is compatible with Macbook Air, iPad Pro, iPhone 14-8 Series, Samsung S22 Ultra-S10 Series, Steam Deck, Apple Watch Ultra, Apple Watch 8 and more. NOTE: To achieve a 45W charge for the S22 Ultra, please use a 5A USB C to C cable.",
+        "Next-Gen Safety: Ugreen's Power Dispenser System intelligently adjusts power output protecting device battery. Multiple safety systems also protect devices from overheating, overcharging, and over-voltage.",
+        "Tiny Charger, Power Packer: Small as an iPhone camera and super lightweight (3.35oz), with a standard voltage range of 100-240V, this 2 ports charger is the perfect companion for the commuter and globetrotter."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 4899"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "94%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

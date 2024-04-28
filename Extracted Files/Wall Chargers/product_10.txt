@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/baseus-30w-gan5-type-c-fast-charging-charger-for-iphone-14-pro-max-samsung-s22-huawei-xiaomi-realme-eu-i459279703-s2176729127.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "BASEUS",
+    "Seller Name": "Baseus Official Store",
+    "Product Name": "Baseus 30W GaN5 Type C Fast Charging Charger for iPhone 14 pro max SAMSUNG S22 Huawei Xiaomi Realme EU"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2176729127": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "2176729128": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Baseus Official Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Baseus 30W GaN5 Type C Fast Charging Charger for iPhone 14 pro max SAMSUNG S22 Huawei Xiaomi Realme EU"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-23%%",
+            "Rs. 5043",
+            "Rs. 3879"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "2 Years Brand Warranty",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

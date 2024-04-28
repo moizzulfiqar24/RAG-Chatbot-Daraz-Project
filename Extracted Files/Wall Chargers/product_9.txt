@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/vooc-i468945316-s2214697221.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FMT Accessories..",
+    "Product Name": "Super Vooc High Quality Fast Charger Fast charging Adaptor | Fast Charging | High Speed"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2214697221": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Introducing the Super Vooc High Quality Fast Charger Adaptor, designed for efficient and rapid charging. With a power output of 12v and 1 port, this charger ensures high-speed charging for your mobile devices. Compatible with a wide range of mobiles and tablets, this wall charger is a reliable addition to your tech accessories. Experience the convenience of fast charging without compromising on quality with this Super Vooc charger.",
+    "highlights": [
+        "Step 1:",
+        "- Product Title: Super Vooc High Quality Fast Charger",
+        "- Power Output (W): 12v",
+        "- Ports: 1",
+        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers",
+        "- Additional Keywords: Fast charging, High Speed",
+        "• Super Vooc Fast Charger with 12v power output.",
+        "• High quality design for fast and efficient charging.",
+        "• Single port for convenient charging on the go.",
+        "• Ideal for mobiles and tablets, ensuring high-speed charging."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-68%%",
+            "Rs. 1050",
+            "Rs. 340"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "95%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

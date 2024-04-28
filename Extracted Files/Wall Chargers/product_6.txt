@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/a801-20-5-3a-pd-pd-i487805844-s2293575669.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Online Hub Lahore",
+    "Product Name": "Aspor A801 High Performance Charging Head 20W Compatible with Multiple Systems Adapter 5V 3A Pd Ports Pd Fast Charger With Cable"
+}
+
+{
+    "Color Family": [
+        "w"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2293575669": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Usb Wall Charger, Universal Adapter, Fast Charger, Universal Adapter",
+        "Usage:Mobile Phone",
+        "Material:ABS",
+        "Protection:Short Circuit Protection, Over-Charging, Overvoltage",
+        "Private Mold:Yes",
+        "Function:Qi, QC3.0",
+        "Brand Name:ASPOR",
+        "Model Number:A801",
+        "Input Voltage And Current:12v/4a",
+        "Output Voltage And Current:5V/4A",
+        "Output Power:20W"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-20%%",
+            "Rs. 1500",
+            "Rs. 1200"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "80%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

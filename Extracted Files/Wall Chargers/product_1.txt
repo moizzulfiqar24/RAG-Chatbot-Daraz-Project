@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/-i487604757-s2291593504.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Al Fajaar",
+    "Product Name": "YOOBAO BRANDED CHARGING ADAPTER WITH ANDRIOD HIGH SPEED DATA CABLE"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "The YOOBAO Branded Charging Adapter with Android High-Speed Data Cable, model 3243, is a convenient and portable wall charger with a power output of 5V / 2.0A, ensuring efficient charging for your mobile devices. It is equipped with one port and is compatible with a wide range of Android devices, providing reliable and fast charging. The high-speed data cable enables quick data transfer, making it a versatile accessory for mobile and tablet users. This charging solution keeps you powered up and connected, offering reliable and efficient performance for your devices.",
+    "highlights": [
+        "• YOOBAO branded charging adapter with high speed data cable ensures reliable and fast charging for your devices.",
+        "• The 5V / 2.0A power output provides efficient charging, saving you time and keeping your devices ready to use.",
+        "• Model 3243 features 1 port for convenient use, making it easy to connect and charge your devices.",
+        "• This adapter is compatible with Android devices, allowing for fast and seamless data transfer.",
+        "• It is ideal for mobiles and tablets that require wall charging, providing a convenient and reliable power source."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-44%%",
+            "Rs. 899",
+            "Rs. 499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

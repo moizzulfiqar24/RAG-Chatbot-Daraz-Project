@@ -1,0 +1,76 @@
+{
+    "URL": "https://www.daraz.pk/products/20-14-14-13-13-12-11-x-xs-xs-pd-usb-c-mfi-30-i451396133-s2146535593.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "A one store.",
+    "Product Name": "Orignal iphone charger 20W iphone charger for Iphone 14 14 Pro 14 Pro Max 13 Pro 13 Pro Max 12 Pro 11 Pro X Xs Xs max Pd Usb C Charger For Iphone Super fast charging (mfi certified) Orignal 3.0"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2146535593": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Orignal Quality product Best 20 Watt",
+        "Super Fast PD Charger with Data cable",
+        "Wall Charger for Mobile Phones",
+        "Fast Charger for iPhone",
+        "Power: 18 / 20Watt",
+        "Super Fast Charging",
+        "Safe Charging",
+        "Compact and Portable",
+        "Supreme Quality",
+        "Input Voltage: 100V – 240V",
+        "Color: White",
+        "Wall Charger",
+        "Travel Adapter"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-8%%",
+            "Rs. 1199",
+            "Rs. 1099"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

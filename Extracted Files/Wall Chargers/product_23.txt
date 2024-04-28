@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/20-usb-c-c-i-15-14-c-i461135818-s2185461960.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Kings_Communication",
+    "Product Name": "Apple 20W USB-C Power Adapter iPhone Charger with Fast Charging Capability, Type C Wall Charge I Phone 15 Pro|Max | IPhone 14 Pro| Max with free Type C to lightening Cable - Iphone charger with cable Quality product charger cable"
+}
+
+{
+    "Color Family": [
+        ".Charger with Cable"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2185461960": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "The Apple 20W USB-C Power Adapter iPhone Charger is an excellent choice for those who require a fast charge for their iPhone 15 Pro/Max or iPhone 14 Pro/Max. This Type C Wall Charger is equipped with a single port that is compatible with both mobiles and tablets, ensuring that your phone is charged quickly and efficiently. Its sleek design makes it easy to carry around and use on-the-go, making it a must-have for anyone who needs to charge their phone quickly. Moreover, this charger is made with high-quality materials, including a durable casing and advanced circuitry, ensuring that it is long-lasting and reliable. The charger's compatibility with both mobiles and tablets makes it a versatile option for all your charging needs. Additionally, the charger's advanced safety features, including over-voltage protection and temperature control, ensure that your device is protected while charging. With its exceptional features and advanced technology, this charger is the perfect solution for all your charging needs, whether you're at home, in the office, or on-the-go.",
+    "highlights": [
+        "• The Apple 20W USB-C Power Adapter is an excellent solution for quickly charging your devices. It is designed to work seamlessly with the iPhone 15 Pro/Max and iPhone 14 Pro/Max, ensuring that you get the best possible charging experience.",
+        "• With its Type C Wall Charger and 1 port, you can easily charge your mobiles and tablets. The adapter is also compatible with other USB-C enabled devices, making it a versatile charging solution.",
+        "• This high-quality product is made by a trusted brand, ensuring that you get a reliable and durable charging experience. The adapter is built to last, so you can rely on it for all your charging needs.",
+        "• The compact and lightweight design of the adapter makes it easy to carry with you wherever you go. It is perfect for use at home, in the office, or on the go.",
+        "• The adapter also features advanced safety features, including over-voltage protection, over-current protection, and short-circuit protection, ensuring that your devices are always safe while charging.",
+        "• The Apple 20W USB-C Power Adapter is a must-have for those who are always on the go. Its compact and lightweight design makes it easy to carry in your bag or pocket, so you can charge your devices anytime, anywhere.",
+        "• With its Type C Wall Charger and 1 port, you can charge your mobiles and tablets quickly and efficiently. The adapter is also compatible with other USB-C enabled devices, making it a versatile charging solution for all your devices.",
+        "• This high-quality product is made by a trusted brand, ensuring that you get a reliable and durable charging experience. The adapter is built to last, so you can rely on it for all your charging needs, whether you're at home, in the office, or on the go.",
+        "• The adapter's advanced safety features, including over-voltage protection, over-current protection, and short-circuit protection, ensure that your devices are always safe while charging. You can charge your devices with peace of mind, knowing that they are protected from any potential harm."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-53%%",
+            "Rs. 7650",
+            "Rs. 3599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

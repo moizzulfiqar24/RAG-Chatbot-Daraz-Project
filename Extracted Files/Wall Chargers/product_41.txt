@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/ezone-original-quality-charging-adapter-for-iphone-5w-wall-charger-compatible-for-iphone-compatible-iphone-charger-5w-i153246203-s1317926958.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "e-Zone",
+    "Product Name": "EZone Original Quality Charging Adapter for iPhone 5W | Wall Charger Compatible for iPhone | Compatible iPhone Charger - 5W"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1317926958": [
+            {
+                "During Time": "4 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<span style=\\\"font-family:helvetica\\\"></span>",
+    "highlights": [
+        "Premium Quality 5W Adapter for iPhone 5/ 6/ 7/ 8/ X Series",
+        "Standard Speed for iPhone Charger",
+        "Pocket Size for iPhone Charger with Over Voltage/ Over Current/ Short Circuit Protection",
+        "Input = 220VAC US Plug",
+        "Output Source = USB-5W (5V - 1A)",
+        "Compatible with iPhone, providing efficient and reliable charging."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-26%%",
+            "Rs. 490",
+            "Rs. 365"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

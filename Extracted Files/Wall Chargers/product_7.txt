@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/2-s7s7-s6-j3-i438943988-s2125232716.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "J.R Mall",
+    "Product Name": "Samsung Fast Charger 2-Amp Adapter with for Galaxy S7|S7 Edge|S6|Edge|Edge+|Note Edge| J3 & Other Smartphone Only Adopter - White"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2125232716": [
+            {
+                "During Time": "4 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Charge all Micro USB devices",
+        "USB 2.0-amp charger quickly charges",
+        "Compatible with Samsung Phones",
+        "Voltage: 100 ~ 240V, 50~60Hz",
+        "Output: DC9V--1.67Amp or DC5V--2.0Amp",
+        "AUTHENTIC OFFICAL SAMSUNG CHARGER",
+        "AUTHENTIC OFFICAL SAMSUNG CHARGER",
+        "POWER - Input 100-240 V and Output 9V 1.67A or 5V 2.0A",
+        "Provides 2.0 Amp of power to your phone while simultaneously charging your phone's battery.",
+        "Charge your phone from a wall outlet via AC adapter and Micro USB cable."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-38%%",
+            "Rs. 400",
+            "Rs. 250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

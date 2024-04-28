@@ -1,0 +1,115 @@
+{
+    "URL": "https://www.daraz.pk/products/31a-portable-candy-color-wall-mobile-phone-charger-3-port-usb-travel-charging-adapter-i341765427-s1759311503.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SmarThere",
+    "Product Name": "3.1A Portable Candy Color Wall Mobile Phone Charger 3-Port USB Travel Charging Adapter"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Rose Red"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1759311504": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1759311505": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1759311506": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1759311507": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1759311503": {
+            "During Time": "14 - 23 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "Description:<br/> Brand New High Quality.<br/> Portable, ideal for travel.<br/> High efficiency and low energy consumption.<br/> Provides standard USB 5V at up to 3.1A(max).<br/> Great for charging Cell phones, cameras, MP3 players.<br/> Compatible for iPad, iPhones and iPod and other smart phones<br/> 3 USB power ports charge up to 3 mobile devices simultaneously through just one wall socket.<br/> NOTE: 3.1A=Port 1 + Port 2 + Port 3",
+    "highlights": [
+        "Hello, Welcome To Come To My Shop!",
+        "Our shop guarantees that all products are of high quality, and there is a guarantee of authenticity. There are more good-looking and affordable things waiting for you!"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-44%%",
+            "Rs. 852",
+            "Rs. 476"
+        ],
+        [
+            "-45%%",
+            "Rs. 852",
+            "Rs. 471"
+        ],
+        [
+            "-44%%",
+            "Rs. 852",
+            "Rs. 479"
+        ],
+        [
+            "-47%%",
+            "Rs. 863",
+            "Rs. 455"
+        ],
+        [
+            "-47%%",
+            "Rs. 852",
+            "Rs. 455"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/25-usb-pd-c-c-10-10-10-s10s20s20-i336949612-s1744096793.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "THE_eSHOP",
+    "Product Name": "Original Samsung Super Fast Charger 25W + Type C Data Cable Pd Charger For Galaxy S21 S20 | Note 20 Ultra"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "…"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1744096793": [
+            {
+                "During Time": "4 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "samsung super fast charger 25w with data cable",
+        "super fast charger samsung with data cable",
+        "samsung super fast charger with data cable",
+        "samsung super fast charger type c with data cable",
+        "samsung super fast charger 25w for with data cable",
+        "samsung 25 watt super fast charger with data cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-67%%",
+            "Rs. 4500",
+            "Rs. 1499"
+        ],
+        [
+            "-80%%",
+            "Rs. 100",
+            "Rs. 20"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

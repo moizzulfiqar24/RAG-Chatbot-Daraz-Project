@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/20w-1m-i487192619-s2287863943.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HYM Sales",
+    "Product Name": "Apple Iphone 20W Genuine Charger with 1M lightning Cable without box original as lot item compatible with Apple Devices"
+}
+
+{
+    "Color Family": [
+        "0"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2287863943": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend 3 items in certain area from HYM Sales",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Fast Data Transfer &amp; 3.0X Faster Charging:",
+        "With this USB-C to Lightning Cable, you could transfer data from your iPhone/iPad directly, The speed of data transfer is up to 480 Mbps.",
+        "Compared with 5W original charger, this 20W PD fast charger for iPhone could save more than 1.5 hour for you!"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-52%%",
+            "Rs. 2299",
+            "Rs. 1100"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/original-samsung-s21-s20-25w-super-fast-charger-super-adaptive-fast-pd-usb-c-charger-with-original-type-c-cable-for-samsung-galaxy-s21-uitra-s21-s20-fe-s10-s9-f12-f02s-m42-5g-f52-a72-a32-m62-m51-i459187107-s2205288840.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "US Store",
+    "Product Name": "Original Samsung S21 S20 25W Super Fast Charger | Super Adaptive Fast PD USB-C Charger With Original Type-C Cable For Samsung GALAXY S21 UItra S21 + S20 FE S10 S9 F12 F02S M42 5G F52 A72 A32 M62 M51"
+}
+
+{
+    "Color Family": [
+        "Black_"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2205288840": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/cee060da0825a01c4fca32a8b1d7adc5.jpg\\\"/>",
+    "highlights": [
+        "• Original Samsung 25W Super Fast Charger with Type-C Cable• Super Adaptive Fast PD USB-C Charger for Samsung GALAXY• Compatible with S21 UItra, S21 +, S20 FE, S10, S9• Also compatible with F12, F02S, M42 5G, F52, A72• Features 1 pd port and falls under Mobile Accessories category"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-44%%",
+            "Rs. 1800",
+            "Rs. 999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "86%",
+        "Ship on Time": "96%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

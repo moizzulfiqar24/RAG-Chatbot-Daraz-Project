@@ -1,0 +1,80 @@
+{
+    "URL": "https://www.daraz.pk/products/official-20w-iphone-pd-charger-3pin-plug-fast-iphone-charger-with-type-c-to-lightning-cable-i377706231-s1863860859.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Crowdstage.",
+    "Product Name": "Official 20W iPhone PD Charger - 3PIN Plug Fast iPhone Charger With Type-C to Lightning Cable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1863860859": [
+            {
+                "During Time": "4 - 9 day(s)",
+                "Fee": "Rs. 0",
+                "Promotion": "",
+                "Title": "Free Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "100% Original Apple Genuine Product 20W - USB C Power Adapter 3-Pin Folding Efficient charging &amp; long-lasting charging Electric Shock &amp; Overcharge protection100% Authentic Products.",
+        "Please Use Original iPhone Fast Charging Cable for better experiance which is attached with the Product. Thank You!",
+        "iPhone Models",
+        "iPhone 12 / 12 Pro / 12 Mini iPhone 11 Pro",
+        "iPhone 11 Pro Max",
+        "iPhone 11",
+        "iPhone XS",
+        "iPhone XS Max",
+        "iPhone XR",
+        "iPhone X",
+        "iPhone 8",
+        "iPhone 8 Plus",
+        "iPhone 7",
+        "iPhone 7 Plus",
+        "iPhone 6s",
+        "iPhone 6s Plus",
+        "iPhone 6"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-55%%",
+            "Rs. 5000",
+            "Rs. 2249"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
