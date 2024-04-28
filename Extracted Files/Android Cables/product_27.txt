@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/1-3-c-24a5a-usb-1-i487292822-s2293834859.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SHAH ELECTZONE",
+    "Product Name": "3 in 1 Fast charging data cable: Type C, iphone 2.4A|5A, and Micro USB; imported; length: 1 meter"
+}
+
+{
+    "Color Family": [
+        "Yellow"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 7 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Universal 3 in 1 Multi USB Charger Retractable Charging Cable for iPhone Mirco-USB Type-C3 in 1 TPU High flexible retractable USB charge cable for IOS Android Type C",
+        "CHARGER FOR iPhone 5 6 7 8 X iPad, type C and Android",
+        "Durable and Multi functional: Tangle-free Flat Noodle design,",
+        "3 in 1 Charging cable includes Micro USB, USB type C and liphone connector",
+        "Can charge your iPhone/Andriod phone at one time",
+        "Compatible with both Apple iOS and Android system devices:",
+        "including iPhone 7/ 7 plus /6 / 6 Plus / 5s / 5c / 5, iPad Air / Air 2,",
+        "iPad mini / mini 2 / mini 3, iPad (4th generation),",
+        "iPod nano (7th generation), and iPod touch (5th generation),",
+        "Samsung Galaxy S3/S4/S5/S6 Edge/Note/Tab,",
+        "HTC, Motorola, Nokia, LG, Blackberry,Sony, lenovo, Huawei and other android mobile devices.",
+        "USB Type C: Samsung Galaxy S9/S9+, Galaxy S8/S8+, OnePlus 3T/3/2, Google Pixel XL, LG G6/G5/V20/Nexus 5X,",
+        "Huawei P9/P10 Plus/Nexus 6P, HTC 10/U Ultra, Sony Xperia XZ Premium/X Compact, Asus ZenFone 3, Nintendo Switch and other USB-C devices. Universal Use Convenience: 1.2m/3.6 ft, No need to carry any other cable when you are in a car, office or traveling.",
+        "Brand SHAH ELECTZONE "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 600",
+            "Rs. 399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

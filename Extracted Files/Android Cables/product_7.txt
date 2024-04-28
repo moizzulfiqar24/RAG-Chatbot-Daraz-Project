@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-c-i408795296-s1959594095.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Shop of Gadgets",
+    "Product Name": "USB to Type C converter for Android Smartphones | OTG"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 1,000 from Shop of Gadgets",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 7 May"
+        }
+    }
+}
+
+{
+    "desc": "<b>USB to Type C converter for Android Smartphones | OTG converter</b>",
+    "highlights": [
+        " Compatibility: Android OTG Supported Devices.",
+        " Connect Android device with Flash Drives and External Hard Drive.",
+        " Connect Android device with gaming controller.",
+        "Connect Android device with keyboard, Mouse, Pen drive.",
+        "Connect Android device with Printer.",
+        "Connect and control Android device with DSLR cameras.",
+        "Directly transfer photos from DSLR to Android phones.",
+        "Connect Android device with Music instruments.",
+        "Record Audio directly to your Android Phone.",
+        "Connect Android device with Ethernet Cable.",
+        "Reverse Charge Your Android Phone"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-73%%",
+            "Rs. 199",
+            "Rs. 54"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

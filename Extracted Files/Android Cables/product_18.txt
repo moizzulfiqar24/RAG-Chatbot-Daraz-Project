@@ -1,0 +1,58 @@
+{
+    "URL": "https://www.daraz.pk/products/-i485464709-s2280408721.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Wonder gadgets & accessories",
+    "Product Name": "micro charging cable for android"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Micro USB Fast Charging Cable",
+        "Ultra Durable Cable",
+        "High Quality",
+        "Data Transfer",
+        "For All Smartphones"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-52%%",
+            "Rs. 212",
+            "Rs. 101"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

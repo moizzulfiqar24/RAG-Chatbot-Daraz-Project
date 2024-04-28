@@ -1,0 +1,79 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-usb-i468288581-s2237018824.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ICONIC Original",
+    "Product Name": "Infinix Original Data Cable Micro USB High-Speed USB Cable - Fast Charging Cable For Android Mobile Phones"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2237018824": [
+            {
+                "During Time": "7 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "SPEED UP TO 40%",
+        "HIGH PURITY COPPER",
+        "UPGRADE CHIP",
+        "2.4A USE CHARGING",
+        "FAST DATA TRANSFER",
+        "QUICK CHARGE",
+        "FAST CHARGE &amp; SYNC: Ensure a maximum charging speed up to 3.1A, charge faster than most standard cables and work better for tablets and quick charge devices. Great performance ensures your devices syncs and charge simultaneously with up to 480Mb/s transferring speed.",
+        "Designed to connect micro-USB devices including smartphone to a USB charger or USB Port",
+        "Our cables are made with high quality, extra thick solid copper wire, which facilitates faster charge and data transmission. This cable allows you to connect your smartphone to your laptop/PC in order to charge your phone and sync / exchange data simultaneously.",
+        "[Strong &amp; Tangle Free Design] Made up of premium quality material. Strong TPE Material with soft unbreakable cable made of environment-friendly TPE material, not easy to broken.",
+        "Ideal for charging android phones and tablets or connecting pc peripherals such as hard drives, printers, and more"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-70%%",
+            "Rs. 230",
+            "Rs. 68"
+        ],
+        [
+            "Rs. 3%",
+            "Rs. 230",
+            "Rs. 68"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "75%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

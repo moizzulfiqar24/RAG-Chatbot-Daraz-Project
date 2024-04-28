@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/4-i418045204-s1981434002.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "The Value Bazaar",
+    "Product Name": "Pack of 4 - Spiral Silicone Cable Protector For Android | Iphone | Headphones Earphones"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1981434002": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Material Silicone.",
+        "Shape: Spiral Cable Protector / Winder",
+        "Can Be Used On Any Iphone / Andoird / Headphones",
+        "Easy to Install and Replace.",
+        "Bright Colors",
+        "Pack Includes 4 Spiral Protectors / Winders."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 99",
+            "Rs. 65"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "91%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

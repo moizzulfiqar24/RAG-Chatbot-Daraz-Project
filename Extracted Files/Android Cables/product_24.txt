@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-htc-2-i2344306-s10481616.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "zoombox (Lahore)",
+    "Product Name": "Micro USB Fast Charging Phone Data Charger Cable for Samsung Android HTC 2 Meter"
+}
+
+{
+    "Color Family": [
+        "…"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "10481616": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "100% Brand New and High Quality !",
+        "USB 2.0 A MALE to B MICRO USB DATA CHARGER LEAD CABLE.",
+        "Data Cable (USB/microUSB)  Description Keep your data up to date and battery charged with an USB cable with microUSB connector to sync and charge."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "86%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/6a-8600-i481047397-s2271594881.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Bhai Bhai Traders.",
+    "Product Name": "Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2271594881": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "- Product Title: Orignal 6A Fast Charging 8600 Android Data Cable\\n- Model: 8600\\n- Connection: MicroUSB\\n- Fast Charging\\n- Android Data Cable\\n- MicroUSB\\n- Data Transfer\\n• Original 6A Fast Charging for all Android Phones.\\n• MicroUSB connection for efficient data transfer.\\n• 1 meter cable length for convenient use.\\n• Fast charging capability for quick power-ups.\\n• Compatible with a wide range of Android devices.</pre><pre>Introducing our 6A Fast Charging Cable, the ultimate solution for swift power-ups and seamless data transfer for your smartphone. Engineered for Android systems and equipped with Android 8600 USB compatibility, this sleek black cable ensures rapid charging and reliable data transmission.\\nCrafted with durable materials, this cable guarantees long-lasting quality, making it an ideal choice for all mobile phones. Whether you're transferring data or charging your device, trust our Fast Charging Cable to deliver unparalleled performance every time.\\nSpecifications:\\n•\\tCharging Speed: 6A\\n•\\tUSB Type: 8600\\n•\\tColor: White\\n•\\tFunctionality: Fast Charging, Data Transfer\\n•\\tCompatibility: Android smartphones and devices with Android 8600 USB equipment\\nUpgrade your charging experience with our Fast Charging Cable today!\\n\\n</pre><br/><div></div>\",\"highlights\":\"<ul class=''><li class=''>- Product Title: Orignal 6A Fast Charging 8600 Android Data Cable- Model: 8600- Connection: MicroUSB- Fast Charging- Android Data Cable- MicroUSB- Data Transfer• Original 6A Fast Charging for all Android Phones.• MicroUSB connection for efficient data transfer.• 1 meter cable length for convenient use.• Fast charging capability for quick power-ups.• Compatible with a wide range of Android devices.Introducing our 6A Fast Charging Cable, the ultimate solution for swift power-ups and seamless data transfer for your smartphone. Engineered for Android systems and equipped with Android 8600 USB compatibility, this sleek black cable ensures rapid charging and reliable data transmission.Crafted with durable materials, this cable guarantees long-lasting quality, making it an ideal choice for all mobile phones. Whether you're transferring data or charging your device, trust our Fast Charging Cable to deliver unparalleled performance every time.Specifications:•Charging Speed: 6A•USB Type: 8600•Color: White•Functionality: Fast Charging, Data Transfer•Compatibility: Android smartphones and devices with Android 8600 USB equipmentUpgrade your charging experience with our Fast Charging Cable today!</li></ul>\",\"link\":\"https://www.daraz.pk/products/orignal-copper-wire-6a-fast-charging-8600-android-data-cable-for-all-android-phones-data-transfer-oppo-vivo-etc-i481047397-s2271594881.html\",\"mallTag\":false,\"rating\":{\"score\":0.0,\"total\":0},\"rightImgRatio\":1.9,\"shareTitle\":\"Share Product\",\"title\":\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\",\"wishTitle\":\"Add to Wishlist\",\"wishTitle_added\":\"Added to Wishlist\"},\"qna\":{\"haveMainSellerAnswers\":false,\"hidden\":false,\"paging\":{\"pageSize\":3,\"totalItems\":0},\"params\":{\"mainSeller\":{\"itemId\":\"481047397\",\"sellerId\":\"6005010126106\",\"skuId\":\"2271594881\"}},\"summaryIcon\":\"https://img.alicdn.com/imgextra/i4/O1CN01ev6l3r1UAVoEUiXkp_!!6000000002477-2-tps-80-80.png\",\"summaryTitle\":\"Ask questions about the product.\",\"totalItems\":0,\"totalItemsByMain\":0,\"totalItemsByOthers\":0},\"tabHeading\":\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\",\"htmlRender\":{\"msiteShare\":{\"deepLink\":\"daraz://pk/d?itemId=481047397&ps=481047397_PK-2271594881&skuId=2271594881\",\"description\":\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\",\"facebookFallbackValue\":false,\"image\":\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\",\"meta\":\"<meta name=\\\"og:url\\\" content=\\\"https://www.daraz.pk/products/orignal-copper-wire-6a-fast-charging-8600-android-data-cable-for-all-android-phones-data-transfer-oppo-vivo-etc-i481047397-s2271594881.html/\\\" /><meta name=\\\"og:title\\\" content=\\\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\\\" /><meta name=\\\"og:type\\\" content=\\\"product\\\" /><meta name=\\\"og:description\\\" content=\\\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\\\" /><meta name=\\\"og:image\\\" content=\\\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\\\" />\",\"showFacebookFallback\":false,\"title\":\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\",\"type\":\"product\",\"url\":\"https://www.daraz.pk/products/orignal-copper-wire-6a-fast-charging-8600-android-data-cable-for-all-android-phones-data-transfer-oppo-vivo-etc-i481047397-s2271594881.html\"}},\"skuInfos\":{\"0\":{\"categoryId\":\"9537\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Cables & Converters\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-27%\",\"pdt_photo\":\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":481047397,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Bhai Bhai Traders.\",\"pdt_simplesku\":2271594881,\"pdt_name\":\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\",\"page\":{\"regCategoryId\":\"011101000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=481047397_PK-2271594881&_p_prod=481047397&_p_sku=2271594881&_p_slr=6005010126106\"},\"supplier_id\":6005010126106,\"pdt_price\":\"Rs. 149\"},\"image\":\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\",\"inWishlist\":false,\"itemId\":\"481047397\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-27%\",\"originalPrice\":{\"text\":\"Rs. 149\",\"value\":149},\"salePrice\":{\"text\":\"Rs. 109\",\"value\":109},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":149,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005010126106\",\"skuId\":\"2271594881\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]},\"2271594881\":{\"bottomTagUrls\":[],\"categoryId\":\"9537\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Cables & Converters\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-27%\",\"pdt_photo\":\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":481047397,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Bhai Bhai Traders.\",\"pdt_simplesku\":2271594881,\"pdt_name\":\"Orignal Copper Wire 6A Fast Charging 8600 Android Data Cable for all Android Phones Data Transfer Oppo Vivo etc\",\"page\":{\"regCategoryId\":\"011101000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=481047397_PK-2271594881&_p_prod=481047397&_p_sku=2271594881&_p_slr=6005010126106\"},\"supplier_id\":6005010126106,\"pdt_price\":\"Rs. 149\"},\"image\":\"https://static-01.daraz.pk/p/680303aedff75d1e7ebd2b992f54e010.jpg\",\"inWishlist\":false,\"itemId\":\"481047397\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-27%\",\"originalPrice\":{\"text\":\"Rs. 149\",\"value\":149},\"salePrice\":{\"text\":\"Rs. 109\",\"value\":109},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":149,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005010126106\",\"skuId\":\"2271594881\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]}},\"deliveryOptions\":{\"2271594881\":[{\"badge\":false,\"dataType\":\"delivery\",\"deliveryWorkTimeMax\":\"2024-05-08T15:00+05:00[GMT+05:00]\",\"deliveryWorkTimeMin\":\"2024-05-04T00:00+05:00[GMT+05:00]\",\"description\":\"Enjoy delivery of  your order directly to the doorstep! <br><br><a href=\\\"https://click.daraz.pk/e/_CVFo0H\\\" target=\\\"_blank\\\">Find out more</a>\",\"duringTime\":\"6 - 10 day(s)\",\"extParam\":{},\"fee\":\"Rs. 145\",\"feeValue\":145.0,\"hasTip\":true,\"icon\":\"https://img.alicdn.com/imgextra/i3/O1CN01kzfimb1YwNiJFCQvh_!!6000000003123-2-tps-80-56.png\",\"priority\":4,\"title\":\"Standard Delivery \",\"titleHeadBold\":2,\"titleTile\":\"4 May - 8 May\",\"type\":\"standard\"},{\"badge\":true,\"dataType\":\"service\",\"description\":\"\",\"extParam\":{},\"feeValue\":0.0,\"hasTip\":true,\"priority\":2147483647,\"title\":\"Cash on Delivery Available\",\"titleHeadBold\":0,\"type\":\"COD\"}]},\"warranties\":{\"2271594881\":[{\"dataType\":\"returnPolicy\",\"description\":\"<p>Change of mind is not applicable as a Return Reason for this product due to one or more of the following reasons:",
+    "highlights": [
+        "- Product Title: Orignal 6A Fast Charging 8600 Android Data Cable- Model: 8600- Connection: MicroUSB- Fast Charging- Android Data Cable- MicroUSB- Data Transfer• Original 6A Fast Charging for all Android Phones.• MicroUSB connection for efficient data transfer.• 1 meter cable length for convenient use.• Fast charging capability for quick power-ups.• Compatible with a wide range of Android devices.Introducing our 6A Fast Charging Cable, the ultimate solution for swift power-ups and seamless data transfer for your smartphone. Engineered for Android systems and equipped with Android 8600 USB compatibility, this sleek black cable ensures rapid charging and reliable data transmission.Crafted with durable materials, this cable guarantees long-lasting quality, making it an ideal choice for all mobile phones. Whether you're transferring data or charging your device, trust our Fast Charging Cable to deliver unparalleled performance every time.Specifications:•Charging Speed: 6A•USB Type: 8600•Color: White•Functionality: Fast Charging, Data Transfer•Compatibility: Android smartphones and devices with Android 8600 USB equipmentUpgrade your charging experience with our Fast Charging Cable today!"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-27%%",
+            "Rs. 149",
+            "Rs. 109"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
