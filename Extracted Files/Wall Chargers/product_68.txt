@@ -1,56 +1,72 @@
 {
-    "URL": "https://www.daraz.pk/products/airyesh-qc-30-fast-charger-with-4-usb-port-3a-30w-quick-charge-for-all-brands-black-i486860224-s2285780537.html?search=1"
+    "URL": "https://www.daraz.pk/products/vooc-mi-120-i487032380-s2287208133.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "AIRYESH ELECTRONICS (SMC-PRIVATE )LIMITED",
-    "Product Name": "AirYesh QC 3.0 Fast Charger With 4 USB Port 3A 30W Quick Charge For All Brands - Black"
+    "Seller Name": "FMT Accessories..",
+    "Product Name": "Super Vooc High Qulity Quick Charge  Original Premium Quality | Real images attached adaptor Mi 120 fast massage good quality"
 }
 
 {
     "Color Family": [
-        "Black"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2287208133": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Introducing the Super GIONEE Quick charge wall charger from Real_me, designed to deliver premium quality and efficient charging for your mobile devices. With a power output of 5V / 2.0A and a single port, this charger ensures fast and reliable charging. Its sleek design and real images attached make it a stylish and practical addition to your mobile accessories collection. Compatible with a wide range of devices, this wall charger is a must-have for those seeking quick and convenient power solutions.",
     "highlights": [
-        "4 USB Port",
-        "3A 30W total 4 port Output",
-        "Red port FAST CHARGING OUTPUT 3A 5V",
-        "Red Port is Fast Charging",
-        "The other 3 ports are Normal Charging",
-        "Your phone must support fast charging for fast charging",
-        "If your Phone Support VOOC or Flash charge then this charger will not charge your Phone Fast",
-        "Qualcomm QC 3.0",
-        "Supports Every Device.",
-        "Circuit Protection",
-        "Intelligent Output",
-        "Over Heat Protection",
-        "Tested Before Shipping"
+        "- Super Vooc",
+        "- Quick charge",
+        "- Real_me",
+        "- Original",
+        "- Premium quality",
+        "- Real images",
+        "- Wall Chargers",
+        "• Super Vooc Quick charge for fast and efficient charging.",
+        "• Premium quality with real images for authenticity.",
+        "• 5V / 2.0A power output for reliable performance.",
+        "• Compact design with 1 port for convenience.",
+        "• Compatible with Real_me and other devices.",
+        "• Ideal for mobiles and tablets in need of quick charging.",
+        "• Super  Vooc Quick charge for fast and efficient charging.",
+        "• Premium quality with real images for authenticity.",
+        "• 5V / 2.0A power output for reliable performance.",
+        "• Compact design with 1 port for convenience.",
+        "• Compatible with Real_me and other devices.",
+        "• Ideal for mobiles and tablets in need of quick charging."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-33%%",
-            "Rs. 1800",
-            "Rs. 1199"
+            "-36%%",
+            "Rs. 750",
+            "Rs. 480"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Ship on Time": "100%",
+        "Ship on Time": "90%",
         "Chat Response Rate": "Not enough data"
     }
 }

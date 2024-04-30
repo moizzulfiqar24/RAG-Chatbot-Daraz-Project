@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/-i488823313-s2299788666.html?search=1"
+    "URL": "https://www.daraz.pk/products/2usb-st-95-i482846596-s2272015058.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "AL-Zarar's-ShoP",
-    "Product Name": "Fast Mobile Charger Qualcomm quick charger support"
+    "Seller Name": "MusaTraders.Tech",
+    "Product Name": "2USB Charger ST-95"
 }
 
 {
@@ -16,22 +16,44 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "0": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Fast Mobile Charger Qualcomm quick charger support- Express delivery: Peshawar- Category path: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Power output (W): 5V / 2.0A- Ports: Not SpecifiedStep 2:- Additional Keywords: NoneStep 3:• Fast Qualcomm quick charger with 5V / 2.0A power output.• Compatible with various mobile devices for quick charging.• Express delivery available in Peshawar for convenience.Step 4:- N/AStep 5:- N/A"
+        "Step 1:",
+        "- Product title: 2USB Charger ST-95",
+        "- Category: Mobile Accessories, Wall Chargers",
+        "- Model: CHST95",
+        "- Ports: 2",
+        "Step 2:",
+        "- Additional Keywords: None",
+        "Step 3:",
+        "• 2USB Charger ST-95 with 2 ports for efficient charging.",
+        "• Model CHST95, suitable for mobiles and tablets.",
+        "• Wall charger for convenient charging at home or office.",
+        "Step 4:",
+        "- No false information found.",
+        "Step 5:",
+        "- Return the product highlights to the user."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 379"
+            "-48%%",
+            "Rs. 1450",
+            "Rs. 750"
         ]
     ]
 }

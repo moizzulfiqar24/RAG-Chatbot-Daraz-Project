@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/20-w-usb-c-i488238750-s2296497585.html?search=1"
+    "URL": "https://www.daraz.pk/products/15-pd-i487971194-s2295014850.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Toor Techs",
-    "Product Name": "Apple 20-W USB-C Power Adapter Redington"
+    "Seller Name": "M. AHMED'S COLLECTIONS",
+    "Product Name": "PD Charger for I Phone 15 Pro Max"
 }
 
 {
@@ -16,22 +16,32 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2295014850": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "This USB-C 20W Power Adapter with folding pins is the perfect solution for charging your mobile devices quickly and efficiently. With a power output of 20W, this charger is capable of charging your devices in no time. The Redington brand ensures that you are getting a high-quality product that is built to last. The charger comes with one port, making it easy to charge your device without any hassle. This charger is compatible with a wide range of mobile devices, making it a versatile addition to your collection of mobile accessories. The folding pins make it easy to store and transport, making it perfect for travel."
+        "Orginal iPhone_ Fast Charger 35w USB C Power Adapter Wall Charger, iPhone_ Charger 35 Watt With Type C Cable. Original 35W PD Charger For Iphone 15 Pro Max_, 35 Watt iPhone_ Charger Original 35W Iphone_ Chargers, IPhone_ PD Charger Type C."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-20%%",
-            "Rs. 2300",
-            "Rs. 1850"
+            "-17%%",
+            "Rs. 5000",
+            "Rs. 4130"
         ]
     ]
 }

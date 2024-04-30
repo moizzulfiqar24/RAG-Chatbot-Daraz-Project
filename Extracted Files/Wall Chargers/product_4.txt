@@ -1,48 +1,54 @@
 {
-    "URL": "https://www.daraz.pk/products/-i487485517-s2289976726.html?search=1"
+    "URL": "https://www.daraz.pk/products/-i485366265-s2279900276.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "haroon e store",
-    "Product Name": "mobile charger orignal charger android charger"
+    "Seller Name": "kashif lakhi",
+    "Product Name": "Mini Fast Charger Super Qualty Joyroom"
 }
 
 {
     "Color Family": [
-        "Black",
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2279900276": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Samsung Charger",
-        "45W Charger",
-        "Premium Quality",
-        "Fast Type C to Type C Cable",
-        "50% in just 30 Minutes Guaranteed"
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered out invalid information such as 'No brand' or 'Test'.Step 2:No additional keywords provided.Step 3:• Mini Fast Charger for mobiles and tablets.• Superb quality from Joyroom brand.• Power output and ports specifications not specified.Step 4:• Mini Fast Charger for mobiles and tablets.• Superb quality from Joyroom brand.• Power output and ports specifications not specified.Step 5:Returned the product highlights to the user."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 1150"
+            "-33%%",
+            "Rs. 9000",
+            "Rs. 5987"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "91%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

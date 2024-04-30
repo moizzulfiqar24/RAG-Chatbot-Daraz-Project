@@ -1,39 +1,45 @@
 {
-    "URL": "https://www.daraz.pk/products/20w-1m-i487192619-s2287863943.html?search=1"
+    "URL": "https://www.daraz.pk/products/20-w-usb-c-i488238750-s2296497585.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "HYM Sales",
-    "Product Name": "Apple Iphone 20W Genuine Charger with 1M lightning Cable without box original as lot item compatible with Apple Devices"
+    "Seller Name": "Toor Techs",
+    "Product Name": "Apple 20-W USB-C Power Adapter Redington"
 }
 
 {
     "Color Family": [
-        "0"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2296497585": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Fast Data Transfer &amp; 3.0X Faster Charging:",
-        "With this USB-C to Lightning Cable, you could transfer data from your iPhone/iPad directly, The speed of data transfer is up to 480 Mbps.",
-        "Compared with 5W original charger, this 20W PD fast charger for iPhone could save more than 1.5 hour for you!"
+        "This USB-C 20W Power Adapter with folding pins is the perfect solution for charging your mobile devices quickly and efficiently. With a power output of 20W, this charger is capable of charging your devices in no time. The Redington brand ensures that you are getting a high-quality product that is built to last. The charger comes with one port, making it easy to charge your device without any hassle. This charger is compatible with a wide range of mobile devices, making it a versatile addition to your collection of mobile accessories. The folding pins make it easy to store and transport, making it perfect for travel."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-52%%",
-            "Rs. 2299",
-            "Rs. 1100"
+            "-20%%",
+            "Rs. 2300",
+            "Rs. 1850"
         ]
     ]
 }

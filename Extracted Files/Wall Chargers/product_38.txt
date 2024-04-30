@@ -1,47 +1,51 @@
 {
-    "URL": "https://www.daraz.pk/products/25-i486279632-s2283422956.html?search=1"
+    "URL": "https://www.daraz.pk/products/65-8t-9-9-65-i486392757-s2285448511.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "FS Mobile Accessoriess",
-    "Product Name": "25w adapter"
+    "Seller Name": "gadget. mania",
+    "Product Name": "Warp charger 65w OnePlus 8T OnePlus 9 OnePlus 9Pro Warp Charger OnePlus 65w Warp charger"
 }
 
 {
     "Color Family": [
-        "Black",
         "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Samsung Charger",
-        "45W Charger",
-        "Premium Quality",
-        "Fast Type C to Type C Cable",
-        "50% in just 30 Minutes Guaranteed"
+        "Warp charger 65w OnePlus 8T OnePlus 9 OnePlus 9Pro Warp Charger OnePlus 65w Warp chargerC To C Fast Charging Cable.",
+        "only for oneplus mobiles 8T, 9, 9Pro",
+        "Not compatible other models and Brands.",
+        "BrandNo Brand",
+        "SKUT379272-",
+        "Output PowerNot Specified",
+        "Number of PortsNot Specified"
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 700"
-        ],
-        [
-            null,
-            null,
-            "Rs. 650"
+            "-43%%",
+            "Rs. 3000",
+            "Rs. 1699"
         ]
     ]
 }

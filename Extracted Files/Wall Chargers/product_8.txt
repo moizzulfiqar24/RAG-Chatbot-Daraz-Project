@@ -1,37 +1,57 @@
 {
-    "URL": "https://www.daraz.pk/products/20-usb-c-i488710271-s2301129441.html?search=1"
+    "URL": "https://www.daraz.pk/products/lma-30-i487049062-s2287274822.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "GET-CONNECTED",
-    "Product Name": "20w power adapter iphone USB-C"
+    "Seller Name": "Friends_Accessories",
+    "Product Name": "Adaptive LMA RUNNING LIGHT 3.0 CHARGER"
 }
 
 {
     "Color Family": [
-        "White"
+        "Green"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2287274822": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        " iPhone 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
+        "Charging HUB Power Strip Universal Charging Station",
+        "Power cord length: 1.5 meters",
+        "3.0 FAST USB TRAVEL CHARGER ",
+        "CHARGE ANY USB POWERED DEVICE AT HOME ",
+        "OVER VOLTAGE PROTECTION",
+        "SHORT CIRCUIT PROTECTION",
+        "OVERLOAD PROTECTION",
+        "MEGATHERMAL PROTECTION",
+        "OVER CHARGING PROTECTION",
+        "CHARGER FOR IOS and ANDRIOD",
+        "CHARGE 3 DEVICES AT SAME TIME ",
+        "INPUT : AC 100-240V-50/60Hz",
+        "OUTPUT : DC 5V=3.0A MAX"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-14%%",
-            "Rs. 1049",
-            "Rs. 900"
+            "-36%%",
+            "Rs. 550",
+            "Rs. 350"
         ]
     ]
 }

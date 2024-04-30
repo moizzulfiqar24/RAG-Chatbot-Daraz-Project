@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/40-4-i482957140-s2272675808.html?search=1"
+    "URL": "https://www.daraz.pk/products/50-i486432916-s2283927028.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Silat Mobile Accessories",
-    "Product Name": "Anker 40W Adapter 4 ports"
+    "Seller Name": "Mobile home 99",
+    "Product Name": "Original VIVO super faster Charger 50W"
 }
 
 {
@@ -16,29 +16,36 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2283927028": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Mobile home 99",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }• Anker 40W Adapter with 4 ports for efficient charging.• Brand: Anker, known for high-quality electronic accessories.• Power Output: 5V / 2.0A for fast charging.• 4 ports to charge multiple devices simultaneously.• Express delivery available in all Pakistan for quick shipping."
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Original VIVO super faster Charger 50W- Category: Mobile Accessories>Wall Chargers- Power Output: Not specified- Ports: 1Step 2:- Additional Keywords: NoneStep 3:• Original VIVO super faster Charger with 50W power output.• Designed for mobile accessories, specifically wall chargers.• Features a single port for convenient charging on-the-go.Step 4:- No false information found.Step 5:- Highlights generated."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 1100"
+            "-60%%",
+            "Rs. 2220",
+            "Rs. 899"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }
 }

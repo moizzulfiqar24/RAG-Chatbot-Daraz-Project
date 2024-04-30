@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/12-dc-arj-i487459596-s2292739035.html?search=1"
+    "URL": "https://www.daraz.pk/products/-i488918318-s2300029736.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Baloch Trader's 690",
-    "Product Name": "12 Voltage DC Fast Mobile Charger, 'ARJ' Premium Product"
+    "Seller Name": "Mohsin MB stores",
+    "Product Name": "Mobile Fast Charging Adopter."
 }
 
 {
@@ -16,22 +16,32 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2300029736": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: 12 Voltage DC Fast Mobile Charger, 'ARJ' Premium Product- Category: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Power Output: 5V / 2.0A- Model: ARJ- Ports: 1Step 2:- Fast charging- Portable- Reliable- Compact design- Universal compatibilityStep 3:• The ARJ 12V DC Fast Mobile Charger offers 5V / 2.0A power output.• Designed with a compact and portable form for convenience.• Ensures fast and reliable charging for your devices.• Compatible with a wide range of mobile devices.• Ideal for on-the-go use and travel.Step 4: - N/AStep 5:• The ARJ 12V DC Fast Mobile Charger offers 5V / 2.0A power output.• Designed with a compact and portable form for convenience.• Ensures fast and reliable charging for your devices.• Compatible with a wide range of mobile devices.• Ideal for on-the-go use and travel."
+        "    pre {        white-space: pre-wrap;    }• Mobile Fast Charging Adopter with 5V / 2.0A power output.• Suitable for quick and efficient charging of mobile devices.• Features 1 port for convenient charging of one device.• Available for express delivery in Islamabad.• Belongs to the category of Mobile Accessories>Wall Chargers."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-51%%",
-            "Rs. 1380",
-            "Rs. 682"
+            null,
+            null,
+            "Rs. 1300"
         ]
     ]
 }

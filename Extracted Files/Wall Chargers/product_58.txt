@@ -1,47 +1,54 @@
 {
-    "URL": "https://www.daraz.pk/products/45-pd-usb-c-i483782408-s2274700972.html?search=1"
+    "URL": "https://www.daraz.pk/products/45-i482860886-s2272162412.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Raazvi Store",
-    "Product Name": "45 PD Adapter USB-C"
+    "Seller Name": "NewAnsariTraders",
+    "Product Name": "Infinix and Techno Genieune Box Out Adaptors 45W Superfast."
 }
 
 {
     "Color Family": [
-        "Black"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2272162412": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Samsung Charger",
-        "45W Charger",
-        "Premium Quality",
-        "Fast Type C to Type C Cable",
-        "50% in just 30 Minutes Guaranteed"
+        "    pre {        white-space: pre-wrap;    }• Genuine Infinix and Techno 45W Superfast Box Adaptors• Suitable for Mobiles &amp; Tablets, Wall Chargers category• Power Output: Not Specified• 1 port for convenient charging• High-quality, reliable charging solution for your devices"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-20%%",
-            "Rs. 1500",
-            "Rs. 1200"
+            "-23%%",
+            "Rs. 4500",
+            "Rs. 3450"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "90%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

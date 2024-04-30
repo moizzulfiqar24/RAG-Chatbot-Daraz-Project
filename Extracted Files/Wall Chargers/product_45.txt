@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/usb-c-c-35-i487488959-s2290071957.html?search=1"
+    "URL": "https://www.daraz.pk/products/pd-25-c-i487971339-s2295826861.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "TF Technology",
-    "Product Name": "Apple USB-C + C 35W Power Adopter Iphone Adopter Three Pin Adopter Fast Charger Adopter Fast Charging Adopter"
+    "Seller Name": "M. AHMED'S COLLECTIONS",
+    "Product Name": "ORIGINAL SAMSUNG PD charger 25W TYPE C"
 }
 
 {
@@ -16,29 +16,38 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2295826861": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Apple USB-C + C 35W Power Adopter- Brand: Apple- Category: Mobile Accessories&gt;Wall Chargers- Model: A2306Step 2:- Additional Keywords: USB-C, 35W, Power AdapterStep 3:• Apple USB-C + C 35W Power Adapter for mobile devices.• Fast and efficient charging with 35W power output.• Compatible with various Apple and USB-C devices.• Sleek and compact design for portability.• Ideal for charging on the go or at home.Step 4:• Informative and reliable product highlights.Step 5:• Highlights delivered."
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: ORIGINAL SAMSUNG PD charger 25W TYPE C- Express delivery: Lahore- Category path: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Power output (W): Not specified- Ports: 1Step 2:- Additional keywords: Samsung, PD charger, 25W, Type C, Wall ChargerStep 3:• Original Samsung PD charger with 25W power output.• Type C port for fast and efficient charging.• Express delivery available in Lahore.• Perfect for mobiles and tablets accessories.• Compact design with one port for convenience.Step 4:- N/AStep 5:- N/A"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-14%%",
-            "Rs. 3500",
-            "Rs. 2999"
+            "-8%%",
+            "Rs. 4200",
+            "Rs. 3849"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "100%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

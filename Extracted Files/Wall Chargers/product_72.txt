@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/9-9r-9rt-5g-65-usb-c-i488714062-s2298602384.html?search=1"
+    "URL": "https://www.daraz.pk/products/cp-04-i487707265-s2292574004.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Al Makkah Gadgets",
-    "Product Name": "Genuine OnePlus 9 9R 9Pro 9RT 5G Warp Charge 65W Charger USB C Charging Cable"
+    "Seller Name": "AL Manzil Store",
+    "Product Name": "Fast Charger Maxon wall charger Model CP-04"
 }
 
 {
@@ -16,23 +16,45 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2292574004": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "- Product Title: Fast Charger Maxon wall charger Model CP-04<br/>- Power Output (W): 5V / 2.0A<br/>- Ports: 1<br/>Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers<br/><br/>- fast and easy to charge<br/>- Maxon cp-04 wall charger",
     "highlights": [
-        "Additional Information    ",
-        "TechnicalDataInput100-240V~ 50/60Hz 1.8Aoutput5.0V 3.0A or 10.0V 6.5A(65.0W MAX)Port typeUSB-C"
+        "Fast Charger Maxon wall charger Model CP-04",
+        "- Power Output (W): 5V / 2.0A",
+        "- Ports: 1",
+        "- Fast Charger",
+        "- Wall Charger",
+        "- Mobile Accessories",
+        "- 5V / 2.0A",
+        "- Maxon Model CP-04",
+        "• Fast Charger with 5V / 2.0A power output.",
+        "• Compact wall charger with one port for convenience.",
+        "• Compatible with mobiles and tablets for efficient charging.",
+        "• Fast Charger with 5V / 2.0A power output.",
+        "• Compact wall charger with one port for convenience.",
+        "• Compatible with mobiles and tablets for efficient charging."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-67%%",
-            "Rs. 1359",
-            "Rs. 449"
+            null,
+            null,
+            "Rs. 899"
         ]
     ]
 }

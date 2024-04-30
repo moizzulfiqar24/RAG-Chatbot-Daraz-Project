@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/orignal-20w-apple-adapter-i485465839-s2280443377.html?search=1"
+    "URL": "https://www.daraz.pk/products/20-usb-c-i488728373-s2298850707.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "E-Com Trend",
-    "Product Name": "Orignal 20W apple adapter"
+    "Seller Name": "Moosa.Traders",
+    "Product Name": "Origional Apple 20w power adapter usb-c pin packed"
 }
 
 {
@@ -16,34 +16,32 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2298850707": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 0",
+                "Promotion": "",
+                "Title": "Free Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "Step 1:<br/>- Product Title: Orignal 20W apple adapter<br/>- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers<br/><br/>Step 2:<br/>- Additional Keywords: None<br/><br/>Step 3:<br/>• Original 20W Apple adapter for fast charging.<br/>• Compatible with mobiles and tablets.<br/>• Wall charger for convenient charging at home or office.<br/><br/>Step 4:<br/>- No false information found.<br/><br/>Step 5:<br/>- Return the product highlights to the user.",
+    "desc": "",
     "highlights": [
-        "Step 1:",
-        "- Product Title: Orignal 20W apple adapter",
-        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers",
-        "Step 2:",
-        "- Additional Keywords: None",
-        "Step 3:",
-        "• Original 20W Apple adapter for fast charging.",
-        "• Compatible with mobiles and tablets.",
-        "• Wall charger for convenient charging at home or office.",
-        "Step 4:",
-        "- No false information found.",
-        "Step 5:",
-        "- Return the product highlights to the user."
+        "    pre {        white-space: pre-wrap;    }• Original Apple 20W power adapter with USB-C pin.• Brand: Apple, Model: 20W power adapter USB-C.• Category: Mobile Accessories>Wall Chargers.• Power Output: Not specified, Ports: Not specified."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-21%%",
-            "Rs. 4449",
-            "Rs. 3499"
+            "-17%%",
+            "Rs. 6000",
+            "Rs. 5000"
         ]
     ]
 }

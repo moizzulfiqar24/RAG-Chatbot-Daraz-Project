@@ -1,43 +1,58 @@
 {
-    "URL": "https://www.daraz.pk/products/65-i487338542-s2296498854.html?search=1"
+    "URL": "https://www.daraz.pk/products/a-i487604647-s2311294075.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "JM hub",
-    "Product Name": "One Plus 65w warp charger"
+    "Seller Name": "Al Fajaar",
+    "Product Name": "SAMSUNG ORIGINAL A+ Copy IMPORTED ADAPTER"
 }
 
 {
     "Color Family": [
-        "Red"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2311294075": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Introducing the SAMSUNG ORIGINAL IMPORTED ADAPTER, a reliable and convenient accessory for on-the-go charging needs. This adapter is designed for mobiles &amp; tablets, delivering a power output of 5V / 2.0A through its single port, ensuring efficient and rapid charging for your devices. With super fast charging option, it provides a quick and reliable power source for your mobile devices, making it an essential companion for your charging needs. Whether you're at home, in the office, or on the move, this wall charger is designed to meet your charging requirements with ease and efficiency. It's the perfect solution for keeping your devices powered up and ready to go, wherever you are. With its sleek and compact design, this adapter is the ideal choice for anyone looking for a high-quality, fast-charging solution for their mobile devices and tablets. Charge up your devices quickly and efficiently with the SAMSUNG ORIGINAL IMPORTED ADAPTER.",
     "highlights": [
-        "U"
+        "• The original Samsung adapter provides super fast charging, ensuring quick power replenishment for your device.",
+        "• With a power output of 5V / 2.0A, this adapter offers efficient and rapid charging capabilities.",
+        "• Equipped with 1 port, it allows convenient charging for your mobile or tablet.",
+        "• This adapter not only charges your device quickly but also helps improve your mobile's battery health.",
+        "• It is an essential accessory for mobiles and tablets, ensuring optimal performance and longevity."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 1500"
+            "-50%%",
+            "Rs. 1599",
+            "Rs. 799"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "100%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

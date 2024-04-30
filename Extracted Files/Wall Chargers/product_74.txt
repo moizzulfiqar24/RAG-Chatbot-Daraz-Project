@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/20-pd-i487217631-s2287938249.html?search=1"
+    "URL": "https://www.daraz.pk/products/35-pd-usb-a-usb-c-i488784437-s2299286134.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Hadiya communications",
-    "Product Name": "iphone 20 wat pd charger with lighting one year wranty"
+    "Seller Name": "S.K SHOP 2023",
+    "Product Name": "Sumsung 35W PD Adapter USB-A and USB-C  Charger"
 }
 
 {
@@ -16,28 +16,39 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2299286134": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Orginal iPhone_ Fast Charger 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered productAttributes:- productTitle: Sumsung 35W PD Adapter USB-A and USB-C Charger- categoryPath: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Ports: 2Step 2:additionalKeyWords not provided.Step 3:• Sumsung 35W PD Adapter for USB-A and USB-C.• Suitable for mobiles, tablets, and other USB-powered devices.• Features 2 ports for simultaneous charging.• Sleek design for easy portability and convenience.Step 4:N/AStep 5:Returned product highlights."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 3150"
+            "-29%%",
+            "Rs. 4500",
+            "Rs. 3200"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "75%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }
@@ -48,6 +59,6 @@
         "Subtitle": "Change of mind is not applicable",
         "Title": "14 days free & easy return"
     },
-    "Warranty": "1 Year Brand Warranty"
+    "Warranty": "Warranty not available"
 }
 

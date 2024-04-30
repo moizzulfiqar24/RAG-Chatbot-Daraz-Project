@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/15-pd-i487971194-s2295014850.html?search=1"
+    "URL": "https://www.daraz.pk/products/orignal-20w-apple-adapter-i485465839-s2280443377.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "M. AHMED'S COLLECTIONS",
-    "Product Name": "PD Charger for I Phone 15 Pro Max"
+    "Seller Name": "E-Com Trend",
+    "Product Name": "Orignal 20W apple adapter"
 }
 
 {
@@ -16,22 +16,44 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2280443377": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Step 1:<br/>- Product Title: Orignal 20W apple adapter<br/>- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers<br/><br/>Step 2:<br/>- Additional Keywords: None<br/><br/>Step 3:<br/>• Original 20W Apple adapter for fast charging.<br/>• Compatible with mobiles and tablets.<br/>• Wall charger for convenient charging at home or office.<br/><br/>Step 4:<br/>- No false information found.<br/><br/>Step 5:<br/>- Return the product highlights to the user.",
     "highlights": [
-        "Orginal iPhone_ Fast Charger 35w USB C Power Adapter Wall Charger, iPhone_ Charger 35 Watt With Type C Cable. Original 35W PD Charger For Iphone 15 Pro Max_, 35 Watt iPhone_ Charger Original 35W Iphone_ Chargers, IPhone_ PD Charger Type C."
+        "Step 1:",
+        "- Product Title: Orignal 20W apple adapter",
+        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers",
+        "Step 2:",
+        "- Additional Keywords: None",
+        "Step 3:",
+        "• Original 20W Apple adapter for fast charging.",
+        "• Compatible with mobiles and tablets.",
+        "• Wall charger for convenient charging at home or office.",
+        "Step 4:",
+        "- No false information found.",
+        "Step 5:",
+        "- Return the product highlights to the user."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-17%%",
-            "Rs. 5000",
-            "Rs. 4130"
+            "-21%%",
+            "Rs. 4449",
+            "Rs. 3499"
         ]
     ]
 }

@@ -1,48 +1,53 @@
 {
-    "URL": "https://www.daraz.pk/products/2-10-i482854057-s2272013705.html?search=1"
+    "URL": "https://www.daraz.pk/products/da140-24-2-usb-i486144122-s2283185969.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "NewAnsariTraders",
-    "Product Name": "OPPO 100% Original Box Out Adaptor in 2A, 10W"
+    "Seller Name": "AL SADIQ 1648202961",
+    "Product Name": "Dodocool DA140 24W 2-Port USB Wall Charger"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2283185969": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 719",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "Introducing the OPPO 100% Original Box Out Adaptor, a reliable wall charger designed for mobiles and tablets. This charger delivers a power output of 5V / 2.0A through its single port, providing efficient and dependable charging. With a capacity of 10W, it offers a fast and convenient charging solution for your devices, ensuring quick power-ups whenever you need them. This charger is tailored to meet the charging needs of your devices, making it an essential accessory for everyday use. With its sleek design and reliable performance, it's the perfect choice for keeping your devices powered up on the go.&nbsp;",
+    "desc": "Warranty warranty warranty 2 month replacement warranty",
     "highlights": [
-        "• OPPO 100% Original Box Out Adaptor",
-        "• Output: 5V / 2.0A for quick charging",
-        "• Compact with 1 port for convenience",
-        "• Compatible with mobiles and tablets",
-        "• Essential for on-the-go charging"
+        "Warranty warranty warranty 2 month replacement warrantydodocool 24W 2-Port USB-A Wall Charger provides two high-speed USB charging ports and enables you to charge up to two USB-powered devices simultaneously."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-35%%",
-            "Rs. 999",
-            "Rs. 649"
+            null,
+            null,
+            "Rs. 1500"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "90%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

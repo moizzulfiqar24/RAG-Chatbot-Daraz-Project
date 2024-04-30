@@ -1,28 +1,42 @@
 {
-    "URL": "https://www.daraz.pk/products/da140-24-2-usb-i486144122-s2283185969.html?search=1"
+    "URL": "https://www.daraz.pk/products/c-i486802170-s2296611216.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "AL SADIQ 1648202961",
-    "Product Name": "Dodocool DA140 24W 2-Port USB Wall Charger"
+    "Seller Name": "Bhao Online Shopping Store",
+    "Product Name": "iPhone imported C-Type Fast Charger Portable Power Adapter for Enhanced Mobile Experience Durable high quality fast charger"
 }
 
 {
     "Color Family": [
-        "Black"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2296611216": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
-    "desc": "Warranty warranty warranty 2 month replacement warranty",
+    "desc": "",
     "highlights": [
-        "Warranty warranty warranty 2 month replacement warrantydodocool 24W 2-Port USB-A Wall Charger provides two high-speed USB charging ports and enables you to charge up to two USB-powered devices simultaneously."
+        "iPhone important C-Type Fast Charger Portable Power AdapterFast Charging Capability: Speed up your charging time without compromising safety.",
+        "Universal Compatibility: Specifically designed for iPhone models, enhancing usability.",
+        "Portable Design: Lightweight and compact, ideal for travel and everyday use.",
+        "Durable Construction: Made with high-quality materials to ensure longevity and reliability.",
+        "Optimal Performance: Engineered to meet the highest standards of power delivery and efficiency.",
+        "Sleek &amp; Trendy Design: Elevate your charging experience with our sleek and stylish charger that complements your iPhone perfectly.",
+        "Customer Satisfaction Guarantee: Your satisfaction is our top priority."
     ]
 }
 
@@ -31,14 +45,14 @@
         [
             null,
             null,
-            "Rs. 1500"
+            "Rs. 2500"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Ship on Time": "100%",
+        "Ship on Time": "30%",
         "Chat Response Rate": "Not enough data"
     }
 }

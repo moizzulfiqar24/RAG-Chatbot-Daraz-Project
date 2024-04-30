@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/si-125-c-c-i481741091-s2263093543.html?search=1"
+    "URL": "https://www.daraz.pk/products/25-pd-i487569423-s2294355107.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Gadgetshubcompk",
-    "Product Name": "Baseus Super Si Quick Charger 1C 25W With Type C to C Cable"
+    "Seller Name": "B.M hub",
+    "Product Name": "Samsung 25W PD Adapter"
 }
 
 {
@@ -16,33 +16,38 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2294355107": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Built-in intelligent management chip, automatically matches the current required by the device",
-        "Support PD quick charge, 25W high power output, one step faster in charging",
-        "100-240V wide band voltage, universal in all countries",
-        "High temperature resistant and flame retardant, safe and reliable",
-        "Exquisite appearance, space-saving and portable for traveling"
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Samsung 25W PD Adapter- Category: Mobile Accessories>Wall ChargersStep 2:- Additional keywords: NoneStep 3:• Samsung 25W PD Adapter for fast and efficient charging.• Compact design for easy portability and travel convenience.• Compatible with a wide range of mobile devices and tablets.Step 4:- No false information found.Step 5:- Return the product highlights to the user."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-23%%",
-            "Rs. 4999",
-            "Rs. 3850"
+            "-25%%",
+            "Rs. 1199",
+            "Rs. 899"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "94%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

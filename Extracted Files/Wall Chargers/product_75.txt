@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/cp-04-i487707265-s2292574004.html?search=1"
+    "URL": "https://www.daraz.pk/products/j-1-2-21-co2-i485681637-s2281250950.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "AL Manzil Store",
-    "Product Name": "Fast Charger Maxon wall charger Model CP-04"
+    "Seller Name": "Al Saif Mall",
+    "Product Name": "J.Rose Charger 2 in 1 _Fast Charging _2.1A_Output CO2_Fire Proof Material"
 }
 
 {
@@ -16,42 +16,40 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2281250950": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "- Product Title: Fast Charger Maxon wall charger Model CP-04<br/>- Power Output (W): 5V / 2.0A<br/>- Ports: 1<br/>Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers<br/><br/>- fast and easy to charge<br/>- Maxon cp-04 wall charger",
+    "desc": "",
     "highlights": [
-        "Fast Charger Maxon wall charger Model CP-04",
-        "- Power Output (W): 5V / 2.0A",
-        "- Ports: 1",
-        "- Fast Charger",
-        "- Wall Charger",
-        "- Mobile Accessories",
-        "- 5V / 2.0A",
-        "- Maxon Model CP-04",
-        "• Fast Charger with 5V / 2.0A power output.",
-        "• Compact wall charger with one port for convenience.",
-        "• Compatible with mobiles and tablets for efficient charging.",
-        "• Fast Charger with 5V / 2.0A power output.",
-        "• Compact wall charger with one port for convenience.",
-        "• Compatible with mobiles and tablets for efficient charging."
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: J.Rose Charger 2 in 1 Fast Charging- Category: Mobiles & Tablets > Mobile Accessories > Wall Chargers- Power Output: 5V / 2.0A- Ports: 2Step 2:- Additional Keywords: CO2, Fire Proof MaterialStep 3:• J.Rose Charger 2 in 1 for fast charging.• Power output of 5V / 2.0A for efficient charging.• Equipped with 2 ports for multiple device charging.• Made with fireproof material for safety.• Suitable for mobiles, tablets, and other compatible devices.Step 4:- N/AStep 5:- N/A"
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 899"
+            "-18%%",
+            "Rs. 650",
+            "Rs. 530"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Ship on Time": "100%",
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "88%",
         "Chat Response Rate": "Not enough data"
     }
 }

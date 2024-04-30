@@ -1,44 +1,53 @@
 {
-    "URL": "https://www.daraz.pk/products/-i487218405-s2287943583.html?search=1"
+    "URL": "https://www.daraz.pk/products/arj-12-24-usb-71-i487513406-s2290252337.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "SHOPATHON",
-    "Product Name": "Moto Turbo Power Shoe Original"
+    "Seller Name": "TRADESMS",
+    "Product Name": "ARJ 12-24V USB Fast Charger model 7.1 + Solar Clamp Charger"
 }
 
 {
     "Color Family": [
-        "Black"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2290252337": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 135",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }• The product highlights have been filtered to remove invalid information like 'No brand' or 'Test'.• No additional keywords were provided for the product.• The Original Moto Turbo Power Shoe is designed for mobile accessories, ensuring high-quality performance.• The power output and ports specifications are not specified, providing flexibility for various devices.• The Original Moto Turbo Power Shoe is specifically designed for mobile accessories, ensuring reliable and efficient power supply.• The power output and ports specifications are not specified, allowing for compatibility with a wide range of devices."
+        "    pre {        white-space: pre-wrap;    }• The ARJ 12-24V USB Fast Charger model 7.1 includes a solar clamp, allowing for convenient solar charging while traveling or outdoors.• This charger is designed with advanced fast charging technology, guaranteeing efficient and rapid charging for various devices.• It offers a power output of 12v and features 3 ports, enabling the simultaneous charging of multiple devices, making it ideal for on-the-go use."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 999"
+            "-9%%",
+            "Rs. 670",
+            "Rs. 610"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "100%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

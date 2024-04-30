@@ -1,50 +1,59 @@
 {
-    "URL": "https://www.daraz.pk/products/c-i486802170-s2296611216.html?search=1"
+    "URL": "https://www.daraz.pk/products/u-20-usb-c-i488435775-s2297894472.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Bhao Online Shopping Store",
-    "Product Name": "iPhone imported C-Type Fast Charger Portable Power Adapter for Enhanced Mobile Experience Durable high quality fast charger"
+    "Seller Name": "##KIyFfvqc$$",
+    "Product Name": "UGREEN 20W USB C Charger Plug (Blue)"
 }
 
 {
     "Color Family": [
-        "White"
+        "Blue"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2297894472": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Introducing the UGREEN 20W USB C Charger Plug in Blue, a compact wall charger with fast charging capabilities. Its single port design makes it perfect for on-the-go use, while the sleek blue color adds a touch of style. Whether at home or traveling, this charger is a reliable companion for keeping your devices powered up. This charger is a must-have for mobile and tablet users. </pre><div></div>\",\"highlights\":\"<ul class=''><li class=''>• UGREEN 20W USB C Charger Plug in stylish blue.</li><li class=''>• Fast charging for mobile devices.</li><li class=''>• Compact design, perfect for on-the-go use.</li><li class=''>• Ideal for mobiles and tablets, with 1 port.</li><li class=''>• Convenient wall charger for electronic devices.</li></ul>\",\"link\":\"https://www.daraz.pk/products/ugreen-20w-usb-c-charger-plug-blue-i488435775-s2297894472.html\",\"mallTag\":false,\"rating\":{\"score\":0.0,\"total\":0},\"rightImgRatio\":1.9,\"shareTitle\":\"Share Product\",\"title\":\"UGREEN 20W USB C Charger Plug (Blue)\",\"wishTitle\":\"Add to Wishlist\",\"wishTitle_added\":\"Added to Wishlist\"},\"qna\":{\"haveMainSellerAnswers\":false,\"hidden\":false,\"paging\":{\"pageSize\":3,\"totalItems\":0},\"params\":{\"mainSeller\":{\"itemId\":\"488435775\",\"sellerId\":\"6005034471115\",\"skuId\":\"2297894472\"}},\"summaryIcon\":\"https://img.alicdn.com/imgextra/i4/O1CN01ev6l3r1UAVoEUiXkp_!!6000000002477-2-tps-80-80.png\",\"summaryTitle\":\"Ask questions about the product.\",\"totalItems\":0,\"totalItemsByMain\":0,\"totalItemsByOthers\":0},\"tabHeading\":\"UGREEN 20W USB C Charger Plug (Blue)\",\"htmlRender\":{\"msiteShare\":{\"deepLink\":\"daraz://pk/d?itemId=488435775&ps=488435775_PK-2297894472&skuId=2297894472\",\"description\":\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on UGREEN 20W USB C Charger Plug (Blue) at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\",\"facebookFallbackValue\":false,\"image\":\"https://static-01.daraz.pk/p/2b1a315475155b54638e29c123b5b4fd.jpg\",\"meta\":\"<meta name=\\\"og:url\\\" content=\\\"https://www.daraz.pk/products/ugreen-20w-usb-c-charger-plug-blue-i488435775-s2297894472.html/\\\" /><meta name=\\\"og:title\\\" content=\\\"UGREEN 20W USB C Charger Plug (Blue)\\\" /><meta name=\\\"og:type\\\" content=\\\"product\\\" /><meta name=\\\"og:description\\\" content=\\\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on UGREEN 20W USB C Charger Plug (Blue) at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\\\" /><meta name=\\\"og:image\\\" content=\\\"https://static-01.daraz.pk/p/2b1a315475155b54638e29c123b5b4fd.jpg\\\" />\",\"showFacebookFallback\":false,\"title\":\"UGREEN 20W USB C Charger Plug (Blue)\",\"type\":\"product\",\"url\":\"https://www.daraz.pk/products/ugreen-20w-usb-c-charger-plug-blue-i488435775-s2297894472.html\"}},\"skuInfos\":{\"2297894472\":{\"bottomTagUrls\":[],\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-20%\",\"pdt_photo\":\"\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":488435775,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"##KIyFfvqc$$\",\"pdt_simplesku\":2297894472,\"pdt_name\":\"UGREEN 20W USB C Charger Plug (Blue)\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=488435775_PK-2297894472&_p_prod=488435775&_p_sku=2297894472&_p_slr=6005034471115\"},\"supplier_id\":6005034471115,\"pdt_price\":\"Rs. 3,049\"},\"image\":\"https://static-01.daraz.pk/p/2b1a315475155b54638e29c123b5b4fd.jpg\",\"inWishlist\":false,\"itemId\":\"488435775\",\"lowStock\":true,\"lowStockText\":\"Low Stock\",\"lsBgColor\":\"#fef1f0\",\"lsTextColor\":\"#F2342D\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-20%\",\"originalPrice\":{\"text\":\"Rs. 3,049\",\"value\":3049},\"salePrice\":{\"text\":\"Rs. 2,449\",\"value\":2449}},\"quantity\":{\"limit\":{\"max\":2,\"min\":1},\"text\":\"Only 2 items left\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":2,\"min\":1},\"text\":\"Only 2 items left\",\"type\":\"default\"}],\"sellerId\":\"6005034471115\",\"skuId\":\"2297894472\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]},\"0\":{\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-20%\",\"pdt_photo\":\"\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":488435775,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"##KIyFfvqc$$\",\"pdt_simplesku\":2297894472,\"pdt_name\":\"UGREEN 20W USB C Charger Plug (Blue)\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=488435775_PK-2297894472&_p_prod=488435775&_p_sku=2297894472&_p_slr=6005034471115\"},\"supplier_id\":6005034471115,\"pdt_price\":\"Rs. 3,049\"},\"image\":\"https://static-01.daraz.pk/p/2b1a315475155b54638e29c123b5b4fd.jpg\",\"inWishlist\":false,\"itemId\":\"488435775\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-20%\",\"originalPrice\":{\"text\":\"Rs. 3,049\",\"value\":3049},\"salePrice\":{\"text\":\"Rs. 2,449\",\"value\":2449}},\"quantity\":{\"limit\":{\"max\":2,\"min\":1},\"text\":\"Only 2 items left\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":2,\"min\":1},\"text\":\"Only 2 items left\",\"type\":\"default\"}],\"sellerId\":\"6005034471115\",\"skuId\":\"2297894472\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]}},\"deliveryOptions\":{\"2297894472\":[{\"badge\":false,\"dataType\":\"delivery\",\"deliveryWorkTimeMax\":\"2024-05-11T15:00+05:00[GMT+05:00]\",\"deliveryWorkTimeMin\":\"2024-05-06T21:00+05:00[GMT+05:00]\",\"description\":\"Enjoy delivery of  your order directly to the doorstep! <br><br><a href=\\\"https://click.daraz.pk/e/_CVFo0H\\\" target=\\\"_blank\\\">Find out more</a>\",\"duringTime\":\"6 - 11 day(s)\",\"extParam\":{},\"fee\":\"Rs. 145\",\"feeValue\":145.0,\"hasTip\":true,\"icon\":\"https://img.alicdn.com/imgextra/i3/O1CN01kzfimb1YwNiJFCQvh_!!6000000003123-2-tps-80-56.png\",\"priority\":4,\"title\":\"Standard Delivery \",\"titleHeadBold\":2,\"titleTile\":\"6 May - 11 May\",\"type\":\"standard\"},{\"badge\":true,\"dataType\":\"service\",\"description\":\"\",\"extParam\":{},\"feeValue\":0.0,\"hasTip\":true,\"priority\":2147483647,\"title\":\"Cash on Delivery Available\",\"titleHeadBold\":0,\"type\":\"COD\"}]},\"warranties\":{\"2297894472\":[{\"dataType\":\"returnPolicy\",\"description\":\"<p>Change of mind is not applicable as a Return Reason for this product due to one or more of the following reasons:",
     "highlights": [
-        "iPhone important C-Type Fast Charger Portable Power AdapterFast Charging Capability: Speed up your charging time without compromising safety.",
-        "Universal Compatibility: Specifically designed for iPhone models, enhancing usability.",
-        "Portable Design: Lightweight and compact, ideal for travel and everyday use.",
-        "Durable Construction: Made with high-quality materials to ensure longevity and reliability.",
-        "Optimal Performance: Engineered to meet the highest standards of power delivery and efficiency.",
-        "Sleek &amp; Trendy Design: Elevate your charging experience with our sleek and stylish charger that complements your iPhone perfectly.",
-        "Customer Satisfaction Guarantee: Your satisfaction is our top priority."
+        "• UGREEN 20W USB C Charger Plug in stylish blue.",
+        "• Fast charging for mobile devices.",
+        "• Compact design, perfect for on-the-go use.",
+        "• Ideal for mobiles and tablets, with 1 port.",
+        "• Convenient wall charger for electronic devices."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 2500"
+            "-20%%",
+            "Rs. 3049",
+            "Rs. 2449"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Ship on Time": "30%",
+        "Positive Seller Ratings": "78%",
+        "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }
 }

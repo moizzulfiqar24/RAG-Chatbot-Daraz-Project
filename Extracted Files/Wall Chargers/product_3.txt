@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/led-4-usb-45-i488715295-s2298686198.html?search=1"
+    "URL": "https://www.daraz.pk/products/sigma-orignal-fast-charger-with-micro-usb-data-cable-i486282787-s2283382940.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "haroon e store",
-    "Product Name": "LED Charger With 4 USB Hubs Orignal Charger 4.5 A Charger Powerfull Charger"
+    "Seller Name": "RN All In One shop",
+    "Product Name": "Sigma Orignal Fast Charger with micro USB Data Cable"
 }
 
 {
@@ -16,22 +16,45 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Step 1:<br/>Filtered out invalid information such as 'No brand' or 'Test'.<br/><br/>Step 2:<br/>No additional keywords provided.<br/><br/>Step 3:<br/>• Original Sigma fast charger with micro USB data cable.<br/>• Perfect for mobiles and tablets.<br/>• Provides efficient and reliable charging.<br/>• Compact design for easy portability.<br/><br/>Step 4:<br/>N/A<br/><br/>Step 5:<br/>• Original Sigma fast charger with micro USB data cable.<br/>• Perfect for mobiles and tablets.<br/>• Provides efficient and reliable charging.<br/>• Compact design for easy portability.",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: LED Charger With 4 USB Hubs- Category: Mobile Accessories>Wall ChargersStep 2:- Additional Keywords: Original, 4.5A, PowerfulStep 3:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 4:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 5:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger."
+        "Step 1:",
+        "Filtered out invalid information such as 'No brand' or 'Test'.",
+        "Step 2:",
+        "No additional keywords provided.",
+        "Step 3:",
+        "• Original Sigma fast charger with micro USB data cable.",
+        "• Perfect for mobiles and tablets.",
+        "• Provides efficient and reliable charging.",
+        "• Compact design for easy portability.",
+        "Step 4:",
+        "N/A",
+        "Step 5:",
+        "• Original Sigma fast charger with micro USB data cable.",
+        "• Perfect for mobiles and tablets.",
+        "• Provides efficient and reliable charging.",
+        "• Compact design for easy portability."
     ]
 }
 
 {
     "Price Info": [
         [
-            null,
-            null,
-            "Rs. 545"
+            "-15%%",
+            "Rs. 999",
+            "Rs. 845"
         ]
     ]
 }

@@ -1,55 +1,56 @@
 {
-    "URL": "https://www.daraz.pk/products/a801-20-5-3a-pd-pd-i487805844-s2293575669.html?search=1"
+    "URL": "https://www.daraz.pk/products/15-c-i488240407-s2296588689.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Online Hub Lahore",
-    "Product Name": "Aspor A801 High Performance Charging Head 20W Compatible with Multiple Systems Adapter 5V 3A Pd Ports Pd Fast Charger With Cable"
+    "Seller Name": "Bhao Online Shopping Store",
+    "Product Name": "High-Quality Imported Type C Charging Adapter for iPhone 15 Pro Max"
 }
 
 {
     "Color Family": [
-        "w"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2296588689": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Usb Wall Charger, Universal Adapter, Fast Charger, Universal Adapter",
-        "Usage:Mobile Phone",
-        "Material:ABS",
-        "Protection:Short Circuit Protection, Over-Charging, Overvoltage",
-        "Private Mold:Yes",
-        "Function:Qi, QC3.0",
-        "Brand Name:ASPOR",
-        "Model Number:A801",
-        "Input Voltage And Current:12v/4a",
-        "Output Voltage And Current:5V/4A",
-        "Output Power:20W"
+        "High Quality Imported Type C Charging Adopter for iphone 15 Pro MaxProduct Highlight:",
+        "1.High-Quality Construction:Crafted with premium materials for durability and reliability. 2.Rapid Charging:Enables fast charging for your iPhone 15 Pro Max, ensuring minimal downtime.3.Type C Compatibility:Universally compatible with Type C devices, offering versatility in charging options.4.Convenient Design:Compact and lightweight design for easy portability and use on-the-go.5.Sleek Aesthetic:Stylishly designed to complement your iPhone 15 Pro Max and enhance your charging experience.",
+        "Specifications:",
+        "Compatibility:iPhone 15 Pro Max and other Type C devices",
+        "Input:Type CMaterial:High-quality imported materialsDimensions:Compact and portable designColor:Sleek finish to match your device aestheticsCertifications:Ensures safety and reliability standards are met for peace of mind."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-20%%",
-            "Rs. 1500",
-            "Rs. 1200"
+            null,
+            null,
+            "Rs. 2550"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "80%",
-        "Ship on Time": "100%",
+        "Ship on Time": "30%",
         "Chat Response Rate": "Not enough data"
     }
 }

@@ -1,39 +1,49 @@
 {
-    "URL": "https://www.daraz.pk/products/airox-ch03-turbo-2-usb-24-a-mobile-v8-charger-i485491777-s2280585792.html?search=1"
+    "URL": "https://www.daraz.pk/products/45-pd-usb-c-i483782408-s2274700972.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "FS trader's",
-    "Product Name": "Airox CH03 Turbo 2 Usb 2.4 A Mobile v8 Charger"
+    "Seller Name": "Raazvi Store",
+    "Product Name": "45 PD Adapter USB-C"
 }
 
 {
-    "Color Family": []
+    "Color Family": [
+        "Black"
+    ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2274700972": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Brand : Airox",
-        "Durable",
-        "Input Voltage/Current DC 100/240V",
-        "Output Voltage/Current DC 5.3V/3.4A",
-        "Fast Power"
+        "Samsung Charger",
+        "45W Charger",
+        "Premium Quality",
+        "Fast Type C to Type C Cable",
+        "50% in just 30 Minutes Guaranteed"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-30%%",
-            "Rs. 1000",
-            "Rs. 700"
+            "-20%%",
+            "Rs. 1500",
+            "Rs. 1200"
         ]
     ]
 }

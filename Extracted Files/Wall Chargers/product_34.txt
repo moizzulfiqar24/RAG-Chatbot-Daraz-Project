@@ -1,44 +1,64 @@
 {
-    "URL": "https://www.daraz.pk/products/35-pd-usb-a-usb-c-i488784437-s2299286134.html?search=1"
+    "URL": "https://www.daraz.pk/products/a801-20-5-3a-pd-pd-i487805844-s2293575669.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "S.K SHOP 2023",
-    "Product Name": "Sumsung 35W PD Adapter USB-A and USB-C  Charger"
+    "Seller Name": "Online Hub Lahore",
+    "Product Name": "Aspor A801 High Performance Charging Head 20W Compatible with Multiple Systems Adapter 5V 3A Pd Ports Pd Fast Charger With Cable"
 }
 
 {
     "Color Family": [
-        "Black"
+        "w"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2293575669": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:Filtered productAttributes:- productTitle: Sumsung 35W PD Adapter USB-A and USB-C Charger- categoryPath: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Ports: 2Step 2:additionalKeyWords not provided.Step 3:• Sumsung 35W PD Adapter for USB-A and USB-C.• Suitable for mobiles, tablets, and other USB-powered devices.• Features 2 ports for simultaneous charging.• Sleek design for easy portability and convenience.Step 4:N/AStep 5:Returned product highlights."
+        "Usb Wall Charger, Universal Adapter, Fast Charger, Universal Adapter",
+        "Usage:Mobile Phone",
+        "Material:ABS",
+        "Protection:Short Circuit Protection, Over-Charging, Overvoltage",
+        "Private Mold:Yes",
+        "Function:Qi, QC3.0",
+        "Brand Name:ASPOR",
+        "Model Number:A801",
+        "Input Voltage And Current:12v/4a",
+        "Output Voltage And Current:5V/4A",
+        "Output Power:20W"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-29%%",
-            "Rs. 4500",
-            "Rs. 3200"
+            "-20%%",
+            "Rs. 1500",
+            "Rs. 1200"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "75%",
+        "Positive Seller Ratings": "80%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

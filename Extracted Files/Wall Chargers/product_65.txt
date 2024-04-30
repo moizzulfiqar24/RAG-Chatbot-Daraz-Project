@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/67-eu-6a-c-mi-11-x3-gt-x4-5g-11-i487834251-s2293690155.html?search=1"
+    "URL": "https://www.daraz.pk/products/hi-links-mix-models-2-ports-expert-travel-charger-8600-i485808374-s2281762074.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "mahnoor trading crop",
-    "Product Name": "Original Xiaomi 67W Turbo Fast Charger EU Plug 6A Type C Cable For Mi 11 Pro Mix Fold Poco X3 GT X4 Pro 5G Redmi Note 11 Pro"
+    "Seller Name": "AS.accessories",
+    "Product Name": "Hi-Links Mix Models 2-Ports Expert Travel Charger 8600"
 }
 
 {
@@ -16,27 +16,30 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2281762074": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "1. **67W Turbo Fast Charging**: The Xiaomi charger delivers high-speed charging for compatible devices, ensuring quick power-ups.",
-        "2. **EU Plug**: Designed for use with European power outlets, making it convenient for users in Europe and other regions with compatible sockets.",
-        "3. **6A Type C Cable**: The included Type C cable supports up to 6 amps of current, ensuring efficient and safe charging for your devices.",
-        "4. **Wide Device Compatibility**: Compatible with various Xiaomi devices, including the Mi 11 Pro, Mix Fold, Poco X3 GT, X4 Pro 5G, and Redmi Note 11 Pro, providing versatile charging options.",
-        "5. **Reliable Performance**: Xiaomi's reputation for quality ensures that the charger and cable provide reliable performance over time.",
-        "6. **Safety Features**: The charger likely includes built-in safety features such as over-voltage protection, over-current protection, and short-circuit protection to keep your devices safe while charging."
+        "Hi-Links 2-Ports Expert Travel Charger 8600"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-15%%",
-            "Rs. 6500",
-            "Rs. 5500"
+            null,
+            null,
+            "Rs. 350"
         ]
     ]
 }

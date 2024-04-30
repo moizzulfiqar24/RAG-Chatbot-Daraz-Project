@@ -1,43 +1,58 @@
 {
-    "URL": "https://www.daraz.pk/products/khm-m65-i482847604-s2272004748.html?search=1"
+    "URL": "https://www.daraz.pk/products/si-125-c-c-i481741091-s2263093543.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "M Treasures",
-    "Product Name": "KHM M65 fast charger"
+    "Seller Name": "Gadgetshubcompk",
+    "Product Name": "Baseus Super Si Quick Charger 1C 25W With Type C to C Cable"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2263093543": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }Step 1:Filtered out invalid information from productAttributes.Step 2:No additional keywords provided.Step 3:• KHM M65 fast charger for mobiles and tablets.• Wall charger with unspecified power output and ports.Step 4:• Fast charger for mobiles and tablets.• Wall charger with unspecified power output and ports."
+        "Built-in intelligent management chip, automatically matches the current required by the device",
+        "Support PD quick charge, 25W high power output, one step faster in charging",
+        "100-240V wide band voltage, universal in all countries",
+        "High temperature resistant and flame retardant, safe and reliable",
+        "Exquisite appearance, space-saving and portable for traveling"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-8%%",
-            "Rs. 600",
-            "Rs. 550"
+            "-23%%",
+            "Rs. 4999",
+            "Rs. 3850"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "94%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

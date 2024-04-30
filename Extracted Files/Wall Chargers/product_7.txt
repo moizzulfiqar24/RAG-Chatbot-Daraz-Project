@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/45-i482860886-s2272162412.html?search=1"
+    "URL": "https://www.daraz.pk/products/usb-c-c-35-i487488959-s2290071957.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "NewAnsariTraders",
-    "Product Name": "Infinix and Techno Genieune Box Out Adaptors 45W Superfast."
+    "Seller Name": "TF Technology",
+    "Product Name": "Apple USB-C + C 35W Power Adopter Iphone Adopter Three Pin Adopter Fast Charger Adopter Fast Charging Adopter"
 }
 
 {
@@ -16,29 +16,39 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2290071957": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }• Genuine Infinix and Techno 45W Superfast Box Adaptors• Suitable for Mobiles &amp; Tablets, Wall Chargers category• Power Output: Not Specified• 1 port for convenient charging• High-quality, reliable charging solution for your devices"
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Apple USB-C + C 35W Power Adopter- Brand: Apple- Category: Mobile Accessories&gt;Wall Chargers- Model: A2306Step 2:- Additional Keywords: USB-C, 35W, Power AdapterStep 3:• Apple USB-C + C 35W Power Adapter for mobile devices.• Fast and efficient charging with 35W power output.• Compatible with various Apple and USB-C devices.• Sleek and compact design for portability.• Ideal for charging on the go or at home.Step 4:• Informative and reliable product highlights.Step 5:• Highlights delivered."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-23%%",
-            "Rs. 4500",
-            "Rs. 3450"
+            "-14%%",
+            "Rs. 3500",
+            "Rs. 2999"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "90%",
+        "Positive Seller Ratings": "100%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

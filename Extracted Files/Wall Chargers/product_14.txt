@@ -1,49 +1,63 @@
 {
-    "URL": "https://www.daraz.pk/products/10-i487208787-s2287900906.html?search=1"
+    "URL": "https://www.daraz.pk/products/airyesh-qc-30-fast-charger-with-4-usb-port-3a-30w-quick-charge-for-all-brands-black-i486860224-s2285780537.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "HaithamElectrics",
-    "Product Name": "Mobile Charger Adapter All Mobile 1.0 Ampere Quick Charge"
+    "Seller Name": "AIRYESH ELECTRONICS (SMC-PRIVATE )LIMITED",
+    "Product Name": "AirYesh QC 3.0 Fast Charger With 4 USB Port 3A 30W Quick Charge For All Brands - Black"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "0": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Input : 100-240V 50-60 Hz 0.50.A",
-        "Output : 5.0V–1.0A",
-        "Enables rapid recharge on your devices.",
-        "Whether at home, the office, or on the go, Charging Wall Charger will have your device to full charge.",
-        "Charge other Micro USB devices at a 1A speed",
-        "Charge your phone from a wall outlet via AC adapter and Micro/C Type USB cable"
+        "4 USB Port",
+        "3A 30W total 4 port Output",
+        "Red port FAST CHARGING OUTPUT 3A 5V",
+        "Red Port is Fast Charging",
+        "The other 3 ports are Normal Charging",
+        "Your phone must support fast charging for fast charging",
+        "If your Phone Support VOOC or Flash charge then this charger will not charge your Phone Fast",
+        "Qualcomm QC 3.0",
+        "Supports Every Device.",
+        "Circuit Protection",
+        "Intelligent Output",
+        "Over Heat Protection",
+        "Tested Before Shipping"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-43%%",
-            "Rs. 175",
-            "Rs. 99"
+            "-33%%",
+            "Rs. 1800",
+            "Rs. 1199"
         ]
     ]
 }
 
 {
     "Additional Info": {
-        "Positive Seller Ratings": "93%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

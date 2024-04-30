@@ -1,38 +1,50 @@
 {
-    "URL": "https://www.daraz.pk/products/36-pd-lg-v60-i487808921-s2300229853.html?search=1"
+    "URL": "https://www.daraz.pk/products/jiyo-lucky-oppo-x-mobile-phone-charge-micro-jack-8600-one-minute-1-quick-charging-i482950720-s2272682266.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Techdock Mart",
-    "Product Name": "Moso Charger 36watt PD Adoptor Best For Gaming Mobile Phones OnePlus|| LG V60|| Google Pixel || Samsung Galaxy||"
+    "Seller Name": "RAHIB MOBILE ACCESSORIES",
+    "Product Name": "JIYO LUCKY | OPPO X MOBILE PHONE CHARGE | MICRO JACK 8600 | ONE MINUTE 1% | QUICK CHARGING"
 }
 
 {
     "Color Family": [
-        "Black"
+        "White"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Moso | 36W Fast Charger | Reliable And Durable | With USB Type-C | For Laptop And Mobiles | Charger",
-        "Moso 36W Fast Charger Specifications and Price in Pakistan: Brand: Moso 36W Fast Charger Reliable And Durable For Laptops And Mobiles With USB-C cable Output Voltage Range: 15W 5.0V 3A or 36W 15.0V 2.4A Input: [redacted phone number]V AC /50-60Hz 1.0A max"
+        "Fast chargeing ",
+        "Double usb output",
+        "Quick charger",
+        "100 % Fast charger",
+        "Micro jack 8600",
+        "Fast &amp; safe charging "
     ]
 }
 
 {
     "Price Info": [
         [
-            "-27%%",
-            "Rs. 3000",
-            "Rs. 2200"
+            null,
+            null,
+            "Rs. 599"
         ]
     ]
 }

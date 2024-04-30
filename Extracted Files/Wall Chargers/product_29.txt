@@ -1,36 +1,47 @@
 {
-    "URL": "https://www.daraz.pk/products/20-usb-c-20-2-i486881803-s2286078534.html?search=1"
+    "URL": "https://www.daraz.pk/products/80-i489029975-s2300505378.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "HYM Sales",
-    "Product Name": "Apple 20w Original Fast Charger for iPhone with Charging Cable USB C to Lightning 20W Power Adapter – 2 Pin Charger"
+    "Seller Name": "Al-Azan",
+    "Product Name": "Oneplus 80w Charger Orignal"
 }
 
 {
-    "Color Family": []
+    "Color Family": [
+        "Black"
+    ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2300505378": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "UK Plug USB Type C 20W PD Wall Charger Type-C 20w USB-C Power Adapter For iPhone 14/13/12/11 Fast Charger ",
-        "Comes in sealed box / Same working day dispatch Package (Optional):1x 20W PD Plug OR1X USB C Cable OR 1x 20W PD Plug + USB C Cable"
+        "Orginal iPhone_ Fast Charger 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-53%%",
-            "Rs. 2550",
-            "Rs. 1190"
+            null,
+            null,
+            "Rs. 2500"
         ]
     ]
 }
@@ -47,6 +58,6 @@
         "Subtitle": "Change of mind is not applicable",
         "Title": "14 days free & easy return"
     },
-    "Warranty": "Warranty not available"
+    "Warranty": "1 Month Brand Warranty"
 }
 

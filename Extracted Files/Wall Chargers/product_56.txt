@@ -1,46 +1,68 @@
 {
-    "URL": "https://www.daraz.pk/products/100-18-usb-a-pd-i486801498-s2287229179.html?search=1"
+    "URL": "https://www.daraz.pk/products/20-u-c-i488436206-s2297862631.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Techmob",
-    "Product Name": "100% Original Tecno 18W Super Fast Charger with USB to Type A Cable (Global Certified Charger) Pd Charger For all Mobile Phone"
+    "Seller Name": "##KIyFfvqc$$",
+    "Product Name": "Baseus 20W compact charger U+C"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2297862631": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
-    "desc": "",
+    "desc": "Step 1:<br/>Filtered productAttributes: <br/>{<br/>  \\\"Product Title\\\": \\\"Baseus 20W compact charger U+C\\\",<br/>  \\\"Power Output (W)\\\": \\\"5V / 2.0A\\\",<br/>  \\\"Ports\\\": \\\"2\\\",<br/>  \\\"Category Path\\\": \\\"Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers\\\"<br/>}<br/><br/>Step 2:<br/>additionalKeyWords: None<br/><br/>Step 3:<br/>Introducing the Baseus 20W compact charger U+C, a reliable solution for charging your mobile devices. With a power output of 5V / 2.0A and 2 ports, this charger is designed to efficiently power up your devices. Its compact design makes it perfect for travel and everyday use. Whether you're at home, in the office, or on the go, this charger ensures fast and convenient charging for your mobile phones and tablets.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative.<br/><br/>Product Description:<br/>Introducing the Baseus 20W compact charger U+C, a reliable solution for charging your mobile devices. With a power output of 5V / 2.0A and 2 ports, this charger is designed to efficiently power up your devices. Its compact design makes it perfect for travel and everyday use. Whether you're at home, in the office, or on the go, this charger ensures fast and convenient charging for your mobile phones and tablets.",
     "highlights": [
-        "Android/Tecno Charger",
-        "18W Charger",
-        "Premium Quality",
-        "Fast USB to Type A Cable"
+        "Step 1:",
+        "- Product Title: Baseus 20W compact charger U+C",
+        "- Power Output (W): 5V / 2.0A",
+        "- Ports: 2",
+        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers",
+        "Step 2:",
+        "- additionalKeyWords not found.",
+        "Step 3:",
+        "• Baseus 20W compact charger with dual ports for efficiency.",
+        "• Delivers 5V / 2.0A power output for fast charging.",
+        "• Suitable for mobiles, tablets, and other compatible devices.",
+        "Step 4:",
+        "- No false information found.",
+        "Step 5:",
+        "- Return the product highlights to the user."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-25%%",
-            "Rs. 1000",
-            "Rs. 750"
+            "-19%%",
+            "Rs. 3649",
+            "Rs. 2949"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "78%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

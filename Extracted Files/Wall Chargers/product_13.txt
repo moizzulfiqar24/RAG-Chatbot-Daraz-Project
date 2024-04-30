@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/engine-fast-charging-mobile-charger-compatible-i485780775-s2281547172.html?search=1"
+    "URL": "https://www.daraz.pk/products/led-4-usb-45-i488715295-s2298686198.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "AliaTrade",
-    "Product Name": "Engine Fast charging Mobile Charger Compatible"
+    "Seller Name": "haroon e store",
+    "Product Name": "LED Charger With 4 USB Hubs Orignal Charger 4.5 A Charger Powerfull Charger"
 }
 
 {
@@ -16,23 +16,32 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2298686198": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Ultra Fast charging to save your time.100% Compatible Fast Charging Adapter, Good Charging Speeds &amp; Easy to carry Smart Charge.Auto Detects the connected device and charges it at the fastest speed of the device.",
-        "CHARGE FAST,OVER AND OVER : FAST charge your smartphones and tablets without decreasing your batterys lifespan thanks to the optimized battery charging algorithm and qualcomm quickcharge 2.0 technology"
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: LED Charger With 4 USB Hubs- Category: Mobile Accessories>Wall ChargersStep 2:- Additional Keywords: Original, 4.5A, PowerfulStep 3:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 4:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 5:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-36%%",
-            "Rs. 1400",
-            "Rs. 900"
+            null,
+            null,
+            "Rs. 545"
         ]
     ]
 }

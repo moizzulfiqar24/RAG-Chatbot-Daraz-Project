@@ -1,57 +1,54 @@
 {
-    "URL": "https://www.daraz.pk/products/2usb-st-95-i482846596-s2272015058.html?search=1"
+    "URL": "https://www.daraz.pk/products/9-5-18a-a02760-uk-i481788923-s2263686026.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "MusaTraders.Tech",
-    "Product Name": "2USB Charger ST-95"
+    "Seller Name": "Muhammad Smart Store",
+    "Product Name": "Genuine Amazon 9W 5V 1.8A Power Adapter Three Pin Plug A02760 (Used UK Lot)"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2263686026": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "Step 1:",
-        "- Product title: 2USB Charger ST-95",
-        "- Category: Mobile Accessories, Wall Chargers",
-        "- Model: CHST95",
-        "- Ports: 2",
-        "Step 2:",
-        "- Additional Keywords: None",
-        "Step 3:",
-        "• 2USB Charger ST-95 with 2 ports for efficient charging.",
-        "• Model CHST95, suitable for mobiles and tablets.",
-        "• Wall charger for convenient charging at home or office.",
-        "Step 4:",
-        "- No false information found.",
-        "Step 5:",
-        "- Return the product highlights to the user."
+        "    pre {        white-space: pre-wrap;    }• Genuine Amazon 9W 5V 1.8A Power Adapter• Three Pin Plug A02760 (Used UK Lot)• Mobile Accessories>Wall Chargers category• 1 port for charging• Power Output (W) information not specified"
     ]
 }
 
 {
     "Price Info": [
         [
-            "-48%%",
-            "Rs. 1450",
-            "Rs. 750"
+            null,
+            null,
+            "Rs. 350"
         ]
     ]
 }
 
 {
     "Additional Info": {
+        "Positive Seller Ratings": "100%",
         "Ship on Time": "100%",
         "Chat Response Rate": "Not enough data"
     }

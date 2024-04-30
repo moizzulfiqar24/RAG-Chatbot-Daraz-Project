@@ -16,7 +16,17 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2272179122": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
 }
 
 {

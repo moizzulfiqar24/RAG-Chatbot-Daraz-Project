@@ -1,12 +1,12 @@
 {
-    "URL": "https://www.daraz.pk/products/arj-12-24-usb-71-i487513406-s2290252337.html?search=1"
+    "URL": "https://www.daraz.pk/products/khm-m65-i482847604-s2272004748.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "TRADESMS",
-    "Product Name": "ARJ 12-24V USB Fast Charger model 7.1 + Solar Clamp Charger"
+    "Seller Name": "M Treasures",
+    "Product Name": "KHM M65 fast charger"
 }
 
 {
@@ -16,22 +16,32 @@
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2272004748": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "    pre {        white-space: pre-wrap;    }• The ARJ 12-24V USB Fast Charger model 7.1 includes a solar clamp, allowing for convenient solar charging while traveling or outdoors.• This charger is designed with advanced fast charging technology, guaranteeing efficient and rapid charging for various devices.• It offers a power output of 12v and features 3 ports, enabling the simultaneous charging of multiple devices, making it ideal for on-the-go use."
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered out invalid information from productAttributes.Step 2:No additional keywords provided.Step 3:• KHM M65 fast charger for mobiles and tablets.• Wall charger with unspecified power output and ports.Step 4:• Fast charger for mobiles and tablets.• Wall charger with unspecified power output and ports."
     ]
 }
 
 {
     "Price Info": [
         [
-            "-9%%",
-            "Rs. 670",
-            "Rs. 610"
+            "-8%%",
+            "Rs. 600",
+            "Rs. 550"
         ]
     ]
 }

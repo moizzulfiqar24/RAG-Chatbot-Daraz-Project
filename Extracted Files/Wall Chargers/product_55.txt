@@ -1,29 +1,38 @@
 {
-    "URL": "https://www.daraz.pk/products/18w-18w-v1820b-eu-i487366215-s2288897955.html?search=1"
+    "URL": "https://www.daraz.pk/products/20-pd-i487217631-s2287938249.html?search=1"
 }
 
 {
     "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
     "Brand Name": "No Brand",
-    "Seller Name": "Zainab.com",
-    "Product Name": "VIVO 18.W Original Used Adaptor With out box 18.W Fast Chager Model.v1820B-EU"
+    "Seller Name": "Hadiya communications",
+    "Product Name": "iphone 20 wat pd charger with lighting one year wranty"
 }
 
 {
     "Color Family": [
-        "White"
+        "Black"
     ]
 }
 
 {
-    "Delivery Info": {}
+    "Delivery Info": {
+        "2287938249": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
 }
 
 {
     "desc": "",
     "highlights": [
-        "VIVO Adaptor 18.W Model.v1820B-EU",
-        "ADAPTOR MODEL      V1820B-EUINPUT:       100 240V 50/60Hz 0.5AOUTPOT     5V ===2A          OR     9V ===2A                    18w FAST CHARGER "
+        "Orginal iPhone_ Fast Charger 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
     ]
 }
 
@@ -32,7 +41,7 @@
         [
             null,
             null,
-            "Rs. 1570"
+            "Rs. 3150"
         ]
     ]
 }
@@ -49,6 +58,6 @@
         "Subtitle": "Change of mind is not applicable",
         "Title": "14 days free & easy return"
     },
-    "Warranty": "Warranty not available"
+    "Warranty": "1 Year Brand Warranty"
 }
 
