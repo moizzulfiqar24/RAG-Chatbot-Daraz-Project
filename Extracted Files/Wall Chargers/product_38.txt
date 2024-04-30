@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/25-i486279632-s2283422956.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FS Mobile Accessoriess",
+    "Product Name": "25w adapter"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Samsung Charger",
+        "45W Charger",
+        "Premium Quality",
+        "Fast Type C to Type C Cable",
+        "50% in just 30 Minutes Guaranteed"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 700"
+        ],
+        [
+            null,
+            null,
+            "Rs. 650"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

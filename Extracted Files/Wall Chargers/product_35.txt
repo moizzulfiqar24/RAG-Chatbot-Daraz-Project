@@ -1,0 +1,53 @@
+{
+    "URL": "https://www.daraz.pk/products/da140-24-2-usb-i486144122-s2283185969.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AL SADIQ 1648202961",
+    "Product Name": "Dodocool DA140 24W 2-Port USB Wall Charger"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "Warranty warranty warranty 2 month replacement warranty",
+    "highlights": [
+        "Warranty warranty warranty 2 month replacement warrantydodocool 24W 2-Port USB-A Wall Charger provides two high-speed USB charging ports and enables you to charge up to two USB-powered devices simultaneously."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1500"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

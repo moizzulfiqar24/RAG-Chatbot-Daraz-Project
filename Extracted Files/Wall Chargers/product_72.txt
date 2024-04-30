@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/9-9r-9rt-5g-65-usb-c-i488714062-s2298602384.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Al Makkah Gadgets",
+    "Product Name": "Genuine OnePlus 9 9R 9Pro 9RT 5G Warp Charge 65W Charger USB C Charging Cable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Additional Information    ",
+        "TechnicalDataInput100-240V~ 50/60Hz 1.8Aoutput5.0V 3.0A or 10.0V 6.5A(65.0W MAX)Port typeUSB-C"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-67%%",
+            "Rs. 1359",
+            "Rs. 449"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

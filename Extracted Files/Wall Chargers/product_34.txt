@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/35-pd-usb-a-usb-c-i488784437-s2299286134.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "S.K SHOP 2023",
+    "Product Name": "Sumsung 35W PD Adapter USB-A and USB-C  Charger"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered productAttributes:- productTitle: Sumsung 35W PD Adapter USB-A and USB-C Charger- categoryPath: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Ports: 2Step 2:additionalKeyWords not provided.Step 3:• Sumsung 35W PD Adapter for USB-A and USB-C.• Suitable for mobiles, tablets, and other USB-powered devices.• Features 2 ports for simultaneous charging.• Sleek design for easy portability and convenience.Step 4:N/AStep 5:Returned product highlights."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-29%%",
+            "Rs. 4500",
+            "Rs. 3200"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "75%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

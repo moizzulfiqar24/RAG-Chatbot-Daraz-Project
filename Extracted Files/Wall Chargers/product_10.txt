@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/lma-30-i487049062-s2287274822.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Friends_Accessories",
+    "Product Name": "Adaptive LMA RUNNING LIGHT 3.0 CHARGER"
+}
+
+{
+    "Color Family": [
+        "Green"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Charging HUB Power Strip Universal Charging Station",
+        "Power cord length: 1.5 meters",
+        "3.0 FAST USB TRAVEL CHARGER ",
+        "CHARGE ANY USB POWERED DEVICE AT HOME ",
+        "OVER VOLTAGE PROTECTION",
+        "SHORT CIRCUIT PROTECTION",
+        "OVERLOAD PROTECTION",
+        "MEGATHERMAL PROTECTION",
+        "OVER CHARGING PROTECTION",
+        "CHARGER FOR IOS and ANDRIOD",
+        "CHARGE 3 DEVICES AT SAME TIME ",
+        "INPUT : AC 100-240V-50/60Hz",
+        "OUTPUT : DC 5V=3.0A MAX"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-36%%",
+            "Rs. 550",
+            "Rs. 350"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

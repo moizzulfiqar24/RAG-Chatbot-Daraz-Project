@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/20-pd-3-uk-c-20-i485062421-s2277859985.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Arsalan Communication",
+    "Product Name": "100% Original 20W PD Charger - 3PIN UK Plug Fast iPhone Charger With Type-C to Lightning Cable 20W Supported | Power Adapter for iPhone"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "Introducing our 100% Original 20W PD Charger with a 3PIN UK Plug, designed for lightning-fast iPhone charging. Here are some highlights:",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Lightning-Fast Charging: Delivers 20W of power for rapid charging of your iPhone.",
+        "UK Plug Compatibility: Designed with a 3PIN UK Plug for seamless use in UK outlets.",
+        "Type-C to Lightning Cable: Includes a Type-C to Lightning Cable for easy connection to your iPhone.",
+        "Safe Charging: Built-in safety features prevent overheating, overcharging, and short circuits.",
+        "Compact Design: Portable and lightweight, perfect for travel or everyday use.",
+        "High-Quality Construction: Made with premium materials for durability and reliability.",
+        "Official Apple MFi Certified: Ensures compatibility and reliability with Apple devices."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-43%%",
+            "Rs. 3500",
+            "Rs. 1999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

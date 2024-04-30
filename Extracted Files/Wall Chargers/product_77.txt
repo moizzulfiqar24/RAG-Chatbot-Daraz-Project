@@ -1,0 +1,57 @@
+{
+    "URL": "https://www.daraz.pk/products/12-usb-c-i482865282-s2282906318.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "BignBuy",
+    "Product Name": "USB-C Iphone 12 Adopter"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "<strong>iPhone 12 Adopters</strong>: These tech-savvy individuals have embraced the sleek and powerful iPhone 12, making it an integral part of their daily lives. They appreciate its cutting-edge features, including:",
+    "highlights": [
+        "Iphone  Charger",
+        "20W Charger",
+        "Premium Quality",
+        "Fast Type C to Type C Cable",
+        "50% in just 30 Minutes Guaranteed"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-14%%",
+            "Rs. 1300",
+            "Rs. 1120"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

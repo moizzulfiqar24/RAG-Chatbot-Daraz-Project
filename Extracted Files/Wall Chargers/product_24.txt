@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/45w-c-c-pd-i484559559-s2276504158.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Accessorcell",
+    "Product Name": "Original Samsung_45W Super Fast Charger With Type-C to Type-C Cable | PD Charger For all Mobile Phones - Global Certified"
+}
+
+{
+    "Color Family": [
+        "45w Charger+Cable",
+        "Type C to C Cable",
+        "45w Samsung Charger"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "<b><i>Product Description:\\n</i></b>Introducing the Original Samsung 45W Super Fast Charger with Type-C to Type-C Cable, a powerful PD charger designed for all mobile phones. This global certified charger delivers a power output of 5V/2.0A through its single port, ensuring rapid and efficient charging. With its compatibility with various mobile devices, including smartphones and tablets, this charger is an essential accessory for users on the go. The Type-C to Type-C cable provides a secure and reliable connection, making it a convenient solution for charging needs.</pre><p><img src=\\\"https://pk-live-21.slatic.net/kf/S9b8743b18b3a4238b480ba6099f281faZ.jpg\\\" alt=\\\"Image\\\"/><br/>",
+    "highlights": [
+        "Original Samsung 45W Super Fast Charger with Type-C to Type-C Cable",
+        "PD Charger for all Mobile Phones - Global Certified",
+        "Power Output 45W",
+        "1 type-c/PD Port with cable",
+        "Suitable for Mobiles &amp; Tablets",
+        "Wall Charger"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 1850",
+            "Rs. 1280"
+        ],
+        [
+            "-34%%",
+            "Rs. 590",
+            "Rs. 390"
+        ],
+        [
+            "-36%%",
+            "Rs. 1480",
+            "Rs. 940"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "80%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

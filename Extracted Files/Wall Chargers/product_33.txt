@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/-i485366265-s2279900276.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "kashif lakhi",
+    "Product Name": "Mini Fast Charger Super Qualty Joyroom"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered out invalid information such as 'No brand' or 'Test'.Step 2:No additional keywords provided.Step 3:• Mini Fast Charger for mobiles and tablets.• Superb quality from Joyroom brand.• Power output and ports specifications not specified.Step 4:• Mini Fast Charger for mobiles and tablets.• Superb quality from Joyroom brand.• Power output and ports specifications not specified.Step 5:Returned the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-33%%",
+            "Rs. 9000",
+            "Rs. 5987"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

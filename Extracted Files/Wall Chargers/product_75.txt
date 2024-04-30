@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/cp-04-i487707265-s2292574004.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AL Manzil Store",
+    "Product Name": "Fast Charger Maxon wall charger Model CP-04"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "- Product Title: Fast Charger Maxon wall charger Model CP-04<br/>- Power Output (W): 5V / 2.0A<br/>- Ports: 1<br/>Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers<br/><br/>- fast and easy to charge<br/>- Maxon cp-04 wall charger",
+    "highlights": [
+        "Fast Charger Maxon wall charger Model CP-04",
+        "- Power Output (W): 5V / 2.0A",
+        "- Ports: 1",
+        "- Fast Charger",
+        "- Wall Charger",
+        "- Mobile Accessories",
+        "- 5V / 2.0A",
+        "- Maxon Model CP-04",
+        "• Fast Charger with 5V / 2.0A power output.",
+        "• Compact wall charger with one port for convenience.",
+        "• Compatible with mobiles and tablets for efficient charging.",
+        "• Fast Charger with 5V / 2.0A power output.",
+        "• Compact wall charger with one port for convenience.",
+        "• Compatible with mobiles and tablets for efficient charging."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 899"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/-i486794326-s2285401045.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Welcome Power Point",
+    "Product Name": "Nokia Original Charger (Moti Pin Wala) Genuine"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "Step 1:\\n- Product Title: Nokia Original Charger (Moti Pin Wala) Genuine\\n- Power Output (W): 5V / 2.0A\\n- Ports: 1\\n- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall Chargers\\n\\nStep 2:\\n- Nokia\\n- Charger\\n- Genuine\\n- Mobile Accessories\\n\\nStep 3:\\n• Genuine Nokia charger with 5V / 2.0A power output.\\n• Designed for mobiles and tablets, with one port.\\n• Original \\\"Moti Pin Wala\\\" charger for reliable performance.\\n\\nStep 4:\\n• Genuine Nokia charger with 5V / 2.0A power output.\\n• Designed for mobiles and tablets, with one port.\\n• Original \\\"Moti Pin Wala\\\" charger for reliable performance.</pre><div></div>\",\"highlights\":\"<ul class=''><li class=''>Step 1:- Product Title: Nokia Original Charger (Moti Pin Wala) Genuine- Power Output (W): 5V / 2.0A- Ports: 1- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall ChargersStep 2:- Nokia- Charger- Genuine- Mobile AccessoriesStep 3:• Genuine Nokia charger with 5V / 2.0A power output.• Designed for mobiles and tablets, with one port.• Original \\\"Moti Pin Wala\\\" charger for reliable performance.Step 4:• Genuine Nokia charger with 5V / 2.0A power output.• Designed for mobiles and tablets, with one port.• Original \\\"Moti Pin Wala\\\" charger for reliable performance.</li></ul>\",\"link\":\"https://www.daraz.pk/products/nokia-original-charger-moti-pin-wala-genuine-i486794326-s2285401045.html\",\"mallTag\":false,\"rating\":{\"score\":0.0,\"total\":0},\"rightImgRatio\":1.9,\"shareTitle\":\"Share Product\",\"title\":\"Nokia Original Charger (Moti Pin Wala) Genuine\",\"wishTitle\":\"Add to Wishlist\",\"wishTitle_added\":\"Added to Wishlist\"},\"qna\":{\"haveMainSellerAnswers\":false,\"hidden\":false,\"paging\":{\"pageSize\":3,\"totalItems\":0},\"params\":{\"mainSeller\":{\"itemId\":\"486794326\",\"sellerId\":\"6005140016439\",\"skuId\":\"2285401045\"}},\"summaryIcon\":\"https://img.alicdn.com/imgextra/i4/O1CN01ev6l3r1UAVoEUiXkp_!!6000000002477-2-tps-80-80.png\",\"summaryTitle\":\"Ask questions about the product.\",\"totalItems\":0,\"totalItemsByMain\":0,\"totalItemsByOthers\":0},\"tabHeading\":\"Nokia Original Charger (Moti Pin Wala) Genuine\",\"htmlRender\":{\"msiteShare\":{\"deepLink\":\"daraz://pk/d?itemId=486794326&ps=486794326_PK-2285401045&skuId=2285401045\",\"description\":\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Nokia Original Charger (Moti Pin Wala) Genuine at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\",\"facebookFallbackValue\":false,\"image\":\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\",\"meta\":\"<meta name=\\\"og:url\\\" content=\\\"https://www.daraz.pk/products/nokia-original-charger-moti-pin-wala-genuine-i486794326-s2285401045.html/\\\" /><meta name=\\\"og:title\\\" content=\\\"Nokia Original Charger (Moti Pin Wala) Genuine\\\" /><meta name=\\\"og:type\\\" content=\\\"product\\\" /><meta name=\\\"og:description\\\" content=\\\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Nokia Original Charger (Moti Pin Wala) Genuine at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\\\" /><meta name=\\\"og:image\\\" content=\\\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\\\" />\",\"showFacebookFallback\":false,\"title\":\"Nokia Original Charger (Moti Pin Wala) Genuine\",\"type\":\"product\",\"url\":\"https://www.daraz.pk/products/nokia-original-charger-moti-pin-wala-genuine-i486794326-s2285401045.html\"}},\"skuInfos\":{\"2285401045\":{\"bottomTagUrls\":[],\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":486794326,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Welcome Power Point\",\"pdt_simplesku\":2285401045,\"pdt_name\":\"Nokia Original Charger (Moti Pin Wala) Genuine\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=486794326_PK-2285401045&_p_prod=486794326&_p_sku=2285401045&_p_slr=6005140016439\"},\"supplier_id\":6005140016439,\"pdt_price\":\"Rs. 650\"},\"image\":\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\",\"inWishlist\":false,\"itemId\":\"486794326\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"salePrice\":{\"text\":\"Rs. 650\",\"value\":650},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":650,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005140016439\",\"skuId\":\"2285401045\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]},\"0\":{\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":486794326,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Welcome Power Point\",\"pdt_simplesku\":2285401045,\"pdt_name\":\"Nokia Original Charger (Moti Pin Wala) Genuine\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=486794326_PK-2285401045&_p_prod=486794326&_p_sku=2285401045&_p_slr=6005140016439\"},\"supplier_id\":6005140016439,\"pdt_price\":\"Rs. 650\"},\"image\":\"https://static-01.daraz.pk/p/92a71e92ca78ce6b8e4d9a085f8b2d63.jpg\",\"inWishlist\":false,\"itemId\":\"486794326\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"salePrice\":{\"text\":\"Rs. 650\",\"value\":650},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":650,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005140016439\",\"skuId\":\"2285401045\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]}},\"vouchers\":{\"2285401045\":{\"params\":{\"timeStamp\":\"1714468117577\",\"itemId\":\"486794326\",\"lzd\":\"7F13294A97FF2166F81F63204A7C9D4EEE3F1C8765009C0FF4A7D05367F98B874910C4AE859EF5545D88DD6249E7E5031B3883894FAB87D97ADE1ADDE30189C745529EA9C5617F3E52239D74B61F1DEAB21CE834960FA9E0B21CE834960FA9E0\",\"skuId\":\"2285401045\",\"checkCode\":\"edc88f720b51026156c3cc0a88e27c5d\"},\"titleContentMore\":{\"content\":\"Min. Spend Rs. 700 Capped at Rs. 120\",\"jumpURL\":\"\",\"numberOfLine\":0,\"title\":\"Vouchers\"},\"voucherPreview\":{\"iconUrl\":\"https://laz-img-cdn.alicdn.com/tfs/TB1S9k7glLoK1RjSZFuXXXn0XXa-45-45.png\",\"moreIconUrl\":\"https://laz-img-cdn.alicdn.com/tfs/TB1BSKbsHrpK1RjSZTEXXcWAVXa-124-64.png\",\"previewList\":[\"100% off\"]}}},\"deliveryOptions\":{\"2285401045\":[{\"badge\":false,\"dataType\":\"delivery\",\"deliveryWorkTimeMax\":\"2024-05-12T15:00+05:00[GMT+05:00]\",\"deliveryWorkTimeMin\":\"2024-05-07T21:00+05:00[GMT+05:00]\",\"description\":\"Enjoy delivery of  your order directly to the doorstep! <br><br><a href=\\\"https://click.daraz.pk/e/_CVFo0H\\\" target=\\\"_blank\\\">Find out more</a>\",\"duringTime\":\"7 - 12 day(s)\",\"extParam\":{},\"fee\":\"Rs. 145\",\"feeValue\":145.0,\"hasTip\":true,\"icon\":\"https://img.alicdn.com/imgextra/i2/O1CN01BKVecZ1ipBbag8T4o_!!6000000004461-2-tps-80-80.png\",\"priority\":2,\"promotion\":\"Enjoy free shipping promotion with minimum 1 items.\",\"title\":\"Free Delivery \",\"titleHeadBold\":2,\"titleTile\":\"7 May - 12 May\",\"type\":\"standard\"},{\"badge\":true,\"dataType\":\"service\",\"description\":\"\",\"extParam\":{},\"feeValue\":0.0,\"hasTip\":true,\"priority\":2147483647,\"title\":\"Cash on Delivery Available\",\"titleHeadBold\":0,\"type\":\"COD\"}]},\"warranties\":{\"2285401045\":[{\"dataType\":\"returnPolicy\",\"description\":\"<p>Change of mind is not applicable as a Return Reason for this product due to one or more of the following reasons:",
+    "highlights": [
+        "Step 1:- Product Title: Nokia Original Charger (Moti Pin Wala) Genuine- Power Output (W): 5V / 2.0A- Ports: 1- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wall ChargersStep 2:- Nokia- Charger- Genuine- Mobile AccessoriesStep 3:• Genuine Nokia charger with 5V / 2.0A power output.• Designed for mobiles and tablets, with one port.• Original \\\"Moti Pin Wala\\\" charger for reliable performance.Step 4:• Genuine Nokia charger with 5V / 2.0A power output.• Designed for mobiles and tablets, with one port.• Original \\\"Moti Pin Wala\\\" charger for reliable performance."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 650"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "80%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

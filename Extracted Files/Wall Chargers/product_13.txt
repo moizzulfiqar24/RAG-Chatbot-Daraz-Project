@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/engine-fast-charging-mobile-charger-compatible-i485780775-s2281547172.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AliaTrade",
+    "Product Name": "Engine Fast charging Mobile Charger Compatible"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Ultra Fast charging to save your time.100% Compatible Fast Charging Adapter, Good Charging Speeds &amp; Easy to carry Smart Charge.Auto Detects the connected device and charges it at the fastest speed of the device.",
+        "CHARGE FAST,OVER AND OVER : FAST charge your smartphones and tablets without decreasing your batterys lifespan thanks to the optimized battery charging algorithm and qualcomm quickcharge 2.0 technology"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-36%%",
+            "Rs. 1400",
+            "Rs. 900"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

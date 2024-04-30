@@ -1,0 +1,53 @@
+{
+    "URL": "https://www.daraz.pk/products/20-usb-c-i488728373-s2298850707.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Moosa.Traders",
+    "Product Name": "Origional Apple 20w power adapter usb-c pin packed"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Original Apple 20W power adapter with USB-C pin.• Brand: Apple, Model: 20W power adapter USB-C.• Category: Mobile Accessories>Wall Chargers.• Power Output: Not specified, Ports: Not specified."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 6000",
+            "Rs. 5000"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
