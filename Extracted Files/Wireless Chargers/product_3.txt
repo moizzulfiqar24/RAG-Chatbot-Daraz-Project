@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/1-2-i488404615-s2297807953.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ZTechnia",
+    "Product Name": "623 Wireless 2 in 1 Charger for iPhones, Samsung, OnePlus, and other Phones other Headphones and Earbuds"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2297807953": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 0",
+                "Promotion": "",
+                "Title": "Free Delivery ",
+                "Title Tile": "10 May - 15 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<img src=\\\"https://dix7fd4yse9rd.cloudfront.net/s/Anker/product/7187086999702/1634108239146_b2568623rc02.jpg\\\" alt=\\\"\\\"/>",
+    "highlights": [
+        "Power for 2: Supports simultaneous wireless charging of your iPhone 13/12 and earbuds in a single place. Time to get rid of those messy cables!",
+        "Flex—Your Way: Flip up the phone-charging platform to a maximum range of 60° and attach your iPhone horizontally or vertically for perfect viewing pleasure.",
+        "Never Feel Weighed Down: Save valuable space with a versatile magnetic charging station that can quickly power up your iPhone and earbuds and is 40% smaller than a soda can.",
+        "Multi-Functional Base: The non-slip base keeps the charging station in place and prevents sliding when charging. It also features a sleep-friendly LED indicator that shows you the charging status*.",
+        "What You Get: Anker 623 Magnetic Wireless Charger (MagGo), 20W USB-C charger, 5 ft (1.5 m) USB-C to USB-C charging cable, welcome guide, 24-month stress-free warranty, and friendly customer service."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 18000",
+            "Rs. 15000"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

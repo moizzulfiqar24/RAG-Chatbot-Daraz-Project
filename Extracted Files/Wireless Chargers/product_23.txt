@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/magsafe-wireless-mobile-charger-high-quality-i465595698-s2199662357.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Bluetooth World",
+    "Product Name": "MagSafe Wireless Mobile Charger – High Quality"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2199662357": {
+            "During Time": "6 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 13 May"
+        }
+    }
+}
+
+{
+    "desc": "Introducing the MagSafe Wireless Mobile Charger – High Quality, a fast charging solution for your mobile devices. This portable charger features magnetic connectivity, ensuring a secure and efficient charging experience. Compatible with a range of mobile devices, this wireless charger is a convenient addition to your tech accessories. Say goodbye to tangled cords and hello to effortless charging with the MagSafe Wireless Mobile Charger – High Quality.",
+    "highlights": [
+        "• MagSafe wireless charger for mobile devices.",
+        "• High-quality design for reliable charging performance.",
+        "• Compatible with a wide range of mobile devices.",
+        "• Convenient wireless charging for mobiles and tablets."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-56%%",
+            "Rs. 2000",
+            "Rs. 875"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "90%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

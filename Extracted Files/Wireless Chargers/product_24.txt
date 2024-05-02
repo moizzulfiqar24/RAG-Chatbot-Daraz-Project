@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/c-8-x-1112-15-i487495251-s2290062875.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "F.M store JHE",
+    "Product Name": "Wireless Magsafe Charger With type C Connected Cable with magsafe Animation Compatible With iphone 8,X,11,12,13,14,15promax"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2290062875": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "10 May - 15 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Wireless Magsafe Charger with Type C Connected Cable- Compatible with iPhone 8, X, 11, 12, 13, 14, 15 Pro Max- Category: Mobile Accessories > Wireless Chargers- Connectivity: USB Type CStep 2:- Additional Keywords: Magsafe, AnimationStep 3:• Wireless Magsafe Charger with Type C Connected Cable• Compatible with iPhone 8, X, 11, 12, 13, 14, 15 Pro Max• Features Magsafe animation for easy and secure attachment• USB Type C connectivity for fast and reliable chargingStep 4:- No false information found.Step 5:- Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1100"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

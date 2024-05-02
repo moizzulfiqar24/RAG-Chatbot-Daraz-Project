@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/tf-rgb-15-i486497483-s2284425427.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Matt's Mart",
+    "Product Name": "Multifunction Wireless Charger Pad Stand Speaker TF RGB Night Light 15W Fast Charging Station for iPhone Samsung Xiaomi Huawei (Black)"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Multifunction Wireless Charger Pad Stand Speaker TF RGB Night Light 15W Fast Charging Station for iPhone Samsung Xiaomi Huawei",
+        "*It works for ALL Phones that support wireless charging !!!",
+        "*Upgrade to Mini Size,So Please note if this size is what you need!!!",
+        "1. Input voltage: 12V/2.5A",
+        "2. Wireless output: 5W-7.5W-10W-15W(Max)",
+        "3. Bluetooth audio power: 5W",
+        "4. Material: ABS PC",
+        "5. Product color: white/black",
+        "6. Lighting mode: 9 modes ligth",
+        "7.Bluetooh Version : 5.0",
+        "8. Transmission distance: 5-10mm",
+        "9. Charging efficiency: 75%",
+        "10. Working frequency: 50HZ-20KHZ",
+        "11. Button battery capacity:",
+        "12. Net weight: 250g(Upgrade to Mini Size)",
+        "13. Product size: 15*15*5.5cm(Upgrade to Mini Size)",
+        "14. It has Bluetooth Speaker function , AUX , TF Card modes , you can choice your favor.",
+        "15.Please Charging all the time if you want to use the wireless charging function. The built-in battery only enough support for bluetooth speaker to play.",
+        "Notice:",
+        "1.For fast charging experience and Use all function at the same time, please use QC 3.0 power adapter.",
+        "2.Press the Second key for 3 seconds to power on."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 3699"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

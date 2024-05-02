@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/jr-wqw01-2000mah-i485509429-s2280627366.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Infinite Variety Store",
+    "Product Name": "JR-WQW01 2000mAh Portable Watch Wireless Charger"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2280627366": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "10 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "1. Extra battery life for iP Watch    ",
+        "2. Provides 3-4 charges for iP watch        ",
+        "3. Charge the latest generation of watch to 60% in 50min            ",
+        "4. Pocket-size and compact design with a keychain                ",
+        "5. Power digital display, clearly knows the remaining power                    ",
+        "6. Auto sense, snap and charge                        ",
+        "7. Widely compatible with all iP Watch                            ",
+        "8. 6-point safety protection including over-current protection, over-voltage protection, etc.                                ",
+        "9. Charging with less heat, it is safer to use                                    "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 4000"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

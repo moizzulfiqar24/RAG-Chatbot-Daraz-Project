@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-wireless-charger-universal-android-micro-usb-type-c-qi-wireless-charger-adapter-receiver-module-i487643372-s2292037307.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "WaheedM Traders",
+    "Product Name": "USB Wireless Charger Universal Android Micro USB Type-C Qi Wireless Charger Adapter Receiver module"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2292037307": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "10 May - 15 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Features: 100% Brand New and High Quality Fits the phone perfectly without disrupting the phone looking and performance. Low heat emission, new improved high efficiency Qi wireless receiver module chip. Ultrathin, lightweight and portable, good for using at home, office, public area, etc. Receiving Voltage: DC5V 1.5A Receiving distance: 2-6mm Charging current: 500-1000mA Transmission power: 5W Working frequency: 100-200KHZ Power conversion: &gt; 75% Charging mode: induction mode Type: TYPE-C Package Includes: 1 x Wireless Charging Receive"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "50%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

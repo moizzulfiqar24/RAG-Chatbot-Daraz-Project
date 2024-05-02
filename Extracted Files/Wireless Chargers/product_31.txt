@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/c-c-i486617684-s2284891461.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SYED UZAIR ENTERPRISE'S",
+    "Product Name": "Type C To Type C Fast Charging Cable Original Fontec"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2284891461": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "9 May - 14 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:Filtered productAttributes:- productTitle: Type C To Type C Fast Charging Cable Original Fontec- Brand: Fontec- categoryPath: Mobiles & Tablets>Mobile Accessories>Wireless Chargers- Model: fontecStep 2:additionalKeyWords not provided.Step 3:• Original Fontec Type C to Type C fast charging cable.• Designed for efficient and reliable charging.• Compatible with various mobile devices and tablets.• Durable and high-quality construction for long-lasting use.Step 4:N/AStep 5:Returned product highlights."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-5%%",
+            "Rs. 300",
+            "Rs. 285"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

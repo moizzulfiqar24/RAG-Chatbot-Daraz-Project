@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/15-i471451793-s2223943705.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Us ElectriHub Agency",
+    "Product Name": "Apple Magsafe charger wireless for Iphone 15W fast charging with cable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2223943705": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Us ElectriHub Agency",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "The Apple MagSafe Wireless Charger is a cutting-edge solution for effortlessly charging your compatible iPhone devices. This sleek and sophisticated accessory seamlessly integrates with the latest iPhone models, featuring an ingenious MagSafe design that ensures perfect alignment for optimal charging efficiency.",
+    "highlights": [
+        "The Apple MagSafe Wireless Charger is a cutting-edge solution for effortlessly charging your compatible iPhone devices. This sleek and sophisticated accessory seamlessly integrates with the latest iPhone models, featuring an ingenious MagSafe design that ensures perfect alignment for optimal charging efficiency.Crafted with precision, the MagSafe Wireless Charger boasts a circular form factor, embodying Apple's signature aesthetic. The minimalist approach to design complements the sleek appearance of your iPhone, creating a cohesive and stylish charging experience.The charger utilizes MagSafe technology, incorporating powerful magnets that securely attach the charger to the back of your iPhone. This magnetic alignment not only ensures a stable connection but also allows for a hassle-free and accurate placement every time you charge your device.With Qi wireless charging technology at its core, the MagSafe Wireless Charger delivers a fast and efficient charging experience. Capable of providing up to 15 watts of power, it enables swift replenishment of your iPhone's battery, keeping you connected and ready for the day ahead.Designed with compatibility in mind, the MagSafe Wireless Charger is tailored for the iPhone 12 series and newer models. While specifically optimized for MagSafe-enabled iPhones, it also offers Qi compatibility, allowing it to work with other wireless charging devices.Experience the convenience and elegance of wireless charging with the Apple MagSafe Wireless Charger—an essential accessory that seamlessly integrates into your Apple ecosystem, providing a reliable and stylish solution for keeping your iPhone powered up."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-56%%",
+            "Rs. 1999",
+            "Rs. 874"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "47%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
