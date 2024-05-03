@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/ios-i210748173-s1417816301.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Doraemon Store",
+    "Product Name": "Stylus Pen Universal Contact Screen Drawing Pen for Android IOS iPad iPhone Samsung Huawei Tablet Lenovo Xiaomi White"
+}
+
+{
+    "Color Family": [
+        "white"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Universal Stylus Pen",
+        "Stylus Pen For IOS",
+        "Stylus Pen For Android",
+        "Stylus Pen For iPad",
+        "Stylus Pen For Samsung Tablet"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-32%%",
+            "Rs. 1735",
+            "Rs. 1188"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

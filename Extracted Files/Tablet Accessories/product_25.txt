@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/m8m8-2nd-8-tb-8505-xf-gen-8-tb-8505-xfn-i350773495-s1782153326.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HRZ STORE",
+    "Product Name": "Lenovo Tab M8 | M8 2nd Gen 8inch TB-8505 X|F|N Flip Cover | Leather Finish | 360 Degree Rotate Flip Cover | Shockproof Style Cover Case for Lenovo Tab M8 | M8 2nd Gen 8inch TB-8505 X|F|N-Black Brand: CEDO"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Red"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "COMPATIBILITY: This cover is compatible with Lenovo Tab M8 / M8 2nd Gen 8inch TB-8505 X/F/N model only",
+        "Rotaional &amp; Hard PC : 360&deg; Rotational Hard PC for Horizontal &amp; Vertical View.",
+        "Double Angle Stand : Adjustable and Double Angle Stand for Multi Angle View.",
+        "Strap Holder : Tough protection and strong grip for Tablet Inside.",
+        "Multi-Angles : You can adjust the Cover as per your Comfortable Viewing Positions."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 949"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "78%",
+        "Ship on Time": "75%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

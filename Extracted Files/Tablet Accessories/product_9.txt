@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/for-honor-pad-x6-97-pad-6-pad-x8-101-tpu-tablet-case-for-honor-pad-x6-97-pad-6-101-i434120732-s2082344633.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Haweel",
+    "Product Name": "For Honor Pad X6 9.7 | Pad 6 | Pad X8 10.1 TPU Tablet Case For Honor Pad X6 9.7 | Pad 6 10.1"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Welcome to our store.",
+        "Follow Us Can get more Follower Welfare.",
+        "Every item you can choose is in stock and you can order directly.",
+        "Any problem you meet, contact our After-sale Service.",
+        "Each item will been checked and in good condition 100% before shipping.",
+        "We are Cross-border Sellers from China,Items Usually Arrives in 7-15days as soon as possible."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 1624",
+            "Rs. 1137"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

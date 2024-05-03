@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/5-a2133-a2123-a2124-a2125-i232362530-s1451789130.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Accessories Point (Lahore)",
+    "Product Name": "iPad Mini 5 Smart Book Cover Case Auto Sleep | Wake Model- A2133 - A2123 - A2124 - A2125"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Tri-fold cover offers sturdy and versatile stand for viewing and typing",
+        "Keep all ports and controls accessible",
+        "Provide full body protection against scratches",
+        "Easy to install and remove",
+        "Please ",
+        "For iPad MINI 5th Gen"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1450"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

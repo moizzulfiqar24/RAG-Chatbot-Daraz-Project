@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/doomhot-wireless-charging-station-stand-20w-charging-dock-desktop-wireless-charger-holder-i409597399-s1961208674.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "DoomHot",
+    "Product Name": "DoomHot  Wireless Charging Station Stand 20W Charging Dock Desktop Wireless Charger Holder"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Type:Wireless Charger",
+        "Material:ABS+PC",
+        "Power:20W",
+        "Charging Port:Type-C",
+        "Transmission Distance:≤8mm",
+        "Support For: iPhone 8/Samsung S9/Huawei MateRS/Xiaomi 10 etc.",
+        " Fast Charging: Supports up to 20W fast wireless charging. Smart charging current control to protect your device's battery under fast charging. Horizontal or vertical placement to enjoy videos while charging.",
+        " 2 In 1 Design:Not only a wireless charger, but also a solid phone stand, so you can play with your phone while charging.",
+        "Stable &amp; Anti-slip: The location where the phone is placed is designed with a non-slip pad, and the stand can be placed smoothly at a 60° angle without fear of easy sliding.",
+        "Wide Compatibility: Widely support the wireless charging function of cell phone charging, support models such as iphone8/Samsung S9/Huawei MateRS/Xiaomi 10."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-37%%",
+            "Rs. 3389",
+            "Rs. 2140"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

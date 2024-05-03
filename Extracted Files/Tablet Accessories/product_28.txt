@@ -1,0 +1,80 @@
+{
+    "URL": "https://www.daraz.pk/products/armico-dual-charging-modes-stylus-pen-for-ipad-with-palm-rejection-tilt-sensitivity-active-touch-screen-apple-pencil-compatible-with-2018-2023-apple-ipad-i447908725-s2137620320.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ARMICO 3C Life",
+    "Product Name": "ARMICO Dual Charging Modes Stylus Pen for iPad with Palm Rejection Tilt Sensitivity Active Touch Screen Apple Pencil Compatible with 2018-2023 Apple iPad"
+}
+
+{
+    "Color Family": [
+        "Button version+Pencil Case",
+        "Touch version+Pencil Case",
+        "Button version",
+        "Touch version",
+        "Only 4 nibs 【NO Pen】"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "【Super Fast Charging &amp; long usage time】When use USB-C charging cable charge about 45 minutes or Magnetic charging about 90 minutes and allows 6~8 hours of continuous use (No fast charging adapter needed) . It auto shuts down after 5 minutes of inactivity to power off.",
+        "【Compatibility Check needed】This Stylus is ONLY compatible with ipads released in 2018 or Later. Here are compatible Model name list: iPad 10th/9th/8th/7th/6th Gen, iPad Pro 11\\\\\\\"(All Generations), iPad Pro 12.9\\\\\\\"(3rd/4th/5th/6th), iPad Mini 6th/5th Gen, iPad Air 5th/4th/3rd Gen. **Please go to [Setting&gt;General&gt;About] to confirm your iPad's model name before placing order. NOT Compatible with other ipad models or any other brand touchscreen devices *",
+        "【Support Palm Rejection 】 Palm rejection is a feature that allows a device like a tablet to differentiate between a stylus or a fingertip and a palm or a wrist, effectively “rejecting” unwanted contact. A device and its software employ a variety of advanced algorithms to figure out which inputs are intended by the user . No need to wear anti-friction gloves as you can rest your hand on the screen without worrying about accidental touches.",
+        "【Support Angle/Tilt Sensitivity 】 Tilt sensitivity is a feature that allows the device to recognize the angle at which the stylus is held. This feature is useful for shading and creating different brush strokes. This feature is useful for drawing and writing applications that require different line thicknesses or shading.",
+        "【1.5mm Fine Tip&amp; High Sensitivity】The 1.5mm ultra fine tip offers a smooth and noiseless writing experience, it is perfect for writing, drawing, detail art work ,playing games with No lag/offset/breaking lines. This iPad pencil comes with 1 replacement nibs to extend the lifetime of the stylus."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-2%%",
+            "Rs. 4569",
+            "Rs. 4459"
+        ],
+        [
+            "-4%%",
+            "Rs. 4299",
+            "Rs. 4109"
+        ],
+        [
+            "-48%%",
+            "Rs. 1999",
+            "Rs. 1049"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,77 @@
+{
+    "URL": "https://www.daraz.pk/products/15-i487666677-s2292297449.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Tayyabbhaistore",
+    "Product Name": "iPhone 15 pro cover"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Step 1:",
+        "- Product title: iPhone 15 pro cover",
+        "- Category: Mobiles &amp; Tablets, Tablet Accessories, Cases &amp; Covers",
+        "- Type: Back Cover",
+        "Step 2:",
+        "- Additional Keywords: Express delivery to Abbottabad",
+        "Step 3:",
+        "• iPhone 15 pro back cover for ultimate protection.",
+        "• Sleek design to complement your device’s aesthetics.",
+        "• Express delivery available to Abbottabad for convenience.",
+        "Step 4:",
+        "- No false information found.",
+        "Step 5:",
+        "• iPhone 15 pro back cover for ultimate protection.",
+        "• Sleek design to complement your device’s aesthetics.",
+        "• Express delivery available to Abbottabad for convenience."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 10000",
+            "Rs. 5000"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

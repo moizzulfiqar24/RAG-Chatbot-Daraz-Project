@@ -1,0 +1,79 @@
+{
+    "URL": "https://www.daraz.pk/products/12-i489325860-s2303323617.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "R.A.O SHOPS",
+    "Product Name": "I Phone 12 case cover pouch"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: I Phone 12 case cover pouch- Category: Mobiles & Tablets>Tablet Accessories>Cases & Covers- Case Material: Fabric and PlasticStep 2:- Additional Keywords: NoneStep 3:• Protect your I Phone 12 with fabric and plastic case.• Designed for a snug fit and easy access.• Keep your phone safe from scratches and minor impacts.Step 4:- No false information found.Step 5:- Highlights generated."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 950"
+        ],
+        [
+            null,
+            null,
+            "Rs. 990"
+        ],
+        [
+            null,
+            null,
+            "Rs. 850"
+        ],
+        [
+            null,
+            null,
+            "Rs. 1000"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/8-7-6-14-13-12-11-i485884184-s2282475804.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sunshineing",
+    "Product Name": "Cable For Apple iWatch Wireless Charger Watch 8 7 6 SE Charging For iPhone 14 13 12 11 USB Lightning Charging Cable"
+}
+
+{
+    "Color Family": [
+        "1 IN 1 Cable",
+        "2 IN 1 Cable"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Cable For Apple iWatch Wireless Charger Watch 8 7 6 SE Charging For iPhone 14 13 12 11 USB Lightning Charging Cable",
+        "Origin:Mainland China"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 3299",
+            "Rs. 2749"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/15-i470835232-s2220340858.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "WaNai Store",
+    "Product Name": "Multifunction Wireless Charger Pad Stand Speaker TF RGB Night Light 15W Fast Charging Station for iPhone Samsung Xiaomi Huawei"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Multifunction Wireless Charger Pad Stand Speaker TF RGB Night Light 15W Fast Charging Station for iPhone Samsung Xiaomi Huawei",
+        "Certification:RoHS,CE,FCC",
+        "Set Type:With USB Cable and charger",
+        "Compatible Brand:Apple iPhone",
+        "Connector Type:Type C",
+        "Features:With Charging Indicator,With Cable,With LED Light,With holder,With Lamp,WIth Clarm",
+        "Max. Output Power:15W",
+        "Origin:Mainland China"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-32%%",
+            "Rs. 4041",
+            "Rs. 2767"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "75%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

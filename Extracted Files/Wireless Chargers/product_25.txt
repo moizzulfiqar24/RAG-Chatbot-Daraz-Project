@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/10w-fast-wireless-charger-for-lg-v50-vivo-y21e-tecno-spark-go-2024-redmi-k60-qi-wireless-charging-pad-with-usb-cable-gift-case-i469308941-s2216077019.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ambiguoose",
+    "Product Name": "10W Fast Wireless Charger for LG V50 VIVO Y21e Tecno Spark Go 2024 Redmi K60 Qi Wireless Charging Pad with USB Cable Gift Case"
+}
+
+{
+    "Color Family": [
+        "Red with Cable",
+        "Black with Cable",
+        "White with Cable",
+        "Bule with Cable"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "10W Fast Wireless Charger for LG V50 VIVO Y21e Tecno Spark Go 2024 Redmi K60 Qi Wireless Charging Pad with USB Cable Gift Case",
+        "Connector Type:Type C",
+        "Features:With Cable",
+        "Brand Name:WELAIDE",
+        "Origin:Mainland China"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 4585",
+            "Rs. 3021"
+        ],
+        [
+            "-37%%",
+            "Rs. 3933",
+            "Rs. 2478"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

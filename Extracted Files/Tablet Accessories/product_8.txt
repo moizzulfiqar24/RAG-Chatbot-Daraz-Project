@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/8-pack-replacement-tip-for-apple-pencil-nibs-for-apple-pencil-1st-2nd-generation-white-i412199567-s1969339598.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "BULIER SHOP",
+    "Product Name": "8 Pack Replacement Tip for Apple Pencil Nibs for Apple Pencil 1St & 2Nd Generation (White)"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Designed for (i)Pad Pencil: Keep extra tips for your (i)Pad Pencil at the ready. Compatible with (i)Pad Pencil and (i)Pad Pencil (2nd generation). (i)Pad with screen protector is also Supported.",
+        "Compatible Model: Compatible with (i)Pad Air (3rd Generation) / (i)Pad mini (5th Generation) / (i)Pad Pro 11-inch / (i)Pad Pro 12.9-inch (3rd Generation) /(i)Pad Pro 10.5-inch / (i)Pad (6th Generation) / (i)Pad Pro 12.9-inch (2nd Generation) / (i)Pad Pro 12.9-inch (1st Generation) / (i)Pad Pro 9.7-inch",
+        "Durable and Sensitive: Klearlook (i)Pad Pencil Tips are made of advanced materials which have high accuracy. It can help you work and study more efficient.",
+        "Easy to use: Easy to install and remove by just rotating it counter-clockwise, as easy as it gets."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-29%%",
+            "Rs. 834",
+            "Rs. 596"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

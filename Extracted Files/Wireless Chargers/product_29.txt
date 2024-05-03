@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/4-4-i486040668-s2282850558.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sunshineing",
+    "Product Name": "USB Dual Charger For PS4 Controller Accessories Charging Dock Stand Holder For Sony PlayStation 4 Wireless Gamepad Controle"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "USB Dual Charger For PS4 Controller Accessories Charging Dock Stand Holder For Sony PlayStation 4 Wireless Gamepad Controle",
+        "Compatible Sony Model:PLAYSTATION4,PS4 Pro,PS4 Slim",
+        "Compatible Brand/Model:Sony/索尼",
+        "Brand Name:TECTINTER",
+        "Origin:Mainland China",
+        "Certification:CE,RoHS"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 3299",
+            "Rs. 2749"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
