@@ -1,0 +1,413 @@
+Daraz Advertising Solution-DAS:
+
+What is Daraz Advertising Solution and how does it benefits sellers?
+DAS ( Daraz Advertising Solution ) is a new feature in which seller can boost his products on Daraz Website for better visibility and revenue, It is a prepaid which sellers have to buy the credits in advance
+Benefits of Sponsored Search
+Tap into millions of searches buyers make daily on the Daraz platform
+Search marketing tool drives awareness and conversion from buyers with specific purchase intent
+Bid on relrevant keywords to appear on priority slots in Search Results page and pay only for clicks
+
+How to maintain your Product Rank?
+The Product Rank is a combination of bid and promotes product quality. A higher product quality means a better product position (i.e. closer to the top of the search results page).
+The product rank is influenced by 2 factors:
+Bid price, which is the highest amount that sellers are willing to pay for a click on their promoted product. The higher the bid price, the higher the product rank.
+Quality score, which measures the relevancy of the product to the chosen keyword. Other factors include the shopper’s search query and interest in Daraz, general product sales and click history, seller rating, and product title details on PDP
+
+How to Create a Campaign?
+Start a new campaign by:
+Under Advertising menu on the left, select Campaign Management
+Click on the create new campaign button available on the campaign management screen.
+Add the following details in the relevant fields:
+On the Product Selection Screen: Select the products you want to bid for this campaign. A max of 50 products can be selected. You can view the performance for the products on this screen as well to decide which products to boost on search.
+On the Keyword Selection Screen: Select the keywords for each product. A suggested bid price would also be shown to benchmark the bids. Add the bids for each selected keyword (has to be above the floor price) Relevance will be shown for each keyword as well against the product along with other performance metrics.
+On the Review screen: Review the details of the campaign on this screen and make sure all information has been configured correctly. After that, click on the finish button and save the campaign.
+
+How to check Performance Report for DAS?
+Login to Seller Center > Click on Advertising > Click on Performance Report
+For Real-time Report: This can be viewed on a campaign, promoted products or keyword level as well. It will show the performance of the ads + the spends and CPC for the campaign. The graph will visualize the information on a hourly trend.
+For Historical view:
+Past performance of the campaigns ran
+Performance of the products and keywords on a historical level on a 30 day attribution window.
+Performance metrics against each campaign, product, keywords such as ad spend, impressions, clicks, Add to carts, GMV etc.
+Partner can also filter out or export the information.
+
+How to check Account statement for DAS?
+Login to your seller account > go to Finance > Account Statement
+Once you click on it, you will land on a page that will allow you to:
+See the current available credits in the account and promo balance
+Check Monthly Spend on Ads
+Transaction History Breakdown and Invoices
+Add more credits to use for Ads
+
+How to Sign up For Daraz Advertising Solution - DAS?
+You can signup by following mentioned below steps:
+Once you login, click on the “Marketing Solutions” tab in bar on the left and select “Product Ads”.
+Select your daily Budget After that, you can click on Start! button to continue.
+This will bring you to the details part where you will just have to provide any missing info. Once done, click on Submit.
+Note: You can choose to either create your campaign or do it later. Check How to Create a Campaign? to build your first campaign!
+
+Product Quality Index (PQI):
+
+What is the Product Quality Index (PQI)?
+The Product Quality Index (PQI) is a measure we calculate every week to gauge the quality of the products you list on Daraz.
+If your PQI score is high then it means there are quality-related issues with your product that you need to resolve.
+
+How is the Product Quality Index (PQI) Measured?
+The product quality index considers factors like returns, refunds, buyer complaints, low ratings (below or equal to 3 stars), and poor-quality reviews. This allows us to look at your product performance from multiple angles.
+The formula is as below:
+PQI = Returns to Merchant + ((Buyer Complaints + Bad Ratings + Poor Quality Reviews) * 60%) / Total Delivered Items
+kc-oss-1704710306626-image.png
+You can refer to this table to understand how we make decisions for your product quality performance:
+kc-oss-1704710357985-image.png
+Every week, we review your SKU's PQI score. Depending on your score, we may take and it may lead to one of these actions:
+kc-oss-1704710401202-image.png
+1. For temporary delisting -Products with average rating > 4.2 will be excluded.
+2. For permanent delisting - Products with 0 RTMs or average rating> 4.2 will be excluded.
+
+Daraz Live:
+
+How to create a Darazlive stream?
+Before you can create a stream, you need to add products to your Wishlist. Here’s how:
+Go on the Daraz App
+Search for the product you want to feature in the live stream
+Open the product display page
+Click on the heart icon
+The product is now added to your Wishlist.
+Let’s now go over how to create the live stream.
+Go to Daraz App & select Account
+Select Daraz Live under My Services
+Select Schedule Live on the bottom
+Fill in the following details
+Tap on Add Products
+Select the Product to add in live stream
+Select Advanced Settings, click Confirm & Submit
+Your stream is created and Under Review
+Once your video is approved, follow these steps to go live:
+Tap on Go Live on your scheduled time
+Click on Start and you are live
+See what each feature can do by clicking on them
+Flash products by clicking on the icon next to the products
+
+What is Daraz Live?
+DarazLive is a feature on the Daraz App that allows sellers to promote their products through a live video.
+DarazLive is a video-streaming feature that allows sellers to promote their products through live videos.
+This helps sellers gain more sales, create brand loyalty, and build their shopper community.
+Sellers can prepare for their live stream by having a good script, offering Vouchers, and using a mobile phone.
+
+What types of content can I upload on Darazlive?
+You can upload four different types of content to darazlive.
+Episode Series
+Product Demonstrations
+Games/Super Shows
+Unboxing and Reviews
+
+Seller Tools:
+
+How does the boosting mechanism work?
+The boosting mechanism will be based on the performance of the SKU including sales, conversion rate, product reviews.
+
+When will the boosting take affect after boosted on seller center?
+The refresh time is almost instant
+
+What are the Do's and Don'ts of instant messaging?
+kc-oss-1700555216392-image 129.png
+
+What is instant messaging(IM) feature?
+Instant Messaging Feature is an exciting tool where sellers can interact with the customers on the platform offered by Daraz
+Sellers can attract customers to their store by making it easier for them to make a purchase decision.
+Chat Conversion Rate (CR) increases by almost 30% if the sellers reply or interact with potential customers.
+If the response time by the seller is less than 30 minutes, there can be an even greater increase in CR - up to 10.5%.
+
+Can customers apply vouchers on bundled or discounted products?
+No, customers can only apply one voucher code per order.
+
+How long does it take for a voucher to go live on the product display page?
+Once you create the voucher, it can be applied immediately on checkout. However, the display of the voucher code on your products might take up to 30 mins to display. If you do not see your voucher codes appearing on your products after 30 mins, please contact your Vendor Manager.
+
+What are the benefits of creating seller vouchers?
+Benefits of Seller Vouchers
+Creating Seller Vouchers comes with its own set of benefits
+No upfront payment is required to issue the voucher
+Sellers only get charged when the customer uses the voucher
+Sellers enjoy flexible voucher mechanics
+Choose and control the amount of discount given, minimum spending for redemption and how many vouchers are issued on Daraz Seller Center
+
+Which products to select for Seller Picks tool?
+Selecting products with the highest potential to sell well will improve your store performance. The types of products that are likely to perform well include:
+New Products: Products that are newly released in the market or are new to Daraz
+Discounted Products: Products priced lower compared to the market price or discounted items on special offers
+Trending Products: Products that are hot in the market and high in demand or seasonal products.
+
+How to optimize sales through instant messaging?
+Sales Optimization via Chat
+Upselling - Increasing Order Value
+Upselling helps build win-win scenarios which supports in building a relationship with customers
+If a customer asks you about a product, try to identify the reason behind their purchase and then persuade them to buy something additional
+You should also encourage them to buy higher-end products to boost your own sales
+Upselling - Increasing Basket Size
+Offer discounts and vouchers if the customer agrees to buy the complementary goods
+These recommendations also build trust and help in customer retention
+Cross-Selling – Increasing Order Numbers
+If a customer has inquired about an item that is not in your inventory, be sure to refer them to other items that fulfill the same needs
+Refer them to other items in your inventory and tell them why these items would suit their needs
+Do not be afraid to offer them vouchers and discounts as you are building a customer base and making a sell instead of returning a customer empty handed
+
+What are the benefits of decorating your store?
+The Store Builder tool allows sellers to customize their store, which has a list of benefits
+kc-oss-1700562174439-sd.png
+
+What is the Criteria and quota for "Seller Picks" tool?
+Eligibility For Seller Picks
+kc-oss-1700562348979-2.png
+Seller Picks – Criteria & Quota
+kc-oss-1700562365596-1.png
+
+What are the benefits of instant messaging?
+kc-oss-1700562582347-we.png
+
+How to create seller vouchers?
+Step 1
+Login to Daraz Seller Center. Go to the Seller Tools, click on Seller Voucher & Click on Add New Voucher
+Step 2
+Fill out the Voucher Details by following these steps
+1.Write a name for easy identification of your voucher
+2.Select the time period during which you want your voucher to be active
+3.In voucher type, select voucher code
+4.Create a unique code for your voucher
+Fill out the Voucher Settings by following these steps
+1.Select whether you want to offer a Money or Percentage Value voucher
+2.Mention the percentage off
+3.Mention the minimum order value for the voucher to be applicable
+4.Mention the maximum discount you would like to offer
+5.Mention the number of vouchers you want to issue
+6.Mention how many vouchers a single customer can use
+7.Choose whether you want to apply the voucher to shop or SKU
+8.Select your product
+9.Click Submit to create your voucher
+
+What are seller vouchers & how do they work?
+Daraz provides its registered sellers a range of Seller Tools to help attract customers and increase sales.
+One of these tools is Seller Voucher, a promotion that allows sellers to create self-funded vouchers to drive sales.
+Sellers can issue vouchers at any time and any amount to suit their budget.
+kc-oss-1700554180390-image.png
+
+Once all issued vouchers have been used, will my voucher be automatically deactivated?
+Yes, all vouchers will be deactivated once it reaches the end of time period selected or when the amount of redemption reaches the limit set. Upon deactivation, the code will no longer be shown to customer.
+
+What is the Store Builder Tool & how to use it?
+Store Builder is a feature on Daraz Seller Center that allows sellers to decorate and brand their shop according to what they want
+By using the store builder tool, sellers can customize the layout of their store page by choosing the templates they desire to post on their online shop
+This includes selecting best-selling products they want to highlight on their store page upfront to attract customers
+Store Builder Interface
+Modules - My Pages
+Login to Seller Center and click on the store tab
+Here you can view how your store page will appear on the Daraz website
+View the layout of your store in Mobile App mode and Desktop mode
+Modules - Editor
+In Editor you can change the appearance of your store page as you like
+Modules - My Shop Categories
+List the categories of products that you are selling at your shop
+Modules - Others
+Sellers may Save their work version and modify it later. They can also Preview before they Publish
+Build the Mobile version of your shop, and then Apply to Desktop
+This makes it easier for customers to scroll through your shop whether they use a mobile or their PC
+
+What is the "Seller Picks" tool and how does it work?
+Seller Picks is a free traffic booster for your products.
+It is designed to empower sellers to boost their products on search pages, improving visibility of those products and increasing their sales by up to 30%.
+Seller Picks is also a rewarding tool created by Daraz for high performing sellers in all categories.
+In order to be qualified for the tool, sellers will need to meet a certain criteria.
+kc-oss-1700561904734-image.png
+kc-oss-1700561961938-image.png
+
+Seller Scorecard:
+
+How to relist after being temporarily delisted?
+Upon being temporarily delisted a survey will subsequently be emailed to the seller on their Seller Center registered email address. Once completed, the seller will be relisted on the platform after 7 days of being delisted.
+Scorecard Timeline:
+The scorecard is updated every two weeks for all sellers.
+kc-oss-1632396644082-879064B7-1BF3-4e55-970B-F4B5F8400112.png
+After the execution of each cycle, emails will be sent to the seller's registered email address.
+
+What is the Seller Scorecard?
+The scorecard is a way through which Daraz views sellers’ performance and helps them improve it accordingly to provide a better customer experience.
+The seller scorecard monitors the following factors to ensure optimal operational performance.
+kc-oss-1704181697060-23ew.jpg
+The table below explains the criteria and actions taken against each level for all the performance indicators mentioned above.
+kc-oss-1706516995664-Seller scorecard.png
+Seller order limits (DOL) and pending order limits (POL) are determined by performance. Strong performance increases DOL and POL by 50% of their current value, while poor performance reduces DOL and POL by 10% of the maximum orders in the last 15 days.
+Temporary Delisting Criteria:
+New sellers will have their DOL set at 10 and POL set at 5 till they reach another scorecard level (as per the criteria given in the above table). For any seller to reach an unlimited level for the first time they have to have processed at least 15 orders.
+Upon being temporarily delisted a survey will subsequently be emailed to the seller on their Seller Center registered email address. Once completed, the seller will be relisted on the platform after 7 days of being delisted.
+If any seller was downgraded in QIR in the last 2 consecutive cycles then his shop will get temporarily delisted in the coming cycle.
+Note: A new seller will be permanently delisted once getting delisted three times due to out-of-stock cancellations.
+What Leads To Permanent Delisting and Consequent Actions
+kc-oss-1704183226360-image.png
+Extreme Poor Performance Criteria
+kc-oss-1704183932710-image.png
+kc-oss-1704183960311-image.png
+
+What is Chat Response Time?
+It is the average of time you take to respond chat conversations received during working hours ( Seller Can Update their working hours from chat admin settings )
+Chat conversations received on non-working hours will be excluded in Chat Response Time calculation
+It is calculated based on Chat conversations you replied in between 5 days ago to 11 days ago, e.g. the chat response time that you see on 8 July 2019 is based on the chat conversations you received in between 27 June to 3 July during working hour.
+kc-oss-1632401961011-60CE42BB-015D-4aa3-87B8-EC1CE5A7996E.png
+Calculating Chat Response Time
+kc-oss-1632402038275-F5094157-8239-4cb5-88F7-361D8AAF97CC.png
+On 1 July, your Chat Response Time = 29 min
+This mean from 11 days ago (20 June) to 5 days ago (26 June), you have replied 4 chat conversations & the total chat response time is 117 min so, 117 / 4 = 29 min
+
+What are the financial penalties?
+Daraz priorities and values the well-being of its sellers and customers alike. To tackle the recent challenges of sellers inconsistently cancelling orders and dispatching expired or soon-to-expire products to customers, Daraz will implement a new financial penalty, starting from 1st March 2024.
+This penalty aims to encourage sellers to monitor their cancellation rates and product quality more closely, hence, enhancing the overall marketplace experience for both buyers and sellers.
+kc-oss-1707299641191-image.png
+We're introducing fines for sellers who cancel orders, covering all cancellations, even those made before orders are marked as ready to ship. The fines will vary based on the price range of the item, designed to streamline the process. Please refer to the detailed table below for more information. This adjustment aims to ensure a smoother experience for all sellers involved.
+Please refer to the table below for details
+kc-oss-1707299697937-image.pngIf any seller violates the policy, they will be charged fair penalties based on the price of the product and the severity of the violation. This policy will help sellers keep their Quality Issue Rate (QIR) low.
+Regarding weekly cancellations, there are no changes, and the same penalty amount of Rs 200 will continue to apply.
+
+How does three-strike policy protect good sellers?
+kc-oss-1632397247565-protect.png
+Daraz is dedicated to creating a trusted and disciplined platform for both sellers and customers. These strict measures are taken to ensure the wellbeing of your business on Daraz, customers and fellow respected sellers. We hope that we can support each other in carrying out these initiatives successfully.
+
+What is three-strike policy?
+Any seller that has hit the temporary delist criteria thrice in the past six consecutive scorecard cycles, will be permanently removed from Daraz (associated seller accounts will also be deactivated and permanently banned)
+A seller performing very poorly on all performance metrics or a given scorecard cycle will be permanently delisted.
+New Seller
+New sellers will have their DOL set at 10 and POL set at 5 till they reach another scorecard level (as per the criteria given in the above table). For any seller to reach an unlimited level for the first time they have to have processed at least 15 orders.
+
+What is Chat Response Rate?
+It is the percentage of chat conversations that you respond to by end of next working day.
+It is calculated based on chat conversations you receive in the past 5 to 11 days. Example: The Chat Response Rate that you see on 8 July 2019 is based on the chat conversations you received between 27 June to 3 July.
+kc-oss-1708931165432-image.png
+For the chat conversations you receive during the weekend and public holidays, you can reply to it latest by the end of coming working day.
+For example:
+If I receive a message on Thursday at 10:15am, I have to reply before Friday 10:15am
+If I receive a message on Friday at 10:15am, I have to reply before Monday 10:15am
+If I receive a message on Monday at 10:15pm (after working hours), I have to reply before Tuesday 11:59pm
+If I receive a message on Saturday at 10:15am (weekend), I have to reply before Monday 11:59pm
+If I receive a message on Tuesday (public holiday) at 10:15am, I have to reply before Wednesday 11:59pm
+How to calculate chat response rate
+kc-oss-1708931492315-3.png
+On 1st July, your Chat Response Rate = 80%
+This means that from 11 days ago (20 June) to 5 days ago (26 June), you have received 12 chat conversations & replied 10 of them so 10 / 12 = 0.83 > 83%
+
+Maximize Sales:
+
+Can I use free shipping to boost my sales?
+Free shipping boosts the conversion rate of selected products and increases the basket size per customer
+Daraz also provides the same option to registered sellers who can offer free shipping to customers (with conditions such as minimum order value)
+Once the sellers enable it on Daraz Seller Center, the customer will receive Free Shipping paid for by the seller
+How To Use The Free Shipping Tool
+Login to Daraz Seller Center → Go to the Seller Tools → Click on Free Shipping
+Click on Rate Card to view the current delivery charges according to shipping weight, to form a budget for yourself
+Once you are familiarized with the rates, you can enable free shipping
+Click on Create New
+Fill in all the details in Free Shipping Promotion Detail Page
+Put in a Promotion Name
+Write your budget
+Select a time  period during which  you want free shipping to be active – it can be either  long term or specific
+Set the Promotion Condition
+Region can be  selected as all or  specific regions, where  you want the free  shipping to be applied
+Delivery option will  always be standard
+Choose what free  shipping is applicable to
+Click on submit
+How To View Your Free Shipping Promotions Created?
+On the Buyer Free Shipping Page
+You can view all active  promotions along with their  details
+View Promotion  Conditions
+Edit existing promotions or deactivate them
+Share your promotion on  Facebook to attract  customers
+
+What are the ways to boost sales?
+1. Create Attractive Product Content
+Content simply refers to the information you write or provide about the product or service you are selling on Daraz.
+It's important to be consistent when building your brand!
+kc-oss-1700563983012-1.png
+2. Provide Product Variation Details
+In e-commerce, one must always remember that customers have more questions compared to retail simply due to the fact
+that they can’t see the product in the flesh
+Variations are different sizes and colors of the same product (examples shown)
+kc-oss-1700564001652-2.png
+3. Pay Attention To Product Photography
+Though there are different variations about how to photograph items for each category, the basics remain the same
+The purpose of these tips is to teach sellers how to create product images that attract customers.
+kc-oss-1700564025381-3.png
+4. Participate In Campaigns
+One of the ways Daraz maximizes sales is through campaigns, which help sellers reach their goals in terms of growth and
+sales with confidence and ease
+Campaigns offer customers exclusive discounts, unbelievable offers and are also heavily marketed by Daraz, giving sellers a
+great opportunity to increase sales by promoting the trend of online shopping
+kc-oss-1700564033683-4.png
+5. Use Seller Tools
+Every seller should familiarize themselves with the fundamentals of using basic Daraz seller tools to boost store traffic,
+get more visibility and hence, get an increase in sales
+kc-oss-1700564040881-5.png
+6. Decorate Your Store Using Store Builder
+Store Builder is a feature that allows sellers to decorate & brand their shop. You can customize the layout of your store page
+by choosing the templates you desire, including selecting best-selling products to highlight on the store page upfront to attract customers
+kc-oss-1700564047688-6.png
+7. Participate In Seller Tool Campaigns
+kc-oss-1700564058376-7.png
+8. Comply To Daraz Policies
+Every registered seller must adhere to all Daraz policies. Each seller should go over all guidelines and rules available
+on Daraz University. For new sellers, we especially recommend the ones listed below
+kc-oss-1700564073084-8.png
+9. Stay On Trend
+Keep an eye out for seasonal products and what’s trending and then sell accordingly
+Know your audience and potential customers. At the end of the day, they are the ones you’re catering to
+kc-oss-1700564085507-9.png
+10. Join Our Seller Community
+Dingtalk forms a huge part of the Daraz Seller Community
+It gives sellers the opportunity to interact with other sellers, relevant category groups, seller support agents and also keep up with
+important announcements related to events or other exciting news
+Tune in for our live sessions and webinars
+In addition to this, you can also find Daraz Sellers Facebook group where you can stay updated with whatever is happening.
+kc-oss-1700564113994-10.png
+
+What are the benefits of free shipping?
+Some of the benefits of free shipping are:
+It brings traffic to your store. Customers get attracted to your shop and thus, you get more visibility.
+With free shipping items, your best-selling products get highlighted and customers are usually willing to pay more if the seller provides a free shipping option.
+More traffic means higher visibility and an increase in clicks. This leads to performance enhancement.
+Free shipping is always very attractive. Even if the customer does not intend to buy, they will still check out the store which will improve the incoming traffic number.
+kc-oss-1700564408028-1.png
+
+What are the Benefits of creating Product Bundles?
+Sellers can create bundles to differentiate their deals from competitors, especially in high-priced competitive categories
+It’s a great opportunity to sell low cost items as part of a bundle
+Bundles allow Sellers to clear their inventory of whatever products they choose
+Additionally, bundles are a full proof way to attract customers and increase conversion rate, sales and enhance overall performance
+
+E Trainings:
+
+What is an appeal and how does it work?
+When a seller gets delisted from our platform which can be due to a number of reasons, we allow our sellers to launch an appeal so the decision can be revisited. Appeal can be locked via the account health.
+How To Make An Appeal
+If you have received a notification that you have violated our policy, but you do not agree with the decision, you can now file an appeal request through account health
+Click on Appeal
+An appeal ticket will be raised to the relevant business unit for review
+On the pop up ‘I wish to appeal’ screen, sellers will have to explain the reason for why they are making an appeal
+They must also attach supporting documents and sufficient evidence for a successful appeal
+Sellers will be notified of the appeal outcome on account health and via email
+
+What is Account health and what are its benefits?
+Account health is a new feature on Seller Center that allows sellers to have complete visibility of their compliance to Daraz Policies
+In addition to this, sellers will also be guided on ways to improve their performance and behavior to be more suited to Daraz compliance policies
+Benefits Of Account health
+Real time visibility on compliance actions taken against sellers
+Sellers can easily raise an appeal through Account health
+In-depth & complete information regarding performance improvement on Daraz University
+Sellers have access to a complete record of past non-compliance actions & points
+Non-compliance points are now refreshed annually (after exact 365 days)
+Maximum non-compliance points are now 48
+Understanding Account health
+You can hover over these points to learn about the limitations that will be imposed on your seller account upon reaching a certain point milestone
+In Policy Compliance Summary, sellers will have three tabs:
+1. SKU View
+View the complete record of actions taken against the SKUs
+2. Non-Compliance Record
+View the complete record of non-compliance actions on your behalf
+You may click on the [+] sign to learn more about your exact violation details
+3. Appeal Record
+View the complete record of appeals that you have made

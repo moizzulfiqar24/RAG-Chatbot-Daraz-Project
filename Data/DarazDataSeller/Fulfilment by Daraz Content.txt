@@ -1,0 +1,170 @@
+Fulfilment by Daraz Process:
+
+How to create an outbound order?
+Step 1: Click on the Inventory Tab → Return from Warehouse
+You can now see all your existing OO’s and their status
+Step 2: Click on Create New OO (to withdraw your items from Daraz Warehouse and get them back)
+Outbound Order Form
+When you click on Create New OO, an Outbound Order form will open in front of you. Fill in the required details.
+Basic Information
+1. Warehouse: Select the Daraz Warehouse where your products are being stored
+2. Inventory Type: Select whether the inventory is good or defective
+3. Delivery Type: Select Seller Pickup
+4. Estimated Time: Input the time when you want to pick up your products from the Daraz Warehouse
+Seller Information
+1. Warehouse: Select your warehouse
+Once the warehouse is selected, the next fields will be automatically populated
+2. Contact Name: Input your contact name
+3. Mobile Number: Input a contact number
+Adding SKUs
+1. Add SKU: Click on Add SKU to add SKUs to your Outbound Order
+2: Select the products you want to retrieve and click on confirm
+3: Input the quantity of each SKU that you want to retrieve from the Daraz Warehouse
+4: Click on Submit
+The Daraz Team will review your order and accept or reject your outbound request which can take up to 48 hours
+You can view the status of your OO by accessing the Return to Warehouse tab under Inventory
+You can also click on Print (Action) to print out a copy of the Outbound Order
+
+How to create an inbound order?
+Step 1: Click on the Products Tab, In the Product Tab, click on Manage Platform Products
+Step 3: From the list of Platform products click on Fulfillment by Daraz-(Daraz verified) SKU under the action tab to convert Platform
+products to Fulfillment by Daraz-(Daraz verified) products
+Your products are now ready to be added to your Inbound order so that they may be sent to Daraz Warehouse
+TO CREATE A NEW IO:
+Step 4: Click on the Inventory Tab → Send to Warehouse You can now see all your existing IO’s and their status
+Step 5: Click on Create New IO
+Inbound Order Form
+When you click on Create New IO, an Inbound Order form will open in front of you. You will need to fill in the following sections and the fields they contain:
+Basic Information
+1. Inbound Warehouse: Select the Daraz Warehouse where you want your products to be stored
+2. Reference Order Number: You may fill in the reference order number, received from your supplier (Non-compulsory)
+3. Delivery Type: Select Drop Off
+4. Estimated Time: Input the time when you want to drop off your products to the Daraz Warehouse
+Seller Information Warehouse
+1. Warehouse: Select your warehouse
+Adding SKUs
+1. Add SKU: Click on Add SKU to add products to your Inbound Order
+2: Select the products you want to add and click on confirm
+3: Input the quantity of each SKU you want to send to the Daraz Warehouse
+4: Click on Submit
+The Daraz Team will review your order and accept or reject your inbound request as per their guidelines – which can take up
+to 48 hours
+You can view the status of your IO by accessing the Send to Warehouse tab under Inventory
+You can also click on Print (Action) to print out a copy of the Inbound Order
+
+How to access Fulfillment by Daraz-(Daraz verified) portal and dashboard?
+To Access the Fulfillment by Daraz-(Daraz verified) Portal Log in to the Seller Center with your registered login ID & Password
+Click on the Products Tab, and then click on Fulfillment by Daraz-(Daraz verified)
+By clicking on theFulfillment by Daraz-(Daraz verified) option, you will be redirected to the Daraz Supply Chain Management Portal
+Please note: If you are unable to find the option of Fulfillment by Daraz-(Daraz verified) in the products tab, immediately reach out to Daraz Seller Support and get the issue resolved
+DASHBOARDS
+You will now land on the Daraz Supply Chain Management portal
+On the Fulfillment by Daraz-(Daraz verified) homepage, you will be able to view various dashboards that will provide you with key data about your Fulfillment by Daraz-(Daraz verified) products and the business derived from these products
+The Dashboards includes
+Open Inbound Order: View the number of Inbound Orders that are approved or accepted but yet to be inbounded at Fulfillment by Daraz-(Daraz verified) Center 
+SKUs below Minimum Alert Threshold: View the  number of SKUs at Daraz Warehouse that have low stock-set by the seller as per his requirement
+Send to Warehouse: View the status of the Inbound Orders which have been received by Daraz Warehouse
+Customer Orders: View the number of orders received on only your Fulfillment by Daraz-(Daraz verified) products
+The trend of Customer Orders: View the performance of your Fulfillment by Daraz-(Daraz verified) Products on a day to day basis.
+Return from Warehouse: View the status of your Outbound Orders
+Announcements: View the latest announcements related to Fulfillment by Daraz-(Daraz verified)
+
+How to get register for Fulfillment by Daraz-(Daraz verified) products?
+With Fulfillment by Daraz-(Daraz verified), you only have to manage your seller account, raise an Inbound order, and send your inventory to the Daraz warehouse. We store your inventory, pick and pack your orders, ship your item for you, conduct QCC, and also manage all returns.
+Follow the simple steps below to benefit from the Fulfillment by Daraz-(Daraz verified) services offered by Daraz:
+Step 1: Visit Fulfillment by Daraz-(Daraz verified) option in the Products tab on your Seller Center
+Step 2:Create an IO (Inbound Order) by clicking on “Send to Warehouse” option under the label of Inventory
+Step 3: Transfer Platform SKUs to the verified SKUs
+Step 4: Enter basic details related to the consignment and seller account
+Step 5: Upon entering the details, you’ll be assigned drop off time by Daraz Representative
+Step 6: Deliver your products to Fulfillment by Daraz-(Daraz verified) Centers and enjoy the hassle free process of selling on Daraz
+
+What is Fulfillment by Daraz?
+The “Fulfillment by Daraz” badge is a sign of reliability, safety and trust for the product.
+products are either shipped directly from Daraz Warehouses or from exclusively selected trusted sellers.
+Fulfillment by Daraz products are easily identifiable via the 'Fulfillment by Daraz tag under the product image or the 'Fulfillment by Daraz' notification under the delivery section of the product page.
+Benefits of Shopping Through Fulfillment by Daraz:
+Wondering what are the benefits of buying through Fulfillment by Daraz?
+1. Safety and Trust
+Fulfillment by Daraz Products are either shipped from Daraz warehouses or from trusted sellers who are frequently evaluated and monitored to guarantee safety of the products sold.
+2. Reliable
+Each Fulfillment by Daraz Products is shipped with safe and secure packaging to limit the possibility of mishap during the delivery process.
+
+How Does Fulfillment by Daraz-(Daraz verified) works?
+kc-oss-1683962767276-image.png
+
+What is the Eligibility Criteria for Fulfillment by Daraz-(Daraz verified) products?
+Fulfillment by Daraz-(Daraz verified) is a facility that is available for only selected categories. In order to meet the eligibility criteria for Fulfillment by Daraz-(Daraz verified), sellers must have the following number of items sold under the categories mentioned in the table below. The categories and the number of items sold mentioned in the table are subject to change every month. If have reached these criteria, then the Fulfillment by Daraz-(Daraz verified) team will contact you over email.
+Check Minimum Sales for Fulfillment by Daraz-(Daraz verified) Eligibility Table
+
+Fulfilment By Daraz Policy:
+
+What happens when my product under Fulfillment by Daraz-(Daraz verified) gets returned?
+The return process with Fulfillment by Daraz-(Daraz verified) doesn’t change. The only difference is that when Fulfillment by Daraz-(Daraz verified) products are returned, Daraz manages them and restocks returned products that are in good condition for future sales.
+
+What is the cost for using Fulfillment by Daraz-(Daraz verified)?
+The cost per cubic feet per day for each item will increase as your item ages in the warehouse. Please refer to the table below to view ageing charges per day per item per cubic feet.
+kc-oss-1708500436110-image.png
+If the inventory has been placed in the warehouse for more than 60 days, then on the 61st to 90th day, the seller will have to pay PKR 4.2 per cubic feet per item. From the 91st day to 120th the cost per cost per cubic feet per item would be PKR 5.8 and if the item exceeds 120 days, then on the 121st to 150th day the cost per item per cubic feet would be PKR 8.3. If the item exceeds more than 180 days, it will be scrapped.
+Note: The charges for ageing bracket More than 150 days will be changed to Rs 100 cost per cubic feet (PKR) per day that will be applicable from January 2024.
+
+What is Fulfillment by Daraz-(Daraz verified) storage policy?
+kc-oss-1708501974768-Untitled-1.png
+kc-oss-1708502137524-image.png
+kc-oss-1708502190783-image.png
+kc-oss-1708502214097-image.png
+
+How does it benefit the seller?
+INCREASE REVENUE 
+Sellers that are a part of Fulfillment by Daraz-(Daraz verified) enjoy higher onsite visibility, dedicated search filters and boosted search results. Sellers can focus on content, marketing and price management while Daraz processes orders efficiently. Enhanced visibility coupled with timely order processing and faster delivery lead to higher sales
+FASTER DELIVERY AND GREATER CUSTOMER SATISFACTION 
+Fulfillment by Daraz-(Daraz verified) offers overall faster deliveries with an average of 1 day reduction in delivery time leading to higher delivery success rates. Secure packaging at time of order processing ensures minimal damages and returns
+SAVES COST & TIME 
+No storage charges are taken for the first 60 days of the items being kept in Fulfillment by Daraz-(Daraz verified) Centers. Even after 60 days the charges are very low compared to storage rates in the market. Additionally, you save on fixed cost like rent or labor. There is also no packaging cost as Fulfillment by Daraz-(Daraz verified) handles that for the seller. As Daraz handles all packaging for the orders, the sellers avoid all hassle and can rest easy that their orders will be dispatched to customers safely and on time
+FLEXIBILITY 
+Fulfillment by Daraz-(Daraz verified) means that there’s no infrastructure and operational constraints to grow your sales – just send Daraz your stock and we will handle the rest. Fulfillment by Daraz-(Daraz verified) provides an opportunity for Sellers to have stock in multiple Fulfillment by Daraz-(Daraz verified) centers across the Fulfillment by Daraz-(Daraz verified) network and there is no minimum limit for the number of products you can send to our Fulfillment by Daraz-(Daraz verified) centers. You can also create outbound orders and get your products back at anytime
+BETTER SERVICE LEVEL 
+Fulfillment by Daraz-(Daraz verified) provides quality packaging for all products – ensuring protection of your products during delivery. Since products are stored in Fulfillment by Daraz-(Daraz verified) Centers, our team keeps a regular check on stock numbers reducing the chances of out-of-stock cancellations. This results in an overall increase in your seller rating.
+You can have real time visibility on your stock level through the DSCM portal
+EASIER RETURN MANAGEMENT 
+The entire return or exchange process can be a true hassle for sellers from receiving returns and failed deliveries to coordinating with 3PL partners. However, being part of Fulfillment by Daraz-(Daraz verified) means that Daraz handles both your returns and failed deliveries. Let us manage your end to end supply chain!
+For more info check Introduction to Fulfillment by Daraz
+
+What are the Terms and Condition for Fulfillment by Daraz-(Daraz verified) products?
+Terms & Conditions
+If any product is eligible for any particular month, it is not necessary it will remain eligible for the next or upcoming months.
+Once an item has been inbounded, anything that does not sell and is in the warehouse for more than 60 days, needs to be outbounded. Sellers can check the timeline of their products from the ASC Portal. If the products remain at the warehouse for more than 60 days, then Daraz will send a reminder to the sellers to outbound their products within a dedicated time period. In the case where sellers fail to outbound within the deadline, then their products will be removed from the warehouse.
+If the product recieved at the warehouse is not as per the PDP(Product Display Page) i.,e. Color, Weight, Dimensions, Pictures of Product supply & Leaked/Damaged, defective etc. then it will be marked as a defective product and ineligible for sale.
+
+Is there a limit for Daraz warehouse stock keeping?
+There is no limit to the quantity of stock that you wish to store at our warehouse for Daraz Verified service unless otherwise stated or informed by Daraz. We recommend sellers to select those products for Daraz Verified that are:
+1. Top Selling
+2. Latest
+3. Highly Rated
+Kindly note that the following products will not be accepted by Daraz for Daraz Verified:
+Items that have broken seals
+Items that have dented bodies
+Items with inaccurate and misleading labels
+items that are not present in the IO Order
+Bundle items that are not in the same packaging (boxes)
+
+What is new for the Small Brand process?
+At Daraz, sellers can use a brand value only if they pass our authenticity verification. Verified sellers are featured on Daraz Mall, dedicated to authentic brands. Those who choose not to verify or fail the verification will be labeled as 'No Brand' in product listings.
+How do I know that my Brand verified
+If you have never opted for Daraz Mall during your time at Daraz, you can choose to do so on your homepage on the seller center. When you opt for Daraz Mall, you will be prompted to submit brand names and relevant documentation. After you have submitted, your brand will be reviewed and if successful, you will be able to use the brand name in product listing! For more details you can visithere.
+You can register a brand and use it in product listing through the following ways
+1. Brand Management Page
+Go to the Brand Management tab on the Seller Center and fill out the form with the required documentation to submit your brand request.
+2. Product Listing Page
+Go to the Add Products tab under Manage Products in Seller Center to add the relevant information and submit your brand request.
+Please Note: When you register a brand and it is approved, your current assortment will be made inactive. For up to 7 days, you can edit your listings with the brand value(s) you have registered and re-list. Remember! If you have a non-branded assortment or non-verified assortment, it cannot be hosted on DarazMall. Attempting to upload such an assortment against a misleading brand will result in compliance actions.
+
+What is considered a Branded and a Non-Branded Product on Daraz?
+A brand is a distinctive name representing a product or a group of products with strong brand equity, protected by a trademark or proof of authentic sourcing. An example would be Apple, which represents a group of products ranging from phones, headphones, and laptops with clear branding on the said product. It will be allowed to be used for product listing if the seller can prove trademark ownership, distribution rights, or authentic sourcing via invoices/receipts.
+A product or group of products with no verified distinctive name representing it is considered Non-Branded or “No Brand” on Daraz. This can happen if the product in question is not branded or if the brand has not been verified to prove ownership or authentic sourcing. A No Brand product would be one with no clear brand name or no proof of authenticity i.e. an Apple iPhone can be tagged to No Brand if the seller is unable to provide a trademark registration or an invoice to show where the product was purchased.
+
+How can I register my brand via social media?
+To register your brand on social media, you must fulfill the following requirements
+Have an authentic brand name and logo.
+Your branded packaging should be visible on your profile (where applicable).
+Minimum 10K followers, at least 100 posts, and at least 5 positive customer reviews.

@@ -1,0 +1,237 @@
+Shipping Journey:
+
+Does Daraz deliver orders internationally?
+No, Daraz does not deliver orders outside of Pakistan.
+
+My order status is "Delivered" but I didn't receive it. What Should i do?
+kc-oss-1656501244688-image.png
+Note:
+If your order is COD ( Cash On Delivery ), kindly place the order again
+If your order is prepaid please initiate a return request, for creating the return request please click here.
+For Digital Goods order:
+Check if you have mentioned the correct email address / phone number
+You can initiate the return or contact us within the 24 hours.
+
+Why do I need to provide CNIC at the time of order delivery?
+If your order is prepaid, the rider will ask for your CNIC copy to make sure the order has been delivered to the right person. The CNIC is taken as the proof of delivery to keep the record of the person who has received the order.
+
+Why are my items shipped separately?
+Items sourced from different sellers (all around Pakistan) are often shipped separately to make sure there is no delay in the fulfillment of your order.
+Don't worry as we will make sure all your orders reach you within the promised timeline :)
+
+What are the expected delivery timelines?
+Note : Due to rainfall in some cities, delivery of your order may be affected.
+To track your order please go to "My Orders" , or you can visit How to track My Order Article.
+We always try our best to deliver your order at the earliest! Find the delivery time on every product page in the section Delivery. Incase of delay in order deliver please check What are common reasons for delay ?
+The image below shows the promised delivery timeline in detail:
+kc-oss-1663315271136-Slide1.png
+Note: Once you place your order, you will get the order confirmation email and you can also find your promised delivery time in the same email.
+
+Can I change my shipping address after my order is placed?
+Unfortunately, NO changes can be made once the order is placed. If your order is in the "Processing" stage, please cancel it and place a new order with the updated details. If your order is shipped, you can contact our care champ (Live Chat) for better assistance.
+Although, you can update your personal details in your account before placing an order through:
+Setting > Account information > Update information > Save
+
+Will somebody contact me before delivering the package to my location?
+Our Delivery Hero may reach out to you if he needs clarity on the delivery location or needs to confirm the availability before delivering the order.
+
+Which products take longer shipping time?
+Daraz tries its best to fulfill the orders within the promised timeline.
+Note: Global / Overseas products are internationally sourced items and take 18 - 24 flat days to be delivered to your doorstep.
+
+I missed my package delivery, what should I do now?
+Have you missed delivery for any reason? No problem! We will make every effort to deliver your item in the next business day. Three attempts will be made to deliver it before it is canceled.
+Note: Delivery attempts will not be made if the order has been refused from your side.
+If you have any other questions then contact us on Live Chat.
+
+My city is not listed in your order list?
+kc-oss-1673349501287-Nearest area1.png
+kc-oss-1673349519736-Nearest area2.png
+Check What are the Non Listed Areas while placing the order?
+
+Can I open and check the parcel before receiving and paying the rider?
+Unfortunately, Daraz does not allow to open box deliveries. You can accept the package and pay the rider. If you have any problems after unwrapping the box, you can return it to Daraz.
+
+Does Daraz deliver all over Pakistan?
+Yes, Daraz delivers all over Pakistan.
+We deliver through our own logistics (DEX) and also through our logistic partners (TCS, LCS, Callcourier, MoveEx, BlueEx, Pk-Trax, and LMP)
+
+How do I track my order?
+Please follow the steps below to track your order
+kc-oss-1690966614037-Group 20.png
+Additionally, if your tracking number belongs to the courier partner (listed below), you can follow your order on their respective courier webpage.
+TCS
+Leopard
+Call courier
+BlueEx
+M&P
+Rider
+
+How do I choose the logistics partner for my shipment?
+Sadly, you cannot choose the logistics partner for your order delivery. The Daraz logistic team chooses delivery partners based on the customer's delivery location and the courier partner's availability.
+Don't worry! We ensure that your orders are delivered to you within the promised timeline without any inconvenience. :)
+
+My order delivery has been failed, what should I do?
+Wrong/Invalid Address: Checking out with an incorrect or incomplete address results in a failed delivery. but we still try to contact the customer by their given number.
+Contact Not Established: Before arriving at your address, our rider calls you to confirm your availability; if the number is incorrect or unresponsive, results in a failed delivery.
+Customer Not Available: Even if the contact is not established, our rider will do his best to deliver to the address. but if the customer is not present, the delivery will be cancelled.
+Courier Has Accident: An accident occurred during delivery.
+Driver Overloaded: The courier driver overloaded the vehicle with packages.
+Natural Disaster: A natural disaster (e.g., hurricane, earthquake, flood) disrupted operations.
+Road Closure/Heavy Traffic: Road closures or heavy traffic congestion affecting delivery routes.
+Vehicle Breakdown: The courier vehicle broke down, leading to delivery delays.
+Note:Our rider will make three attempts to contact you; please ensure that you are available at your address; else, it will be returned to the vendor.
+
+What are the Non Listed Areas while placing the order?
+https://helpcenter.daraz.pk/page/knowledge?pageId=12&category=1000001093&knowledge=1000071202&language=en
+
+What are the delivery charges?
+Delivery fees are the charges received by Daraz to ship items to a buyer. For every order that is delivered, Daraz charges a certain amount from the customer as delivery fee. However if the actual Delivery fee is different than the estimated delivery fee due to incorrect weight or dimensions,
+kc-oss-1663319517489-lALPGSWEnVXjaUrNBDjNB4A_1920_1080.png
+
+Which couriers does Daraz deliver through?
+Daraz delivers through our own logistics Daraz Express(DEX) and also through our logistic partners ((TCS, LCS, Callcourier, MoveEx,, Blue-Ex, PK-Trax, LMP, Rider, M&P ))
+
+How can I get the number of rider?
+Unfortunately, we are unable to provide the number of our DEX Delivery Heroes. However, our Delivery Hero may get in touch with you to confirm your exact location once the order status changes to "Out for Delivery".
+Note: If your tracking is with one of our delivery partners, you may check the exact location of your package on their courier partner's website. You can also call the courier's helpline numbers listed below:
+TCS: + 92 21-111-123-456
+Leopard: + 92 21-111-300-786
+BlueEx: + 92 21-111258339
+Call Courier: + 92 421-11786227
+Rider:+92 213-71-74337
+Speedaf +92 311 118 7654
+If you have any other questions please contact us on Live Chat.
+
+What are the common reasons for delay?
+We are always committed to delivering products on an estimated timeline and we work hard to uphold this promise. However, delivery might be delayed in some unavoidable/ bad/ unexpected scenarios, such as:
+Cross Border Shipment Delay: Due to Air Transportation or Custom Delays, your Cross Border order may take longer than usual to be delivered.
+Law & Order Situation: Due to procession, lockdowns, strike issues resulting in route blocking, you may receive your package after the promised time.
+Customer Not Available: On the delivery time customer is not available on the shipping address.
+Bad Weather/ Natural Disaster: The weather conditions of the destined city may be rough; for example- Heavy rainfall, Smog, Landslide, etc., This may result in a delivery hold-up.
+Seller Sourcing Issues: Sometimes sellers take longer than the expected time to fulfil your order.
+Courier Service Delay: Our Delivery Wings may take longer than the expected time to deliver your order.
+Wrong Address / Phone Number: While placing an order, the customer may enter an incorrect address or phone number, leading to late delivery.
+
+I have a complaint about the courier executive who came to deliver my order, who should I reach out?
+Feel free to contact our Customer Representative we'd be happy to assist you. We have dedicated a team member to follow up with our Delivery Partner with regard to the concern with the rider.
+
+Daraz Verified:
+
+What is the delivery timeline of Daraz Verified products?
+The delivery timeline of the Daraz Verified product is based on the City of Destination, or you can find the accurate delivery timeline on the Product Display Page.
+
+What is Daraz Verified?
+The “Daraz Verified” badge is a sign of reliability, safety and trust for the product.
+Daraz Verified products are either shipped directly from Daraz Warehouses or from exclusively selected trusted sellers.
+Daraz Verified products are easily identifiable via the 'Daraz verified' tag under the product image or the 'Daraz Verified' notification under the delivery section of the product page. You can easily look for 'Daraz Verified' products by using the filter under 'services' on search result pages or category navigation pages.
+Benefits of Shopping Through Daraz Verified:
+Wondering what are the benefits of buying through Daraz Verified?
+1. Safety and Trust
+Daraz Verified Products are either shipped from Daraz warehouses or from trusted sellers who are frequently evaluated and monitored to guarantee safety of the products sold.
+2. Reliable
+Each Daraz Verified Products is shipped with safe and secure packaging to limit the possibility of mishap during the delivery process.
+
+How does Daraz verify products?
+Daraz Fulfilment team performs a visual check of products stored in Daraz Warehouse via random sampling to ensure that the product matches the displayed image; however, the team does not verify the quality, working condition, sizing, and dimensions of the products. The team also further checks for expiry date (if applicable) and any physical damage of the product which include box damages or missing parts, wear and tear, spillage and dents.
+As we prepare to deliver the product to you, the team ensures that a visual check for damage (in the case where product is in a box, the box is checked for damage) is conducted, while both picking and packing the product.
+Daraz trusted sellers are exclusively selected by Daraz in recognition of their consistent excellent service and products.
+
+How to order or find Daraz Verified products?
+Search your favourite product on Daraz
+Identify Daraz Verified products via the 'Daraz Verified' tag on product tiles and under delivery options on product pages. Alternatively, you can easily look for 'Daraz Verified' products by using the filter under 'services' on search result pages or category navigation pages.
+Double-check whether your product is Daraz Verified by looking at the delivery option when selecting the product of your choice.
+Place your order – You may select Faster Delivery at an additional cost for same-day or next day delivery which is available for a large number of destinations.
+Confirm your order! Enjoy shopping Daraz Verified Products on Daraz!
+
+Daraz Shop:
+
+What is a Daraz Shop?
+Daraz Shop is a retail facilitation center for customers. At Daraz Shops, we offer a one-on-one experience with a Daraz Representative who will guide you through the product assortment and all the options and information you need to place your perfect order.
+
+How can a Daraz Shop representative help me?
+At Daraz Shops, we offer a one-on-one experience with a Daraz Guide / Shop representative who can guide you regarding the below-mentioned points.
+How to place an order?
+Daraz returns policy.
+What needs to be checked before placing the order?
+Delivery information.
+
+How to find the details of Daraz shop?
+We currently have Daraz locations all over the country and planning to open many more Daraz Shops!. Select the location of the Daraz Shop to identify the shop closest to you.
+
+Daraz Express:
+
+What is Express Delivery?
+براہ کرم نوٹ کریں کہ ایکسپریس ڈیلیوری سروس بند کردی گئی ہے۔
+
+How will I know when the express delivery item is delivered?
+Following are the timeline for Express Delivery:
+kc-oss-1693384087415-Express Delivery.png
+Place your order before 12 pm (Karachi, Lahore, Islamabad, Rawalpindi & Faisalabad) it will be delivered on the Next Day.
+
+Daraz Pick up Points:
+
+What type of products can be collected through daraz pick-up point?
+Please be noted that the below-mentioned categories have been restricted for self-pickup, customers are unable to avail pick up points on these categories/products.
+Diapers
+Oil & Ghee
+Papers
+Flour
+Rice
+Bookshelf
+Stationery & Craft
+Beverages
+You can order the following on pick-up points:
+Items should weigh under 8kg (non-bulky)
+Valid only for pre-paid orders
+For ‘Daraz Verified’ items, the quantity of the order placed should not be greater than 4
+The address should lie within 5 km of the Pick-up point
+
+Can I cancel the Pick up point order?
+If order is in processing stage it can be cancelled. If the seller has confirmed your order you can contact your care champs via Live Chat to cancel your order.
+
+What payment method is required for Pick up point orders?
+Pick up point orders can only be placed via a prepaid payment method. We have the following payment methods through which you can make a payment for Pick up point orders:
+Debit Card or Credit Card
+Easypaisa Direct
+Jazz Cash
+HBL Direct Transfer
+Daraz Wallet
+
+How to select pickup point?
+Daraz provides the most user-friendly collection point service, allowing customers to pick up their items at the nearest pick-up location for a low-cost delivery.
+kc-oss-1673255531708-How to select pickup point web.gif
+
+Is it safe and secure for me to always give my phone to the pickup point agent when I get an item there?
+To ensure that the order is delivered to the right person, the pickup point representative often compares the information on the package with the information on the Daraz APP, such as the order number, tracking number, contact number, and OTP. The customer's packages are safeguarded by this cross-check for security reasons. If not, anybody may go to the collecting location and pick up someone else's package by presenting his CNIC.
+
+How can I track my Pick up point order?
+To track your pick-up point order by referring to the steps below:
+kc-oss-1672817397209-Track pickup point order.png
+NOTE: Once the parcel reaches your selected pick-up point then you receive the OTP through push notifications and email within 24 hours and you can collect your order within 3 working days from the pickup point.
+
+Is there any shipping charges for the Pick Up Point?
+Delivery fees depend on the weight of the package and its origin/destination. To understand how it is calculated, refer to the chart below
+kc-oss-1688703564699-image.png
+
+How can i get the OTP of my Pickup Point Order?
+Once the parcel reaches your selected pick-up point then you receive the OTP through push notifications and email within 24 hours. To check where you get the OTP follow the steps below.
+kc-oss-1692095716739-Pickup point OTP.png
+You will also receive the OTP via your registered email check below picture:
+kc-oss-1669109275583-Email OTP.png
+
+What is Daraz Pick up point?
+Daraz Pick-up Point, also known as Collection Point, is a cheap and convenient collection service that allows you to choose the nearest pick-up location based on your shipping address. This will allow you to pick up your parcel at your convenience with subsidized shipping.
+kc-oss-1689146270763-Slide1.png
+14c27b20-7daa-4512-8503-b85a880a70fd.jpg
+The key features of Daraz Pick-up point service are as follows:
+The applicable delivery charges depend on the weight of the package and its origin/destination, Please check "Shipping charges for the Pick Up Point?"
+100+ Pick-up Points
+Hassle-Free shopping.
+Note: Daraz has set limits on the orders placed by a user for delivery to a designated collection point within a specified time period. The prescribed limit is set at the discretion of the Daraz and surpassing this prescribed limit may be interpreted as malicious activity on the account, and hence can lead to the cancellation of additional orders at Daraz’s discretion.
+
+What happens if I don't collect the package within the given time?
+If the order is not collected within 3 working days after receiving the OTP, it is sent back to the seller/ it is returned to the seller & will be marked as canceled.
+
+In how many days will I be able to collect my order?
+You can collect your order from pickup point within 3 working days from the time you receive the One Time Password (OTP code).

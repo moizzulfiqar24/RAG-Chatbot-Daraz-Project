@@ -1,0 +1,109 @@
+Return:
+
+Where can I get my returned/ delivery failed items?
+Customer Returned Items: It will be delivered on the seller return address
+Delivery failed Items: If it is drop-off module , seller has to collect it from the drop-off location and if it is a pick-up module then it will be delivered on the Seller address
+
+Will I be notified if customer initiates a return for my product?
+Yes! you will be notified via email when a customer initiates a return against any of your products.
+
+How do I track my return orders?
+If a customer submits a return request for an order, the seller is notified via SMS and Email. From the seller center, the seller can also track his return orders.
+Seller Center > Order & Reviews > Manage Orders > Returned
+
+What can be the reasons for returned items?
+The following are the most common reasons for returns
+kc-oss-1708937095240-image.png
+
+What should I do if I do not get my return parcel?
+Within 30 days of the Transit to Ship date, you will receive the returned/delivery failed item.
+If you have not received the returned/delivery failed item with in 30 days, you will have 15 days after 30 days to file a claim
+To file a claim, you must complete the claim form.
+kc-oss-1623229527410-image.png
+
+In the event of an "incorrect return," will my penalty be reversed?
+Yes! In case of “incorrect return”, you have to file the claim with all proofs and details against that returned item. Our team will investigate your claim and if your claim found valid, the penalty amount will be reverted. It will reflect in the next payment cycle.
+Note: Your scorecard will be not be adjusted in the penalty claim instead seller has to file a new claim under QRR scorecard adjustment category
+
+Claims:
+
+How does the claim process work?
+If you find any discrepancy in the package/item you have received versus what you handed us over, you shall log a claim via our claims form only.
+In all the cases of claims, you must fill in all the fields to provide complete information and submit pictures of the product as a proof.
+Please note: It is important to accurately fill the Contact Us form to file a claim along with all its mandatory fields with proof because Submissions with incomplete information will be considered as invalid claims.
+kc-oss-1708588394707-image 252.png
+
+Will I be informed if the claim is approved or rejected?
+Yes, our team will inform you via email or call if your claim is accepted or rejected.
+
+When will I receive my refund if my claim is approved?
+Once the concerned team has determined that the claim is valid and reasonable, it will be escalated to billing to complete the payout. Within the next 2 of your payment cycles, your refund will be adjusted.
+
+What is the seller claims policy?
+The seller claims are compensation against the loss of a seller in which the seller files a dispute for not receiving or receiving damaged/incorrect/missing items/components in the parcel. We further, investigate it according to our policies and guidelines and if we found a dispute valid then we compensate the seller for the loss.
+We also deal with the "QRR scorecard adjustments" related issues when our seller faces it on the "returned" status of the seller center.
+General Guidelines
+All packages returned to the sellers’ doorstep are to be accepted in all cases, do not reject the parcel at the doorstep.
+If the seller finds any discrepancy in the package/item they have received versus what they handed over, they should log a claim via the claims form only.
+In all the cases of claims, the seller must fill in all the fields to provide complete information and submit pictures of the product as proof
+Resolution time for claim processing by daraz
+All claims made by sellers through the claim form within the desired timeline will have a target resolution time of 5 business days (However, the resolution varies and depends on the case scenario).
+Claim Regulation:
+The seller will be compensated for all the disputed items in cases where Daraz or the customer has been found at fault.
+Negotiation clause, for items with packaging damaged and the items which are repairable or in used condition, returned after 30 days and items in resalable conditions, the claim amount will be negotiated and daraz will bear the damage cost to compensate the sellers.
+Mention the receiving date on POD along with the comments (if there is anything wrong with the item).
+Daraz is not liable to compensate the sellers in the following scenarios
+kc-oss-1623157034089-image.png
+Note: Financial payouts or reimbursements (if any) will be made to the seller in the 2 billing cycle after the claim has been resolved.
+
+What should I do to make my claim strong?
+These guidelines will help you to make your claim strong and fruitful.
+Claims SLA: 
+It is mandatory to file a claim within 5 business days after receiving the returned/delivery failed item.
+Claim to be raised for an item that has not been received back for more than 30 days since the handover to Daraz / logistics partners (transit to shipped date). The claim form in this scenario should be filed within 30-45 days from the handover date to Daraz / logistics partners (transit to shipped date).
+Any claim which is submitted after the specified time duration will not be entertained.
+Claims for penalties on your shop must be raised within 2 payment cycles from the date the penalty is charged.
+While filling the claim form, select the correct claim reason.
+Fill in all necessary fields with accurate data.
+If there is any issue with return/delivery failed parcel mention the receiving date on POD along with the comments (if there is anything wrong with the item)., as this can make your claim more strong
+Attach proofs, which might be document (invoice), a processing/dispatching and return footage, with different dimensional images , clear shipping label images.
+Note: Always Demand POD from the rider
+
+How do I file the claim form?
+To fill out the claim form, follow these steps
+Step 1: Select "Seller Type"
+Step 2: Select Issue Type:
+Step 3: Select the claim reason.
+Now, you must choose a claim reason; for example, we will use "Damaged item received" as our claim reason.
+After you’ve decided the claim reason, you can go through the information and guidelines.
+Step 4: Fill in all the details accurately
+Order Number
+SKU
+Item ID
+Quantity of SKU
+Return Received Date
+Damage Type
+What is damaged?
+Attachments
+Once all fields have been filled, click Submit.
+Next Steps:
+The seller will be contacted through email when their claim has been submitted successfully and will be given a case number to follow up on the matter.
+If Seller Support accepts the claim, it will be forwarded to the concerned team for further verification and justification.
+The claim will be escalated to billing to complete the payout once the concerned team has determined that it is valid and reasonable.
+
+Where do I find the claim form?
+These are two ways to reach claim form.
+At the bottom of the seller help center homepage, you'll discover a claim option
+The Seller Claims form can also be found in the Seller Support Center. Seller Support is located in the top bar, and Seller Claims is located in the drop-down menu.
+Seller support center > seller support > seller claims
+
+What are the claim reasons & guidelines?
+Please be informed that we have made an addition to Seller Claim Policies.
+Any item having multiple components must be packed together as one package, with a single shipping label,
+For instance, in the case of an air conditioners, both the indoor and outdoor units need to be packed as one unit. as multiple packages with the same shipping label may lead to packages being lost, and the seller would have to bear the loss.
+Important Tips
+Sellers must reconcile outstanding packages (item marked in shipped or handed over, returned, delivery failed) every 15 days to make sure that they are able to process a claim as per the standard time duration specified for seller claims.
+Make sure to check order statuses regularly to keep track of all delivered, handed over and returned items.
+You must check your account statement to keep track of the amount you receive on your claim submitted against a particular order.
+Note: It is important to accurately fill the Seller Claim form and all its mandatory fields within the standard time duration (i.e., 5 working days) along with proof. Claims submitted with incomplete information or after the deadline will be considered/deemed as an invalid claim.
+
