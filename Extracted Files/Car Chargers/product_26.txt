@@ -1,0 +1,82 @@
+{
+    "URL": "https://www.daraz.pk/products/66w-4-port-usb-pd-car-charging-fast-charging-pdqc302usb-i477965624-s2241966635.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ZZHI",
+    "Product Name": "66W 4-port USB PD car charging fast charging - PD+QC3.0+2USB"
+}
+
+{
+    "Color Family": [
+        "PD+QC3.0+2USB",
+        "3USB QC3.0",
+        "66W 4USB",
+        "4USB 4.8A"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Product name: 4in1 USB PD Car Charger",
+        "Color: Black",
+        "Weight: 40g",
+        "Size: 38.5*60mm",
+        "Working Voltage: DC12-24V",
+        "Input Interface: Type1: 4 USB-A 4.8AType2: 3*3.1A USB-A+66W USB-AType3: 3*2.4A USB-A+QC3.0Type4: 2*2.4A USB-A+QC3.0+PD Type-C",
+        "Output: Type1: USB: DC5V/4.8AType2: USB: DC5V/3.1AUSB(66W): DC5V/3.6A, 9V/2.5A, 12V/2A, 10V/4A, 11V/6AType3: USB: DC5V/2.4AQC3.0: 5V/3A, 9V/2A, 12V/1.5AType4: USB: DC5V/2.4AQC3.0: 5V/3A, 9V/2A, 12V/1.5APD: 5V/3A, 9V/2.25A, 12V/1.67A",
+        "Protocols: QC3.0/PD",
+        "Package included:  1* 4in1 USB PD Car Charger"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 2264",
+            "Rs. 1887"
+        ],
+        [
+            "-17%%",
+            "Rs. 2588",
+            "Rs. 2157"
+        ],
+        [
+            "-17%%",
+            "Rs. 1940",
+            "Rs. 1617"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

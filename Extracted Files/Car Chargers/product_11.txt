@@ -1,0 +1,82 @@
+{
+    "URL": "https://www.daraz.pk/products/100-36-30-4-14-15-13-i487800106-s2293414517.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Guoan Digital",
+    "Product Name": "100% Quality+COD 36W USB Car Charger Fast Charging QC 3.0 Car Phone Charger Adapter 4 Ports For Iphone 14 15 Pro Xiaomi 13 Samsung Huawei Oneplus"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/fb0c5e85641ae64bd397fb37b34d58d6.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/43ea0e64ddb3e9954751469bfa6b3f68.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/f5f1099e68717c33ebcd8d25c7845fde.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/9045438ea8a42dc663033c7c6b0f83be.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/9992ae357a4de1b9234cbfe0d9fa62c6.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/bb4efee45d9721762daf8f6896d73c8c.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/771200265db25d90a04d275f58af73a0.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/419bb11e86a9e02245a12e3866c8dc73.jpg\\\">",
+    "highlights": [
+        "Intelligent Charge : No",
+        " Display screen : No",
+        " Applied Fast Charge Protocols : Other",
+        " GaN : No",
+        " Max. Output Power : 10W",
+        " Type : Car Charger",
+        " Power Source : Car Lighter Slot,A.C. Source",
+        " Quality Certification : CCC,ce,ROHS,FCC,UL",
+        " Output Interface : USB,4 A Ports",
+        " Brand Name : Maerknon",
+        " Origin : Mainland China",
+        " Feature 1 : Car Phone Charger",
+        " Feature 2 : Fast Car USB Charging Charger",
+        " Feature 3 : Cell Phone Charger For Car",
+        " Feature 4 : Mobile Phone Charger In Cars",
+        " Feature 5 : USB PD Type C Charger For iPhone 14 13 12 11 Pro",
+        " Feature 6 : Phone Charger For Samsung Galaxy S23 S22 S21 S20 Ultra",
+        " Feature 7 : Fast Car Charger For Huawei P60 P50 P40 P30 Mate 50 40 30 20 Pro",
+        " Feature 8 : For Xiaomi 13 12 11 Pro Ultra Mix 2s",
+        " Feature 9 : Phone Charger For Redmi Note 12 Pro turbo K60 K50 K40 Pro",
+        " Feature 10 : Fast Charger For OnePlus 11 10 9 8 Pro7t 6t 6 5 rt buds pro 2"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-39%%",
+            "Rs. 2400",
+            "Rs. 1456"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "64%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

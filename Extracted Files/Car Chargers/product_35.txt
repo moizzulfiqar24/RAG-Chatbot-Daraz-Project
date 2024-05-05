@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/cod-60-usb-c-pd30w-qc30-13-12-11-mi-i438935549-s2125111398.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Trend era",
+    "Product Name": "【COD+Ready Stock + FREE Shipping 】Mini Invisible Car Charger Adapter 60W Fast Charging USB Type C PD30W + QC3.0 Dual Port Metal Quick Charge Compatible with iPhone 13 12 11 Pro Max iPad Samsung Huawei Xiao Mi"
+}
+
+{
+    "Color Family": [
+        "2USB-22.5W",
+        "PD-30W+USB"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/e4cc59b444a7253c87a1f5c125434ce9.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/045ca154769e71b3f3ca8fb107a1f733.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/5a3cb92ca85039ad42669905a62973cc.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/5869d1d6ecb6bd165807a52382bc3d09.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/0131145871fe29333d48ef05690e4e66.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/1e3ddf1258a8544645bb233662319a65.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/868a7a54f3b7bf529ec382ddd9a29a13.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/32bc9b9b5e678a52f27e4b61dbcc2eea.jpg\\\">",
+    "highlights": [
+        "【Readystock】 + FREE Shipping Chai knows Mini Invisible Car Charger Adapter 60W Fast Charging USB Type C PD30W + QC3.0 Dual Port Metal Quick Charge Compatible with iPhone 13 12 11 Pro Max iPad Samsung Huawei Xiao Mi Specification: Intelligent Charge: No Display Screen: No Applied Fast Charge Protocols: Qualcomm Quick Charge Gan: No Max. Output Power: 30w Type: Car Charger Model Number: USB C Car Charger Quality Certificate: Ce, Rohs, Fcc Output Interface: USB, Type C Certificate: Rohs, Fcc, Ce Origin: Mainland China Feature 1: Fast Charger For iPhone 13 12 11 Pro Max Xs Xr X 8 7 6 6s Plus 5 5s Feature 2: Mobile Phone Charger/USB Car Adapter/Car Charging Feature 3: Qc3.0 Dual USB Car Charger/USB C Type C Type-C USB Car Charger Feature 4: For Samsung Galaxy Note 10 9 8 S20 S10 S9 S8 Plus Afc Car Charger Feature 5: USB Car Charger/Mini Car Charger/Charger In Car 3.1a Feature 6: For Xiaomi Mi 10 9 8 Pro Redmi 5 Note 4"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 2000",
+            "Rs. 1206"
+        ],
+        [
+            "-43%%",
+            "Rs. 2000",
+            "Rs. 1137"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "70%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/diamond-camera-lens-protector-for-samsung-galaxy-s24-ultra-grey-titanium-i486833343-s2285628638.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Online Expo",
+    "Product Name": "Diamond Camera Lens Protector for Samsung Galaxy S24 Ultra - Grey Titanium"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Introducing the sleek&nbsp;<span style=\\\"font-size: 14px;\\\">Grey Titanium&nbsp;</span><span style=\\\"font-size: 14px;\\\" data-spm-anchor-id=\\\"a1zawk.page_product_publish.0.i7.29f47709uaWR1W\\\">Diamond Camera Lens Protector for Samsung Galaxy S24 Ultra. This screen protector is crafted to protect your device's camera lens, ensuring clear photos and videos. It offers easy installation, durable protection against scratches and smudges, and a precise fit for seamless functionality. The&nbsp;</span><span style=\\\"font-size: 14px;\\\">Grey Titanium&nbsp;</span><span style=\\\"font-size: 14px;\\\">color adds an elegant touch to your device, keeping your Samsung Galaxy S24 Ultra's camera lens safe and secure with this essential accessory.</span>",
+    "highlights": [
+        "5-layer Diamond Camera Lens Protector for Samsung Galaxy S24 Ultra.",
+        "Offers maximum safeguard for your camera lens.",
+        "Tailored for Samsung Galaxy S24 Ultra.",
+        "Essential for camera enthusiasts and professionals."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 599",
+            "Rs. 299"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

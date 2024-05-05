@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/8-i489876139-s2313875118.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "H S mobile accesssory",
+    "Product Name": "infnix hot 8 OG gorilla  glass protector"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Infinix Hot 8 OG Gorilla Glass Protector- Express delivery: Lahore- Category path: Mobiles & Tablets > Mobile Accessories > Screen Protectors- Model: Hot 8- Color family: BlackStep 2:- Additional keywords: Infinix, Hot 8, Gorilla Glass, Screen Protector, LahoreStep 3:• Infinix Hot 8 OG Gorilla Glass Protector for Lahore.• Specifically designed for the Hot 8 model in sleek black.• Provides reliable protection with OG Gorilla Glass.• Ensures express delivery for a quick and convenient purchase.Step 4:- N/AStep 5:- N/A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-53%%",
+            "Rs. 399",
+            "Rs. 189"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "83%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

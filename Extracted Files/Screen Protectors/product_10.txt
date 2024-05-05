@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/5-9d-i489181877-s2301871281.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Chargero (Lahore)",
+    "Product Name": "Xiaomi Redmi Note 5 9D Full Screen protector Tempered Glass Full Glue Edge to Edge"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Full screen protector for Xiaomi Redmi Note 5.",
+        "• 9D tempered glass with full glue edge to edge.",
+        "• Provides maximum protection for your phone screen.",
+        "• Specifically designed for Xiaomi Redmi Note 5.",
+        "• High-quality material for durability and clarity.",
+        "• Easy to install and does not affect touch sensitivity.",
+        "• Compatible with most phone cases for added convenience."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-76%%",
+            "Rs. 450",
+            "Rs. 109"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "98%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

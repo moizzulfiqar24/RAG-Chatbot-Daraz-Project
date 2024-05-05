@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/-i487195721-s2287888830.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HaithamElectrics",
+    "Product Name": "Original Samsung Car Charger Mobile Car Charging Best Fitted Spot"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Car Mobile Charger Fast USB Car Socket For Car USB Charger Power Adapter Car Accessories Interior.New",
+        "1 port",
+        "indication light",
+        "Material plastic",
+        "Input 12v 24v",
+        "output 5v.800mA",
+        "long life.",
+        "High Quality"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-77%%",
+            "Rs. 550",
+            "Rs. 129"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

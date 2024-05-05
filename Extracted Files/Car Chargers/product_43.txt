@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/sg-72-34-usb-led-i482682004-s2270313915.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "BISMILLAH  GENERAL STORE",
+    "Product Name": "SOVO SG-72 Lazer 3.4-Amp Charger With Dual USB Output And LED Light"
+}
+
+{
+    "Color Family": [
+        "Random"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Fast Charging: Deliver rapid charging capabilities to significantly reduce charging durations.<br/>Dual USB Ports: Equipped with two USB ports, enabling simultaneous charging of multiple devices.<br/>Universal Compatibility: Compatible with a wide array of devices, including smartphones, tablets, Bluetooth headphones, and more.<br/>High Output Current: Provides a robust output current of 3.4Amp, ideal for efficiently charging power-hungry devices.<br/>Compact Design: Designed to be compact and portable, perfect for travel and storage convenience.<br/>Durable Build: Constructed with premium materials for enhanced durability, ensuring longevity and reliability for everyday use.<br/>Quick Charge Compatibility: Compatible with Quick Charge technology, catering to devices that support this feature.<br/>Advanced Safety Features: Incorporates advanced safety mechanisms such as overheat protection, overvoltage protection, and short-circuit protection.<br/>Smart Charging: Utilizes smart-charging technology to automatically adjust the charging rate based on the device’s requirements, optimizing charging efficiency and safety.",
+    "highlights": [
+        "Type: Fast Charger",
+        "Brand: SOVO",
+        "Model: SG-72(Lazer)",
+        "Color: Random",
+        "Material: ABS",
+        "Ampere: 3.4Amp",
+        "Output: Dual USB",
+        "Attached Cable: Type-C",
+        "Charging: Fast",
+        "Led Light: Yes"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-28%%",
+            "Rs. 1599",
+            "Rs. 1150"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/cod-usb-c-pd30w-qc30-i438932778-s2125102820.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Trend era",
+    "Product Name": "【COD+Ready Stock + FREE Shipping 】 Fast Charging Car Charger USB Type C PD30W QC3.0 Dual Port Quick Charge Compatible Car Phone Adapter"
+}
+
+{
+    "Color Family": [
+        "2USB-22.5W",
+        "PD-30W+USB"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        " 【UPGRADE SMALLEST BODY, FLUSH MOUNT】: The smallest car charger iPhone on the market until now. With a tiny thumb-sized (Size: 1.72inch*0.86inch*0.86inch) body, snug and flush with outlet does not protrude and gets in the way, perfectly hide in your usb c cigarette lighters. The usb car charger port is also equipped with a blue LED light, so you can easily find the charging location while driving at night.  【30W PD &amp; 30W QC 3.0 Super-fast charging】：This Mini USB C car charger fast charging is equipped with PD 3.0 (30W) &amp; QC 3.0 (30W) dual-port to maximize your device charging speed, which can rapidly charge iPhone 13 from 0% to 80% within 30mins and fully charged Samsung Galaxy S22 in 1 hour. [NOTE: 1. Supports simultaneous charging of 2 devices. 2. The PD port supports Samsung 25W super fast charging.]  【FULLY COMPATIBLE WITH ALL FAST CHARGE PROTOCOL】: This usb car charger has been recognized by official USB-IF and Qualcomm and passes 15 multi-layer tests, compatible with [PD 30W/PPS 25W/QC 30W]. The charging efficiency has increased by 88% , charging stability rate and charging safety increased by 93% , so you can charge faster and safer.  【UPGRADE NICE PULL RING FOR EXTRACTING】: You'll love the car charger pull ring that lifts up to easily remove from dash, while other compact car chargers is very hard to unplug and easy to damage the usb cigarette lighter adapter.  【UPGRADE ALL ZINC ALLOY, CERTIFIED SAFE FOR RAPID CHARGE】: The compact USB c car charger upgrade all zinc alloy, will not be overheating at high temperatures, which is safer than a plastic one. Sanptoch's smallest fast car charger is with Multiple safety systems and full safety certifications not only can provide a powerful charging speed but also bring complete protection for you and your devices.  【WIDELY COMPATIBILITY】: Sanptoch mini Invisible Car charger compatible with iPhone 13 12 11 Pro Max Mini, SE, XR, XS MAX, XS, X, 8 Plus, iPad Pro iPad Air, iPad mini, Samsung Galaxy Note 20 Ultra Note10 Plus S21+ S20 S10 5G S10E S9 S9 Plus S8+ Note 9, Huawei Mate 40 30 Pro, Google Nexus 6P Pixel 6 5 4xl 3xl 2xl 3a 4 4a, etc."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 2000",
+            "Rs. 1206"
+        ],
+        [
+            "-43%%",
+            "Rs. 2000",
+            "Rs. 1137"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "70%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

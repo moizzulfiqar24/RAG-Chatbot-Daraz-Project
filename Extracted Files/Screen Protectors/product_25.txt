@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/11-i488989055-s2300266074.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Js data cable",
+    "Product Name": "IPHONE 11 FULL COVER SCREEN PROTECTOR"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Valid product title: iPhone 11 Full Cover Screen Protector- Valid category: Mobile Accessories > Screen ProtectorsStep 2:- No additional keywords provided.Step 3:• Full cover screen protector for iPhone 11.• Provides complete protection for the phone's screen.• High-quality material for scratch and impact resistance.• Easy installation without bubbles or residue.• Maintains touch sensitivity and screen clarity.Step 4:- No false information found.Step 5:- Highlights generated successfully."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 500"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "79%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

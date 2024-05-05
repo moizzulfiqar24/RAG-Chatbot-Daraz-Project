@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/geepact-car-charger-qc30-intelligent-fast-charging-multi-function-car-charger-super-fast-charging-car-charger-quick-charge-adapter-66w-225w-pd20w-80w-support-12v-24v-car-i377851315-s1864017515.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Geepact",
+    "Product Name": "Geepact Car Charger QC3.0 Intelligent Fast Charging Multi-function Car Charger Super Fast Charging Car Charger Quick Charge Adapter 66W 22.5W | |PD20W |80W Support 12V 24V Car"
+}
+
+{
+    "Color Family": [
+        "C30-66W fast charging"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Specifications:",
+        "Name:Car Charger",
+        "Material:ABS",
+        "Power: 66W +22.5W",
+        "Cigarette Lighter: 80W",
+        "Rated Input:DC 12-24V",
+        "Features:",
+        "Fast Charging: 66W + 22.5W fast charging technology, built-in management chip, intelligent shunt fast charging without harming the charger, overcharge, over-current, automatic power off protection.",
+        "3 USB Ports: 1 Cigar lighter hole+3USB car charger+LED voltage detection, intelligent shunt technology, can power multiple devices at the same time.",
+        "Safe Materials: Made of fire-resistant ABS material, and the shell is made of high-gloss shell and oxidation treatment, which is beautiful and not easy to leave scratches.",
+        "HD Digital Display: HD LED digital display design, so you can know the voltage detection and charging current at a glance to ensure safe charging efficiency."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-27%%",
+            "Rs. 3280",
+            "Rs. 2380"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

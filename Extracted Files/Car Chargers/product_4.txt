@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/pd-usb-425-100-ps-i488838877-s2299832981.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ps stORe (collections)",
+    "Product Name": "Pd + Usb fast car charger 42.5W⚡️Super Fast charger with one year company warranty its orignal product Premium quality 100✨ percent gauranteed price and product now available only on ps store"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Pd + Usb fast car charger 42.5W⚡️Super Fast charger",
+        "• One year company warranty, original product, premium quality",
+        "• 100✨ percent guaranteed price, available only on ps store",
+        "• Express delivery available in Gujrat",
+        "• Power Output: 5V / 2.0A, Model: RCC-2000",
+        "• 2 ports, USB charging interface, cable not included"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-25%%",
+            "Rs. 1999",
+            "Rs. 1499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "71%",
+        "Ship on Time": "66%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

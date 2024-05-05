@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/13c-og-hd-og-13c-i489548000-s2308230559.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "A A  MOBILE ACCESSORIES",
+    "Product Name": "Redmi 13c OG Glass Protector HD Plus Super Tuff Screen Glass Premium Protector, Its me OG redmi 13.c"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "• Redmi 13c OG Glass Protector with HD Plus Super Tuff Screen Glass<br/>• Premium protector with 1 layer for ultimate screen protection<br/>• Specifically designed for Redmi 13.c for a perfect fit<br/>• Ensures high definition clarity and touch sensitivity<br/>• Protects against scratches, cracks, and smudges<br/>• Compatible with Redmi 13.c for seamless touch experience",
+    "highlights": [
+        "• Redmi 13c OG Glass Protector with HD Plus Super Tuff Screen Glass",
+        "• Premium protector with 1 layer for ultimate screen protection",
+        "• Specifically designed for Redmi 13.c for a perfect fit",
+        "• Ensures high definition clarity and touch sensitivity",
+        "• Protects against scratches, cracks, and smudges",
+        "• Compatible with Redmi 13.c for seamless touch experience"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-23%%",
+            "Rs. 297",
+            "Rs. 230"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "67%",
+        "Ship on Time": "76%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

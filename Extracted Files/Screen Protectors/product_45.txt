@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/7-i485600571-s2281103554.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Accessories Pòint 1588765643",
+    "Product Name": "Iphone 7 Camera Glass Protection available"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Iphone 7 Camera Glass Protection available- Type of Screen Guard: Tempered Glass- Express delivery: Multan- Category path: Mobiles & Tablets>Mobile Accessories>Screen Protectors- Model: iphone 7, iphone 8- Material: Glass- Color Family: Black- Number of Layers: 1Step 2:- iPhone 7- Camera protection- Tempered glass- Multan delivery- Mobile accessories- Black color- Single layerStep 3:• iPhone 7 camera glass protection with tempered glass.• Express delivery available in Multan for quick installation.• Black color adds a sleek look to your device.• Single layer for effective screen protection.• Specifically designed for iPhone 7 and iPhone 8 models.Step 4: - N/AStep 5:- N/A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

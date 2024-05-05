@@ -1,0 +1,80 @@
+{
+    "URL": "https://www.daraz.pk/products/armico-66w-car-charger-quick-charger-adapter-4-port-usb-ausb-c-fast-charging-phone-charger-for-iphone-xiaomi-samsung-i398839988-s1928931379.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ARMICO 3C Life",
+    "Product Name": "ARMICO 66W Car Charger Quick Charger Adapter 4-Port USB A+USB C Fast Charging Phone Charger for iPhone Xiaomi Samsung"
+}
+
+{
+    "Color Family": [
+        "PD20W+QC3.0+2.4A",
+        "QC3.0",
+        "66W Super Charger"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "LED display monitors the car battery voltage in real time.",
+        "4 USB supports simultaneous output with an indicator light, QC3.0 orange LED USB interface with fast charge.",
+        "Compatible with various models, the voltage input from 12 to 24 V supports the most popular vehicles on the market.",
+        "Compatible with all versions of QC technology. Charge all non-QC 3.0 phones, digital cameras and tablets at full speed.",
+        "The outer case consists of a high-gloss outer case and is oxidized, which is nice and does not leave any scratches."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 3108",
+            "Rs. 1559"
+        ],
+        [
+            "-50%%",
+            "Rs. 2579",
+            "Rs. 1295"
+        ],
+        [
+            "-50%%",
+            "Rs. 3128",
+            "Rs. 1569"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

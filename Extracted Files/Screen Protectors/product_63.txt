@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/tempered-glass-screen-protector-for-samsung-galaxy-s23-fe-i489880213-s2314011470.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Dab Lew Tech",
+    "Product Name": "Tempered Glass Screen Protector for Samsung Galaxy S23 FE"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<a href=\\\"https://dablew.pk/file/2024/04/Buy-Screen-Protector-for-Samsung-Galaxy-S23-FE-in-Pakistan-at-Dab-Lew-Tech-2-1.jpg\\\"><br/><img src=\\\"https://dablew.pk/file/2024/04/Buy-Screen-Protector-for-Samsung-Galaxy-S23-FE-in-Pakistan-at-Dab-Lew-Tech-2-1.jpg\\\" alt=\\\"\\\"/></a><a href=\\\"https://dablew.pk/file/2024/04/Buy-Screen-Protector-for-Samsung-Galaxy-S23-FE-in-Pakistan-at-Dab-Lew-Tech-3-1.jpg\\\"><img src=\\\"https://dablew.pk/file/2024/04/Buy-Screen-Protector-for-Samsung-Galaxy-S23-FE-in-Pakistan-at-Dab-Lew-Tech-3-1.jpg\\\" alt=\\\"\\\"/></a>",
+    "highlights": [
+        "Premium tempered glass with a 9H hardness rating protects your device against scratches.",
+        "Topped with an oleophobic coating to reduce fingerprints",
+        "96% transparency and 0.3mm thickness present high definition viewing experience and high touch sensitivity.",
+        "Dust cloth and dust-absorber are included in the packing list, so it is easy to install this screen protector on your device."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-10%%",
+            "Rs. 1999",
+            "Rs. 1799"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "81%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

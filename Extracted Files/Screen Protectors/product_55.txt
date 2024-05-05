@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/15-15-15-15-i487646230-s2292054042.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Authentic Shopp",
+    "Product Name": "For Iphone 15 Pro and 15 Pro max Camera lens protector. | Natural titanium Camera Protector lens for Iphone 15 pro and iPhone 15 Promax."
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Product Description:<br/>Introducing the Camera Lens Protector for iPhone 15 Pro and 15 Pro Max. This protector features a natural titanium construction and consists of two layers for enhanced durability. Specifically designed for mobile devices, it ensures the safety of the camera lens, maintaining the integrity of your device's photography capabilities. Compatible with both iPhone 15 Pro and iPhone 15 Pro Max, this protector offers reliable defense against scratches and impacts. Safeguard your valuable device and capture stunning moments with confidence.",
+    "highlights": [
+        "• Specifically designed for iPhone 15 Pro and iPhone 15 Pro Max.",
+        "• Features a durable natural titanium material for reliable protection.",
+        "• Consists of 2 layers for enhanced safeguarding of the camera lens.",
+        "• Compatible with various mobile accessories and screen protectors.",
+        "• Designed to maintain the camera lens' clarity and functionality."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 450",
+            "Rs. 299"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "94%",
+        "Ship on Time": "66%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

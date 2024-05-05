@@ -1,0 +1,108 @@
+{
+    "URL": "https://www.daraz.pk/products/45-5a-usb-5a-pd-c-30w-usb-5a-qc40-qc30-qc-scp-5a-i426487413-s2024098518.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SUNKANDI",
+    "Product Name": "Essager 45W 5A USB Car Charger Quick Charge 4.0 QC4.0 QC3.0 QC SCP 5A PD Type C 30W Fast Car USB Charger For iPhone Xiaomi Mobile Phone"
+}
+
+{
+    "Color Family": [
+        "Blue 45W A To C",
+        "Black 45W A To C",
+        "Blue DOUBLE USBA",
+        "Black DOUBLE USBA",
+        "Blue A TO C",
+        "Black A TO C"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<span style=\\\"font-size: 16.0pt;\\\">Essager 45W 5A USB Car Charger Quick Charge 4.0 QC4.0 QC3.0 QC SCP 5A PD Type C 30W Fast Car USB Charger For iPhone Xiaomi Mobile Phone</span>",
+    "highlights": [
+        "Intelligent Charge : Yes",
+        "Display screen : No",
+        "Applied Fast Charge Protocols : Samsung Adaptive Fast Charge,Huawei FCP,USB PD,Other,Qualcomm Quick Charge,Huawei Quick Charge",
+        "GaN : No",
+        "Max. Output Power : 45W",
+        "Type : Car Charger",
+        "Model Number : Essager Mini 45W/30W USB Car Charger",
+        "Power Source : Car Lighter Slot",
+        "Quality Certification : CCC,ce,ROHS,FCC",
+        "Output Interface : 1 A Port,1 C Port",
+        "Brand Name : ESSAGER",
+        "Certification : CE",
+        "Origin : Mainland China",
+        "Mataerial : Aluminum Alloy+ABS",
+        "Color : Black/Blue/Purple",
+        "Fast Charge Protocol : PD3.0 / QC4.0 / QC3.0 / HUWAEI FCP SCP/ Samsung AFC / SFC2.0 / PPS",
+        "Support Fast Charging : Support For Samsung 45W / Huawei 22.5W / IP 27W (Max) / Xiaomi QC3.0 Quick Charge",
+        "Function 1 : PD3.0+ QC4.0 QC3.0 QC2.0 QC 3.0 2.0 3 2 USB Car Charger",
+        "Function 2 : QC 3 QC3.0 FCP AFC MTK PE PE+ Car-charger",
+        "Feature 1 : Quick Charge 4.0 3.0 2.0 4 3 2 0 Car USB Charger / USB-C Car Charger",
+        "Feature 2 : QC3.0 Dual USB Car Charger / USB C Type C Type-c USB Car Charger",
+        "Feature 3 : Mobile Phone Charger / USB Car Adapter / Car Charging",
+        "Feature 4 : Fast Charging Car Charger / Car Fast Charger / Charger For Car",
+        "Feature 5 : USB Car Charger / Mini Car Charger Turbo / Charger in Car",
+        "45W Upgraded Type-C +USB-A : 5A/3A;9V/3A;12V/3A;4.5V/5A;5V/4.5A;15V/3A;20V/2.25A",
+        "30W Standard Type-C+USB-A : 4.5V/5A; 5V/4.5A; 9V/3A; 12V/2.5A; 5V/3A",
+        "30W Standard USB-A+USB-A : 4.5V/5A,5V/4.5A,9V/3A,12V/2.5A;",
+        "Compatible 1 : Fast Charger For iPhone 12 11 Pro Max Xs Xr X 8 7 6 6S Plus 5 5s",
+        "Compatible 2 : For iPad Pro Mini Air Tablet Car Charger",
+        "Compatible 3 : FCP Fast Super Charge For Huawei Mate 40 30 20 10 P20 P10 Pro Lite RS",
+        "Compatible 4 : For Xiaomi Mix 3 Mi 8 6 Redmi Note 7 5 Oneplus HTC LG Meizu ZTE Sony",
+        "Compatible 5 : For Samsung Galaxy Note 10 9 8 S20 S10 S9 S8 Plus AFC Car Charger"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 3509",
+            "Rs. 1759"
+        ],
+        [
+            "-50%%",
+            "Rs. 3729",
+            "Rs. 1869"
+        ],
+        [
+            "-50%%",
+            "Rs. 3249",
+            "Rs. 1629"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

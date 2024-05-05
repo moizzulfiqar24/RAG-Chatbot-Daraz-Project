@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/screen-glass-protector-samsung-galaxy-tab-a-2020-sm-t307-84-inch-tempered-glass-protector-i486467651-s2284111710.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "the B store",
+    "Product Name": "Screen Glass Protector Samsung Galaxy Tab A 2020 - SM T307 - 8.4 INCH Tempered Glass Protector"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "• Tempered glass screen protector for Samsung Galaxy Tab A 2020\\n• Compatible with model SM T307, 8.4 inch screen\\n• Provides 1 layer of protection\\n• Neutral color, made of high-quality tempered glass\\n• Express delivery available in Lahore.\\n• Tempered Glass for Samsung Galaxy Tab A T307 8.4 Inch 9H  Hardness,</pre><pre>• Anti-Bubble,HD Ultra Clear,Scratch Resist,Tempered Glass </pre><pre>• Screen  Protector for Samsung Galaxy Tab A T307 8.4 Inch (1 Pack)<br/></pre><p><img src=\\\"https://i5.walmartimages.com/asr/29f81ea4-0717-488b-8234-ae5f5e4764b3.d8e2cd2772152e80ed6a2da5e0e0b4be.jpeg?odnHeight=612&amp;odnWidth=612&amp;odnBg=FFFFFF\\\" alt=\\\"Mignova Tempered Glass for Samsung Galaxy Tab A T307 8.4 Inch 9H  Hardness,Anti-Bubble,HD Ultra Clear,Scratch Resist,Tempered Glass Screen  Protector for Samsung Galaxy Tab A T307 8.4 Inch (1 Pack) - Walmart.ca\\\"/>",
+    "highlights": [
+        "• Tempered glass screen protector for Samsung Galaxy Tab A 2020• Compatible with model SM T307, 8.4 inch screen• Provides 1 layer of protection• Neutral color, made of high-quality tempered glass• Express delivery available in Lahore.• Tempered Glass for Samsung Galaxy Tab A T307 8.4 Inch 9H  Hardness,• Anti-Bubble,HD Ultra Clear,Scratch Resist,Tempered Glass • Screen  Protector for Samsung Galaxy Tab A T307 8.4 Inch (1 Pack)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-38%%",
+            "Rs. 799",
+            "Rs. 494"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

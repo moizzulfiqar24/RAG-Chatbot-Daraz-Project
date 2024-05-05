@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/y20-og-i489045856-s2300524891.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Royal collectionz",
+    "Product Name": "vivo y20 og glass protector"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: vivo y20 og glass protector- Type of Screen Guard: Clear- Material: Glass- Color Family: White- Number Of Layers: 2Step 2:- Additional Keywords: Express delivery in LahoreStep 3:• Clear glass protector for vivo y20 with 2 layers.• Provides reliable protection for the screen.• Express delivery available in Lahore for convenience.Step 4:• Protects screen with clear glass, 2 layers.• Express delivery available in Lahore for quick access.Step 5:• Clear glass protector for vivo y20 with 2 layers.• Provides reliable protection for the screen.• Express delivery available in Lahore for convenience."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-33%%",
+            "Rs. 299",
+            "Rs. 199"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "80%",
+        "Ship on Time": "95%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

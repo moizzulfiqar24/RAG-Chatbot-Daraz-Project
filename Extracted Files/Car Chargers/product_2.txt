@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/30-usb-12-36-usb-i216908344-s1426929677.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "XINQIUS",
+    "Product Name": "Quick Charge 3.0 Dual USB Car Charger 12V 36W USB Fast Charger with Switch for Boat Motorcycle Truck Golf Cart"
+}
+
+{
+    "Color Family": [
+        "3731"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "SpecificationsColor: BlackLED Indicator: green lightMaterial: plastic"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-0.9%%",
+            "Rs. 1396",
+            "Rs. 1384"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

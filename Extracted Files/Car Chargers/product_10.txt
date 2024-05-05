@@ -1,0 +1,81 @@
+{
+    "URL": "https://www.daraz.pk/products/20-i298097808-s1610915355.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "TREND MOBILES",
+    "Product Name": "Orignal Samsung Dual Car Charger  Super Fast 2.0 Dual Car Charger 45W+15W for S20 5G, S20+ 5G, S20 Ultra 5G, S21 5G, S21+ 5G, and S21 Ultra 5G, S22+ 5G, S22 Ultra 5G, Note10+ 5G, Note 20 5G, and Note20 Ultra 5G. Galaxy Fold and Z Flip (45W+15W) Black"
+}
+
+{
+    "Color Family": [
+        "Super Fast Dual Car Charger (45W+15W)"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Black",
+        "FeaturesTotal Max. 60W (Max. 45 W + Max. 15 W)",
+        " ",
+        "InterfaceUSB-C x 1 Port + USB-A x 1 Port",
+        " ",
+        "Packaging ContentsCar Charger, 5A C to C Cable, Quick Start Guide",
+        "Cable Length (m)1 m",
+        " ",
+        "Dimension (WxHxD)(mm)28.0 x 81.1 x 39.0 mm",
+        " ",
+        "Weight53.5 g",
+        "Input Voltage12-24 V",
+        " ",
+        "Output Voltage (Max, Normal Charge)5 V",
+        " ",
+        "Output Voltage (Max, Fast Charge)PDO : 9V, 5V, 20V / PPS : 3.3-11.0V or 3.3-16.0V or 3.3-21.0V",
+        " ",
+        "Output Current (Max, Normal Charge)3 A",
+        " ",
+        "Output Current (Max, Fast Charge)PDO : 3A(9V, 15V), 2.25A(20V) / PPS : 4.05A(3.3-11.0V) or 2.8A(3.3-16.0V) or 2.1A(3.3-21.0V)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-65%%",
+            "Rs. 4000",
+            "Rs. 1399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "98%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/uv-p30-hd-9d-21d-uv-i487572285-s2290861129.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "TALHA TECH HUB",
+    "Product Name": "Original High-Quality Curved Full Glue UV Glass Screen Protector for Huawei P30 Pro - Tempered Glass HD 9D 21D with UV Liquid Glue - Nano Liquid Full Glue Protective Film"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "The Original High-Quality Curved Full Glue UV Glass Screen Protector is a top-of-the-line accessory tailored for the Huawei P30 Pro. It boasts 9D 21D HD clarity and a straightforward installation process using UV liquid glue. This screen protector is equipped with dual protective layers to effectively shield the phone from scratches and impacts. The nano liquid full glue technology ensures a seamless protective film, preserving the phone's elegant design. Additionally, the tempered glass construction provides advanced protection, keeping the screen crystal clear and safeguarded from daily wear and tear. By opting for this premium screen protector, you can rest assured that your Huawei P30 Pro's screen will remain in pristine condition, maintaining its sleek design and delivering a clear and vibrant display. Not only does The Original High-Quality Curved Full Glue UV Glass Screen Protector offer superior protection, but it also guarantees a hassle-free installation experience, enabling you to confidently safeguard your device. Elevate the protection of your Huawei P30 Pro with this top-quality screen protector, providing peace of mind and preserving the device's sleek appearance and display clarity. Protect your investment with this exceptional screen protector.",
+    "highlights": [
+        "• The tempered glass is made of high-quality curved glass, with UV liquid glue for strong adhesion, providing comprehensive protection against scratches and cracks.",
+        "• Tailored specifically for Huawei P30 Pro, ensuring a precise fit and maximum safeguarding for the device, including the curved edges.",
+        "• Consists of two layers, including the advanced HD 9D 21D and Nano Liquid Full Glue technologies, offering enhanced durability and protection against scratches, cracks, and smudges.",
+        "• Eligible for express delivery in Sialkot, ensuring swift and convenient access for customers within the area.",
+        "• Incorporates advanced HD 9D 21D and Nano Liquid Full Glue technologies for comprehensive and advanced protection, ensuring the screen's clarity and touch sensitivity."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 1199",
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
