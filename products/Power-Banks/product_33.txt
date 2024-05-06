@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/6000-mah-i430545988-s2053322529.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FA Collection Lahore",
+    "Product Name": "Power Bank:6000 mah 2600 mah Universal Charger for All Mobile Phones - Reliable Battery Backup!"
+}
+
+{
+    "Color Family": [
+        "6000 mah",
+        "Multi"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area FA Collection Lahore",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/79038e540e11955e49958558fb4b61c9.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/6992d0f0f12dbf11202e09f6b56402ff.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/bd7ccb5daaf021204bbde6898682b822.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/52a8305e2fba030ce0425c836a5d9292.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/dfe02e98d17fba355603c2bbf9ce7a46.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/21bf9ebe1fe028789b4907fd814895e6.jpg\\\"/>",
+    "highlights": [
+        "This product is a \\\"Fast Charging Power Bank\\\" designed to provide quick charging capabilities for all types of mobile phones. It serves as a charger and portable battery, allowing you to charge your devices on the go. The power bank is compatible with all mobile phones, ensuring that it can provide reliable battery backup for various devices."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-48%%",
+            "Rs. 2900",
+            "Rs. 1499"
+        ],
+        [
+            "-51%%",
+            "Rs. 999",
+            "Rs. 489"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "69%",
+        "Ship on Time": "89%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

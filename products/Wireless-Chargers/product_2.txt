@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/-i486782620-s2285467178.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AMZ Accessories Zone",
+    "Product Name": "Smart Watch Wireless charger Pro Quality not local Best Import by Vietnam"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2285467178": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "10 May - 15 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Smart Watch Wireless charger Pro Quality- Category: Mobile Accessories>Wireless Chargers- Wattage: 8000- Model: T900, T800, all Apple Watch series, all China wireless watches- Connectivity: USB- Wireless Charging Type: Qi WirelessStep 2:- Additional Keywords: Smart Watch, Wireless Charger, Pro Quality, Import, VietnamStep 3:• Smart Watch Wireless Charger with 8000 Wattage for fast charging.• Compatible with T900, T800, all Apple Watch series, and China wireless watches.• Qi Wireless technology for convenient and efficient charging.• Pro Quality design ensures reliable and durable performance.• USB connectivity for easy and universal compatibility.• Imported from Vietnam, ensuring high-quality standards and authenticity.Step 4:• Smart Watch Wireless Charger with 8000 Wattage for fast charging.• Compatible with T900, T800, all Apple Watch series, and China wireless watches.• Qi Wireless technology for convenient and efficient charging.• Pro Quality design ensures reliable and durable performance.• USB connectivity for easy and universal compatibility.• Imported from Vietnam, ensuring high-quality standards and authenticity.Step 5:Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 299"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

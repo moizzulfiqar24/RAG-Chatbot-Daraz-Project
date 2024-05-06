@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-21a-led-12-24-i289184695-s1554782664.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SmarThere",
+    "Product Name": "Car Motorcycle Phone Charger -Socket Dual USB 2.1A LED Digital Display 12V-24V For Samsung iPhone Xiaomi Huawei"
+}
+
+{
+    "Color Family": [
+        "Blue",
+        "Green",
+        "Red"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Hello, Welcome To Come To My Shop!",
+        "Our shop guarantees that all products are of high quality, and there is a guarantee of authenticity. There are more good-looking and affordable things waiting for you!"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 2260",
+            "Rs. 1364"
+        ],
+        [
+            "-39%%",
+            "Rs. 2233",
+            "Rs. 1364"
+        ],
+        [
+            "-44%%",
+            "Rs. 2233",
+            "Rs. 1258"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

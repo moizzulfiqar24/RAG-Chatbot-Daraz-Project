@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/35mm-4pole-trrs-aux-cable-for-mobile-headphones-or-car-stereo-with-microphone-support-white-i127586105-s2244410020.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sindh Electronics Khp",
+    "Product Name": "3.5mm 4Pole TRRS AUX Cable For Mobile Headphones Or Car Stereo With Microphone Support - White"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2244410020": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<span></span>",
+    "highlights": [
+        "100% Brand new and high quality",
+        "Lenght; 1.5 Meter",
+        "4 Pole 3.5mm Stereo",
+        "Stereo Male To Male Cable",
+        "Car Aux Audio Cable",
+        "For Android,Iphone,Ipod,Ipad,Mp3 Mp4",
+        "No Return Policy"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-16%%",
+            "Rs. 450",
+            "Rs. 380"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "99%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

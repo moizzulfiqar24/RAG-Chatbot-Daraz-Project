@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/airox-ch03-turbo-2-usb-24-a-mobile-v8-charger-i485491777-s2280585792.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FS trader's",
+    "Product Name": "Airox CH03 Turbo 2 Usb 2.4 A Mobile v8 Charger"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2280585792": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Brand : Airox",
+        "Durable",
+        "Input Voltage/Current DC 100/240V",
+        "Output Voltage/Current DC 5.3V/3.4A",
+        "Fast Power"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 1000",
+            "Rs. 700"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

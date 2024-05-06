@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/100-18-35-30-i450145033-s2142897627.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "hassanhomes",
+    "Product Name": "100% Original POWER Branded Car Charger for all cars 18w 35w Car Charger fast 3.0 qualcomm for all brandz with voltage display"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "best Quality CHarger , Highly Recommended to all"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 999",
+            "Rs. 499"
+        ],
+        [
+            "-55%%",
+            "Rs. 999",
+            "Rs. 449"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "96%",
+        "Ship on Time": "78%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

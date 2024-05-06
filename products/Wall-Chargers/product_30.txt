@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/12-dc-arj-i487459596-s2292739035.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Baloch Trader's 690",
+    "Product Name": "12 Voltage DC Fast Mobile Charger, 'ARJ' Premium Product"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: 12 Voltage DC Fast Mobile Charger, 'ARJ' Premium Product- Category: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Power Output: 5V / 2.0A- Model: ARJ- Ports: 1Step 2:- Fast charging- Portable- Reliable- Compact design- Universal compatibilityStep 3:• The ARJ 12V DC Fast Mobile Charger offers 5V / 2.0A power output.• Designed with a compact and portable form for convenience.• Ensures fast and reliable charging for your devices.• Compatible with a wide range of mobile devices.• Ideal for on-the-go use and travel.Step 4: - N/AStep 5:• The ARJ 12V DC Fast Mobile Charger offers 5V / 2.0A power output.• Designed with a compact and portable form for convenience.• Ensures fast and reliable charging for your devices.• Compatible with a wide range of mobile devices.• Ideal for on-the-go use and travel."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-51%%",
+            "Rs. 1380",
+            "Rs. 682"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

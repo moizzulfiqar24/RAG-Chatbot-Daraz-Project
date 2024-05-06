@@ -1,0 +1,220 @@
+{
+    "URL": "https://www.daraz.pk/products/1m-2m-3m-fabric-braided-micro-usb-fast-charging-data-sync-cable-for-samsung-huawei-android-smartphones-i283014439-s1523368895.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SmarThere",
+    "Product Name": "1M 2M 3M Fabric Braided Micro USB Fast Charging Data Sync Cable for Samsung Huawei Android Smartphones"
+}
+
+{
+    "Color Family": [
+        "Grey-1M",
+        "Silver-2M",
+        "Silver-1M",
+        "Grey-3M",
+        "Grey-2M",
+        "Blue-3M",
+        "Blue-2M",
+        "Blue-1M",
+        "Silver-3M",
+        "Red-1M",
+        "Green-3M",
+        "Green-2M",
+        "Green-1M",
+        "Red-3M",
+        "Red-2M"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1523368903": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368904": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368905": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368906": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368899": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368900": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368901": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368902": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368895": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368896": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368897": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368898": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368907": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368908": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        },
+        "1523368909": {
+            "During Time": "15 - 24 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area SmarThere",
+            "Title": "Free Delivery ",
+            "Title Tile": "13 May - 22 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Hello, Welcome To Come To My Shop!",
+        "Our shop guarantees that all products are of high quality, and there is a guarantee of authenticity. There are more good-looking and affordable things waiting for you!"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 1140",
+            "Rs. 752"
+        ],
+        [
+            "-45%%",
+            "Rs. 915",
+            "Rs. 506"
+        ],
+        [
+            "-32%%",
+            "Rs. 718",
+            "Rs. 491"
+        ],
+        [
+            "-45%%",
+            "Rs. 900",
+            "Rs. 497"
+        ],
+        [
+            "-46%%",
+            "Rs. 715",
+            "Rs. 386"
+        ],
+        [
+            "-45%%",
+            "Rs. 922",
+            "Rs. 510"
+        ],
+        [
+            "-45%%",
+            "Rs. 902",
+            "Rs. 498"
+        ],
+        [
+            "-44%%",
+            "Rs. 1148",
+            "Rs. 646"
+        ],
+        [
+            "-44%%",
+            "Rs. 1137",
+            "Rs. 639"
+        ],
+        [
+            "-46%%",
+            "Rs. 713",
+            "Rs. 385"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

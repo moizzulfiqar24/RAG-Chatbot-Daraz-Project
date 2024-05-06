@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/c-6-120-i486520317-s2284684424.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SHAH ELECTZONE",
+    "Product Name": "Original Fast Charging cable Type C 6mm Thickness Universal 120W Liquid Silicon Fast Charging Data Cables Compatible All Android Phones with Samsung, Oppo, Realme,vivo, Infinix , Tecno and Oneplus"
+}
+
+{
+    "Color Family": [
+        "Multicolour"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 7 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Original Fast Charging cable Type C 6mm Thickness• Liquid Silicon Fast Charging Data Cables• Compatible with Samsung, Oppo, Realme, Vivo, Infinix, Tecno• 120W Fast Charging for All Android Phones• Rubber, Fabric, and Flat Cable options available• Compatible with Samsung, Infinix, OnePlus, Huawei, Sony, and more"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-23%%",
+            "Rs. 300",
+            "Rs. 230"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

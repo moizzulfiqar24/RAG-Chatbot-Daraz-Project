@@ -1,0 +1,78 @@
+{
+    "URL": "https://www.daraz.pk/products/20-20-13-13-30-mi-12-5g-30-vipgt-10-og-i481763526-s2263351455.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AlbasitMobile(Bhl)",
+    "Product Name": "OG Glass For Coman 20|Coman 20 Pro|Redmi Note 13|Note 13 Pro|Infinix Note 30 pro| MI Note 12 Pro 5G| Note 30 VIP| GT 10 Pro"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "ntroducing oG-Glass Mobile Protection, a comprehensive security solution designed to safeguard your digital life on the go. In today's interconnected world, where mobile devices are an integral part of our daily routines, oG-Glass Mobile Protection offers a suite of advanced features to ensure your privacy, data, and device integrity are always protected.<br/><br/>At the heart of oG-Glass Mobile Protection is a robust security framework that combines cutting-edge encryption protocols, AI-powered threat detection, and proactive monitoring to shield your device from cyber threats. Whether you're browsing the web, using apps, or accessing sensitive information, oG-Glass Mobile Protection works silently in the background to fortify your digital defenses.<br/><br/>One of the key components of oG-Glass Mobile Protection is its real-time threat detection system. Using machine learning algorithms, the system continuously analyzes patterns and behaviors to identify potential risks such as malware, phishing attempts, or unauthorized access. Instant alerts and notifications keep you informed of any suspicious activities, allowing you to take immediate action to mitigate threats.<br/><br/>In addition to threat detection, oG-Glass Mobile Protection offers robust data encryption capabilities. All data stored on your device, including files, photos, and communications, is encrypted using industry-standard algorithms. This ensures that even if your device falls into the wrong hands, your sensitive information remains inaccessible to unauthorized users.<br/><br/>Furthermore, oG-Glass Mobile Protection includes advanced anti-theft features to help you locate, lock, or remotely wipe your device in case of loss or theft. GPS tracking, geo-fencing, and device locking mechanisms provide peace of mind, knowing that your personal data is secure even in worst-case scenarios.<br/><br/>Privacy is a top priority with oG-Glass Mobile Protection. The app provides granular control over app permissions, allowing you to manage what data each app can access. Additionally, a built-in VPN (Virtual Private Network) ensures secure and private internet browsing, protecting your online activities from prying eyes and potential threats.<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/9e005853184e13847ae86874de7b20d6.jpg\\\"/><br/>User-friendly and seamlessly integrated into your mobile experience, oG-Glass Mobile Protection is designed to be lightweight and efficient, without compromising performance. Regular updates and optimizations ensure that you stay ahead of emerging threats and benefit from the latest security enhancements.<br/><br/>Whether you're a business professional handling sensitive information, a student with important coursework on your device, or simply a conscious user concerned about privacy and security, oG-Glass Mobile Protection provides a comprehensive and reliable defense against digital threats. With oG-Glass Mobile Protection, take control of your mobile security and enjoy peace of mind wherever&nbsp;you&nbsp;go.",
+    "highlights": [
+        "Step 1:",
+        "- Product Title: Best Premium OG Glass For Coman 20/Coman 20 Pro/Redmi Note 13/Note 13 Pro/Infinix Note 30 pro/ MI Note 12 Pro 5G/ Note 30 VIP/ GT 10 Pro",
+        "- Number Of Layers: 1",
+        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Screen Protectors",
+        "Step 2:",
+        "- Additional Keywords: Glass, Screen Protector, Mobile Accessories",
+        "Step 3:",
+        "• Premium OG glass for various mobile models with 1 layer.",
+        "• Compatible with Coman 20, Redmi Note 13, Infinix Note 30 Pro.",
+        "• Provides high-quality protection for your device's screen.",
+        "• Designed for easy installation and a perfect fit.",
+        "• Ideal for those seeking durable and reliable screen protection.",
+        "Step 4:",
+        "Best Glass For Your Mobile Phone Full Edge To Edge Full Protect Your Screen ",
+        "Step 5:",
+        "• Premium OG glass for various mobile models with 1 layer.",
+        "• Compatible with Coman 20, Redmi Note 13, Infinix Note 30 Pro.",
+        "• Provides high-quality protection for your device's screen.",
+        "• Designed for easy installation and a perfect fit.",
+        "• Ideal for those seeking durable and reliable screen protection."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 500",
+            "Rs. 350"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

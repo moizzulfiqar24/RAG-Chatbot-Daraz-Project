@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/original-joyroom-45w-dual-usb-qc30-mini-fast-car-charger-i338039751-s1747387817.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Star Light Shop.",
+    "Product Name": "Original Joyroom 45W Dual-USB QC3.0 Mini Fast Car Charger"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "1. It supports 45W high power, quick charge 3.0 USB Ports to boost the charging process &ndash; 10 x faster than USB 2.0;",
+        "2. Dual-port output, supports fast charge two devices simultaneously;",
+        "3. It supports iPhone PD3.0, USB QC3.0, Samsung AFC, and Huawei SCP Super-fast-charging protocols;",
+        "4. Universal compatibility: charge all USB powered devices from iPhones to Android phones, tablets, GPS units, Bluetooth headphones &amp; speakers, smartwatches &amp; more. Including Apple iPhone 12 Pro Max mini 11 Pro/11 Pro Max/X/Xs/XR/Xs Max, 8/8 Plus, 7/7 Plus, 6/6s, 6/6s Plus Galaxy s20 s20+ S20Ultra note10/ S10/S10+S9/S9+, S8/S8+, S7/S7 Edge/S6/S6Edge+/S6 active,S5/S4,Note 5/4/3, Nexus7/6/5/4,Nokia,HTC,Motorola,LG,SONY,and other smartphones and tablets, GPS units, iPods, MP3 players and more.",
+        "5. Portable build for space-saving, benefit from a lightweight and compact construction that&rsquo;s smaller than most Quick Charge 3.0 USB chargers on the market and small ring-pull design, easy to plug in and out;",
+        "6. Safe usage with all-round protection, equipped with built-in protections against overheating, overcharging, and short-circuit to safeguard the charging process;",
+        "7. It has passed CE, FCC, ROHS certifications."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-43%%",
+            "Rs. 4009",
+            "Rs. 2300"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "93%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

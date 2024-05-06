@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/1-4-15-14-13-12-11-s22-s21-5-4-i436030676-s2094293954.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ARMICO 3C Life",
+    "Product Name": "ARMICO 4 in 1 Wireless Charger Stand Pad For iPhone 15 14 13 12 11 Samsung S22 S21 Galaxy Watch 5 4 Active Buds Fast Charging Dock Station"
+}
+
+{
+    "Color Family": [
+        "For Apple Watch White",
+        "For Apple Watch Black",
+        "For Samsung Watch White",
+        "For Samsung Watch Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "15W Max Output Power :Charge your devices quickly with a maximum output power of 15W.",
+        "Type C Connector :Connect your devices easily with the Type C connector.",
+        "With Holder :Keep your devices securely in place with the built-in holder.",
+        "Compatible with Apple iPhone :Charge your Apple iPhone wirelessly with this charger stand pad."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-0%%",
+            "Rs. 4500",
+            "Rs. 4499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

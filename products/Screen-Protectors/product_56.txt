@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/a54s23-fe-og-hd-i487586063-s2290995059.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "TALHA TECH HUB",
+    "Product Name": "Samsung A54 |S23 FE OG Premium HD Glass Extra Smooth Touch-  Edge-to-Edge Protection - Most Premium Quality"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "The Samsung A54/S23 FE OG Premium HD Glass Screen Protector is meticulously crafted to provide seamless touch sensitivity and comprehensive edge-to-edge protection for your device. Made with premium materials, this screen protector ensures high definition clarity while effectively shielding your phone's screen from scratches and impact. It offers reliable defense against everyday wear and tear, maintaining the original touch sensitivity and delivering a crystal-clear viewing experience. This essential accessory is designed to elevate your device's protection, ensuring long-lasting durability and superior performance. Safeguard your investment with confidence and preserve the sleek appearance of your device with this high-quality screen protector, which is a must-have for keeping your device's screen in top condition. Enhance the longevity and performance of your device's screen with this premium accessory, providing an unparalleled touch experience and crystal-clear viewing. Elevate your device's protection with the Samsung A54/S23 FE OG Premium HD Glass Screen Protector, designed to deliver reliable defense and maintain the sleek appearance of your device. Ensure a seamless touch experience and crystal-clear viewing while safeguarding your investment with this high-quality screen protector. Elevate your device's protection with this premium accessory, designed for long-lasting durability and superior performance. Protect your device with confidence and maintain its pristine condition with the Samsung A54/S23 FE OG Premium HD Glass Screen Protector. .",
+    "highlights": [
+        "• The Samsung A54/S23 FE OG Premium HD Glass is crafted with high-quality material and precision engineering, offering an extra smooth touch for an enhanced user experience.",
+        "• This premium HD glass provides edge-to-edge protection, ensuring the highest quality and durability for your device's screen, effectively safeguarding it from scratches, cracks, and other potential damage.",
+        "• Tailored for mobiles and tablets, this premium HD glass is specifically designed to deliver reliable and effective screen protection, providing peace of mind for your device's safety. It is a must-have accessory for your device, offering comprehensive protection for everyday use."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-58%%",
+            "Rs. 590",
+            "Rs. 250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

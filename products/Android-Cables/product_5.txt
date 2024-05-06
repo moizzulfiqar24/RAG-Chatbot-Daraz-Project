@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-c-c-i430296911-s2050424560.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Valmeki Store",
+    "Product Name": "Vivo USB Data Cable Type-C Lead Authentic Genuine Original For Vivo C-Type..."
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2050424560": [
+            {
+                "During Time": "7 - 9 day(s)",
+                "Fee": "Rs. 135",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Brand: No Brand",
+        "Orignal Vivo data cable",
+        "Durable",
+        "Fast Charging",
+        "All Smart Phones",
+        "Long Lasting",
+        "Colour White",
+        "100% Original white colour long lasting high quality Original Vivo Type C data charging cable high-speed designed for All Vivo and C type mobiles USB Cable-White Imported High- Quality Fast Charging Cable for Android Type C Phone",
+        "Charging &amp; Data Transfer Cable Brand: Vivo Micro/Type C Cable Specially Designed for Vivo Mobile and Compatible with All Android Phones 100% Original Vivo Type C and Micro Cable High-Quality and High-Speed Vivo Micro and Type C Cable",
+        "Fast Charging USB Cable Best for All Smart Phone - Best Suitable for Vivo Mobile Model V23, Y5s, Y21T, Y15S, V23e, Y21, Y33s, Y20, Y33s, Y12A, Y30 All Vivo and All smartphone 10X Durability Vivo Micro and Type C 10000+ Bend Lif Latest up to 10X longer than conventional Cable",
+        "Vivo Micro and Type C Imported Original Charging Quality USB Cable, Data Cable Charging Cable is being Specially smartphones android phone, the latest model provides"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-64%%",
+            "Rs. 499",
+            "Rs. 179"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "71%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

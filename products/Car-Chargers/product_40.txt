@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/auto-charger-convenient-4-usb-solid-color-car-power-adapter-socket-for-car-i479739070-s2251760668.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Unique Poue",
+    "Product Name": "Auto Charger Convenient 4 USB Solid Color Car Power Adapter Socket for Car"
+}
+
+{
+    "Color Family": [
+        "black CHINA",
+        "WHITE CHINA"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Auto Charger Convenient 4 USB Solid Color Car Power Adapter Socket for Car",
+        "Material:PC plastic",
+        "Origin:Mainland China",
+        "Brand Name:DEAOKE"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 2065",
+            "Rs. 1721"
+        ],
+        [
+            "-17%%",
+            "Rs. 2992",
+            "Rs. 2493"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

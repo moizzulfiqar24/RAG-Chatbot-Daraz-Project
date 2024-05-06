@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/20-pd-i487217631-s2287938249.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Hadiya communications",
+    "Product Name": "iphone 20 wat pd charger with lighting one year wranty"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2287938249": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Orginal iPhone_ Fast Charger 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 3150"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "1 Year Brand Warranty"
+}
+

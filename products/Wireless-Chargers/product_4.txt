@@ -1,0 +1,96 @@
+{
+    "URL": "https://www.daraz.pk/products/14-15-13-12-11-8-30-i471596420-s2224823101.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Withoutyou",
+    "Product Name": "30W Magnetic Wireless Charger For Apple iPhone 14 15 Pro Max 13 12 11 PD USB-C Quick Charger X XS 8 Plus Cable Phone Accessories"
+}
+
+{
+    "Color Family": [
+        "US 30W Plug",
+        "EU 30W Plug",
+        "Wireless Charger",
+        "US 30W Charger",
+        "EU 30W Charger"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "30W Magnetic Wireless Charger For Apple iPhone 14 15 Pro Max 13 12 11 PD USB-C Quick Charger X XS 8 Plus Cable Phone Accessories",
+        "Applied Fast Charge Protocols:USB PD,Qualcomm Quick Charge",
+        "GaN:YES",
+        "Max. Output Power:30w",
+        "Type:Quick charger",
+        "Model Number:For iPhone Charger",
+        "Power Source:USB",
+        "Quality Certification:ce",
+        "Output Interface:USB,LIGHTNING,Type C,1 C Port",
+        "Brand Name:lieve",
+        "Certification:RoHS,CE",
+        "Origin:Mainland China",
+        "Model 1:For Apple iPhone 14 Pro Max 30W Quick Charger",
+        "Model 2:For Apple iPhone 14 Pro 30W Quick Charger",
+        "Model 3:For Apple iPhone 14 Plus 30W Quick Charger",
+        "Model 4:For Apple iPhone 14 30W Quick Charger",
+        "Model 5:For Apple iPhone 13 Pro Max 30W Quick Charger",
+        "Model 6:For Apple iPhone 13 Pro 30W Quick Charger",
+        "Model 7:For Apple iPhone 13 30W Quick Charger",
+        "Model 8:For Apple iPhone 13 mini 30W Quick Charger",
+        "Model 9:For Apple iPhone 12 Pro Max 30W Quick Charger",
+        "Model 10:For Apple iPhone 12 Pro 30W Quick Charger",
+        "Model 11:For Apple iPhone 12 30W Quick Charger",
+        "Model 12:For Apple iPhone 12 mini 30W Quick Charger",
+        "Model 13:For Apple iPhone 11 Pro Max 30W Quick Charger",
+        "Model 14:For Apple iPhone 11 Pro 30W Quick Charger"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-37%%",
+            "Rs. 2706",
+            "Rs. 1713"
+        ],
+        [
+            "-37%%",
+            "Rs. 3994",
+            "Rs. 2528"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "67%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

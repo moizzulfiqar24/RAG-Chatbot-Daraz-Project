@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/otterbox-defender-series-pro-hard-shell-for-apple-iphone-14-and-apple-iphone-13-black-i489287292-s2302368923.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "IBS (Islamabad)",
+    "Product Name": "OtterBox Defender Series Pro Hard Shell for Apple iPhone 14 and Apple iPhone 13 - Black"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Designed for use with Apple iPhone 14 and Apple iPhone 13Protects and compliments your phone.",
+        "DROP+4x as many drops as military standard (MIL-STD-810G 516.6).",
+        "Antimicrobial technologyLasting antimicrobial properties to protect the case.*",
+        "Made withMore than 50% recycled plastic.",
+        "Works withWireless and MagSafe charging pads (no magnets in case)."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-13%%",
+            "Rs. 11500",
+            "Rs. 9999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

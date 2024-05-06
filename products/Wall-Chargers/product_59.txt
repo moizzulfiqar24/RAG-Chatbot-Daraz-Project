@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/36-pd-lg-v60-i487808921-s2300229853.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Techdock Mart",
+    "Product Name": "Moso Charger 36watt PD Adoptor Best For Gaming Mobile Phones OnePlus|| LG V60|| Google Pixel || Samsung Galaxy||"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2300229853": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 299",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Moso | 36W Fast Charger | Reliable And Durable | With USB Type-C | For Laptop And Mobiles | Charger",
+        "Moso 36W Fast Charger Specifications and Price in Pakistan: Brand: Moso 36W Fast Charger Reliable And Durable For Laptops And Mobiles With USB-C cable Output Voltage Range: 15W 5.0V 3A or 36W 15.0V 2.4A Input: [redacted phone number]V AC /50-60Hz 1.0A max"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-27%%",
+            "Rs. 3000",
+            "Rs. 2200"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

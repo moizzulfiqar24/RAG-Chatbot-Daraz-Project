@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/s8-i485609307-s2281113250.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Accessories Pòint 1588765643",
+    "Product Name": "Samsung S8 Plus Camera glass Protection Available"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Samsung S8 Plus Camera glass Protection Available- Type of Screen Guard: Tempered Glass- Express delivery: Multan- Model: S6, S8, S8 plus- Material: Glass- Color Family: Black- Number of Layers: 1Step 2:- Samsung- S8 Plus- Camera- Glass Protection- Tempered Glass- Multan- Mobile Accessories- Screen ProtectorsStep 3:• Samsung S8 Plus with camera glass protection available.• Tempered glass screen guard for added protection.• Express delivery available in Multan.• Compatible with S6, S8, and S8 plus models.• Made of durable black glass material.• Provides a single layer of reliable screen protection.Step 4:- N/AStep 5:- N/A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

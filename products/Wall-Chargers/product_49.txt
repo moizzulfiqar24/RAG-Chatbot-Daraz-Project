@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/ll-iq-2piq-12w-i485367362-s2279902384.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "kashif lakhi",
+    "Product Name": "Anker Charger Power Port ll iq With 2Piq Port.12w.Made In Vietnam"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2279902384": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Anker Charger Power Port II IQ with 2PIQ Port- Category: Mobiles & Tablets > Mobile Accessories > Wall Chargers- Power Output and Ports information not specifiedStep 2:- No additional keywords providedStep 3:• Anker Charger with 2PIQ Port for efficient charging.• Power Port II IQ delivers 12W for fast charging.• Made in Vietnam for quality assurance and reliability.Step 4:- No false information foundStep 5:- N/A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-18%%",
+            "Rs. 12000",
+            "Rs. 9876"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

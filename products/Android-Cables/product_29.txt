@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/3a-usb-c-c-12-i180038646-s1462761800.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ahmed Seller 1597052102",
+    "Product Name": "Nylon Type-C cable 1.2m For Android Fast Charging 3A Micro USB Data Nylon Mobile Phone Braided Type-C Cable"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1462761800": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Ahmed Seller 1597052102",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "<strong style=\\\"font-weight:bold\\\">Functions:</strong>",
+    "highlights": [
+        "Brand Name              =          Ahmed Seller",
+        "Surface Material        =          Nylon",
+        "Connector A              =           USB-A",
+        "Connector B              =          TYPE-C",
+        "Maxximum Current    =          3A",
+        "Features                    =          Alloy Connector"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-39%%",
+            "Rs. 490",
+            "Rs. 299"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

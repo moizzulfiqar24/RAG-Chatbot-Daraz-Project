@@ -1,0 +1,78 @@
+{
+    "URL": "https://www.daraz.pk/products/34a-usb-i480020973-s2252908877.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Superior-Mart-",
+    "Product Name": "3.4A Output Data Cable | Fast Micro USB charging cable for andriod Vivo Oppo  Xiaomi Redmi"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2252908877": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "- Product title: 3.4A Output Data Cable for Android Devices",
+        "- Cable type: Rubber",
+        "- Category: Mobile Accessories, Cables &amp; Converters",
+        "- Model: MDK",
+        "- Cable length: 1 meter",
+        "- Fast charging",
+        "- Micro USB",
+        "- Vivo, Oppo, Xiaomi, Redmi compatible",
+        "• 3.4A output for fast charging Android devices.",
+        "• Durable rubber cable for long-lasting use.",
+        "• Compatible with Vivo, Oppo, Xiaomi, Redmi smartphones.",
+        "• 1 meter length for convenient use.",
+        "  Fast charging with 3.4A output.",
+        "• Durable rubber cable for Android devices.",
+        "• Compatible with popular smartphone brands.",
+        "• Convenient 1 meter length for everyday use "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-72%%",
+            "Rs. 699",
+            "Rs. 199"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/789-i457413992-s2165468421.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "THE ANEEQ STORE",
+    "Product Name": "wireless charger for watch 7.8.9 series"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Wireless charger for Apple Watch 7.8.9 series.• Compatible with all Apple Watch models.• Sleek and compact design for easy portability.• Charges your watch quickly and efficiently.• No cords or cables required for charging.• Perfect for on-the-go charging needs."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 449"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "67%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

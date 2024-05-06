@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/otg-30-usb-ios-usb-usb-u-12pro-12-11-xs-xr-x-8-7-6s-i375540942-s1860481297.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Fm shop.",
+    "Product Name": "iPHONE OTG Adapter 3.0 Lightning to USB Port  Apple Connector For ios, ipad - High SpeedUSB Female Support Connect USB Flash Drive, U Disk, for iPhone 12Pro 12 12Mini 11 Pro XS Max XR X 8 7 6s Plus-(Multi-Colored)"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1860481297": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Connect the mouse to the movie - Use iPhone OTG to Connect  to operate the phone to watch the movie to play the game swim fever artifact",
+        "Connect the U disk to view the file - Read data, OTG connection U disk read, copy, paste, edit and other multi-functional random operations ",
+        "Connect the keyboard to write text messages - Connect the keyboard with OTG USB port, the other end of the docking phone, modify the file quickly Typing",
+        "Connect the Camera to the photo - Connect the camera with Lightning OTG, instant copy photos, at any with the moment, to share the beautiful.",
+        "Strong Support otg connector - Mobile Phone, Apple ipad, U disk/USB, Mouse, Keyboard, USB Fan, DV, DC, Game Console, Microphone, MP3/Headset"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-25%%",
+            "Rs. 1200",
+            "Rs. 899"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "96%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

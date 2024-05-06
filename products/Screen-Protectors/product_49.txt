@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/9d11d21d-pic-i488144541-s2296071181.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Tach Mart",
+    "Product Name": "Universal Mobile 9D | 11D | 21D Glass Protector - These Models supported Show in Pic"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Universal 9D/11D/21D Glass Protector for various VIVO models• Clear type of screen guard with 2 layers• Express delivery available in Lahore• Compatible with a wide range of VIVO models• Made of durable and protective glass material• Available in sleek black color• Provides enhanced protection for your mobile screenVIVO ",
+        " Y20/Y20i/Y20T/Y20S/Y21EY22/Y225/Y32/Y33/Y33E/Y33S/Y35Y51A/Y52/Y525/Y52T/Y74/Y75SY76 5G/Y765/Y11S/Y11 2023/Y125Y175/Y01/Y02A/Y02S/T2X 5GSAMSUNGF12/M12/M02/F02S/A32 5G/VISION 25INFINIX HOT 10i/HOT 11/30i/SMART6/5 PRO/SPARK 4/6 GO/7/8/8P/8TGO 2020/POP 5 PRO/5 LITE/KC 8Rmi A1/A1+/A2 2023/A2+/10 5G10 PRIME+/NOTE 11E/MT G8 POWERLITE/G9/G10 POWER/G20/HW HONORX6 5G/X8 5G/NOVA Y61"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-11%%",
+            "Rs. 180",
+            "Rs. 160"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

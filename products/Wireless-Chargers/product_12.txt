@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/cod-usb-c-i438332412-s2122219040.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "yontaidi",
+    "Product Name": "🔥【Readystock】 + FREE Shipping+ COD 🔥Wireless charger sensing fast wireless charging board suitable for micro USB Type-C mobile Android"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Red",
+        "Silver"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Local seller from Perak. All goods are ready stock in Malaysia. Send out goods every day. (excluding Sunday &amp; Public Holiday) Fast delivery. (1-3 working days)  Note: Due to variations in monitor settings, the actual colour of the item may differ slightly from the images displayed.  Specs. &gt;",
+        "Material - PC Fireproof Material, ABS &gt;",
+        "Input voltage and current - 5V/2A &gt;",
+        "Output voltage and current - 5V/1A &gt;",
+        "Output Power - 5W 7.5W 10W  Features. 【Intelligent Device Recognition】 Equipped with intelligent device recognition technology, the K8 automatically detects the device placed on it and adjusts the charging power accordingly. This feature guarantees safe and optimized charging for each device, preventing overcharging and overheating.  【Dual Charging Modes】 The K8 offers two charging modes to suit your needs. The standard mode provides fast charging for compatible devices, while the trickle mode is ideal for charging smaller devices or maintaining the battery level of wireless earbuds, smartwatches, or other accessories.  【Foreign Object Detection】 The K8 incorporates foreign object detection technology to ensure safety and prevent potential damage. It automatically detects and alerts you if any foreign objects, such as keys or coins, are on the charging surface, preventing accidental damage to both the charger and your devices.  【Case-Friendly Charging】 The K8 is designed to work flawlessly with most lightweight phone cases, allowing you to charge your device without the need to remove the case every time. It supports wireless charging through cases up to a specific thickness, ensuring convenience and saving you time.  Box Includes: 1x K8 Wireless Charger 1x Micro USB Cable  Return Policy / Warranty Claim. 1. Please get in touch with us for warranty claim. 2. Shopee will bear shipping charges. 3. Please pack the goods safely to avoid any damage during shipping. 4. Kindly send your parcel via Shopee Free Return with Poslaju / J&amp;T Express.  Please take note that the warranty does not cover the following: 1. Damage to item done deliberately or miss-handling by end-user. 2. Water damage, physical damage. 3. Please keep the original box for warranty claim."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-34%%",
+            "Rs. 1200",
+            "Rs. 790"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "69%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

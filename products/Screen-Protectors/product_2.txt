@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/12-i487580368-s2291020420.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sahil No 1 Communication",
+    "Product Name": "NOTH 12 CASE & SCREEN PROTECTOR."
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "For a stylish and protective option, you might want to consider searching for \\\"black and green leather case for Infinix Note 12\\\" on online shopping platforms. There's a good chance you'll find a variety of options that match your preferences. Just be sure to check the product descriptions and reviews to ensure compatibility and quality."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 999",
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

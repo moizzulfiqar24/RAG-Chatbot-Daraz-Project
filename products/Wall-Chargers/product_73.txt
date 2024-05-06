@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/65-1st-i487741148-s2292883640.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SmartBuy Wireless",
+    "Product Name": "One Plus 65 Watt 1st Copy Fast Charger"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2292883640": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "• One Plus 65 Watt 1st Copy Fast Charger\\n• Model: One Plus\\n• Ports: 1\\n• Category: Mobile Accessories&gt;Wall Chargers\\n• Express delivery available in Islamabad</pre><div></div>\",\"highlights\":\"<ul class=''><li class=''>• One Plus 65 Watt 1st Copy Fast Charger• Model: One Plus• Ports: 1• Category: Mobile Accessories&gt;Wall Chargers• Express delivery available in Islamabad</li></ul>\",\"link\":\"https://www.daraz.pk/products/one-plus-65-watt-1st-copy-fast-charger-i487741148-s2292883640.html\",\"mallTag\":false,\"rating\":{\"score\":0.0,\"total\":0},\"rightImgRatio\":1.9,\"shareTitle\":\"Share Product\",\"title\":\"One Plus 65 Watt 1st Copy Fast Charger\",\"wishTitle\":\"Add to Wishlist\",\"wishTitle_added\":\"Added to Wishlist\"},\"qna\":{\"haveMainSellerAnswers\":false,\"hidden\":false,\"paging\":{\"pageSize\":3,\"totalItems\":0},\"params\":{\"mainSeller\":{\"itemId\":\"487741148\",\"sellerId\":\"6005016129088\",\"skuId\":\"2292883640\"}},\"summaryIcon\":\"https://img.alicdn.com/imgextra/i4/O1CN01ev6l3r1UAVoEUiXkp_!!6000000002477-2-tps-80-80.png\",\"summaryTitle\":\"Ask questions about the product.\",\"totalItems\":0,\"totalItemsByMain\":0,\"totalItemsByOthers\":0},\"tabHeading\":\"One Plus 65 Watt 1st Copy Fast Charger\",\"htmlRender\":{\"msiteShare\":{\"deepLink\":\"daraz://pk/d?itemId=487741148&ps=487741148_PK-2292883640&skuId=2292883640\",\"description\":\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on One Plus 65 Watt 1st Copy Fast Charger at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\",\"facebookFallbackValue\":false,\"image\":\"https://static-01.daraz.pk/p/00bf434efe0dd4551237714672eea5d1.jpg\",\"meta\":\"<meta name=\\\"og:url\\\" content=\\\"https://www.daraz.pk/products/one-plus-65-watt-1st-copy-fast-charger-i487741148-s2292883640.html/\\\" /><meta name=\\\"og:title\\\" content=\\\"One Plus 65 Watt 1st Copy Fast Charger\\\" /><meta name=\\\"og:type\\\" content=\\\"product\\\" /><meta name=\\\"og:description\\\" content=\\\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on One Plus 65 Watt 1st Copy Fast Charger at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\\\" /><meta name=\\\"og:image\\\" content=\\\"https://static-01.daraz.pk/p/00bf434efe0dd4551237714672eea5d1.jpg\\\" />\",\"showFacebookFallback\":false,\"title\":\"One Plus 65 Watt 1st Copy Fast Charger\",\"type\":\"product\",\"url\":\"https://www.daraz.pk/products/one-plus-65-watt-1st-copy-fast-charger-i487741148-s2292883640.html\"}},\"skuInfos\":{\"0\":{\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-5%\",\"pdt_photo\":\"\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":487741148,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"SmartBuy Wireless\",\"pdt_simplesku\":2292883640,\"pdt_name\":\"One Plus 65 Watt 1st Copy Fast Charger\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=487741148_PK-2292883640&_p_prod=487741148&_p_sku=2292883640&_p_slr=6005016129088\"},\"supplier_id\":6005016129088,\"pdt_price\":\"Rs. 1,900\"},\"image\":\"https://static-01.daraz.pk/p/00bf434efe0dd4551237714672eea5d1.jpg\",\"inWishlist\":false,\"itemId\":\"487741148\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-5%\",\"originalPrice\":{\"text\":\"Rs. 1,900\",\"value\":1900},\"salePrice\":{\"text\":\"Rs. 1,800\",\"value\":1800}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005016129088\",\"skuId\":\"2292883640\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]},\"2292883640\":{\"bottomTagUrls\":[],\"categoryId\":\"10002875\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Wall Chargers\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-5%\",\"pdt_photo\":\"\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":487741148,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"SmartBuy Wireless\",\"pdt_simplesku\":2292883640,\"pdt_name\":\"One Plus 65 Watt 1st Copy Fast Charger\",\"page\":{\"regCategoryId\":\"011125000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=487741148_PK-2292883640&_p_prod=487741148&_p_sku=2292883640&_p_slr=6005016129088\"},\"supplier_id\":6005016129088,\"pdt_price\":\"Rs. 1,900\"},\"image\":\"https://static-01.daraz.pk/p/00bf434efe0dd4551237714672eea5d1.jpg\",\"inWishlist\":false,\"itemId\":\"487741148\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-5%\",\"originalPrice\":{\"text\":\"Rs. 1,900\",\"value\":1900},\"salePrice\":{\"text\":\"Rs. 1,800\",\"value\":1800}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"6005016129088\",\"skuId\":\"2292883640\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]}},\"deliveryOptions\":{\"2292883640\":[{\"badge\":false,\"dataType\":\"delivery\",\"deliveryWorkTimeMax\":\"2024-05-12T15:00+05:00[GMT+05:00]\",\"deliveryWorkTimeMin\":\"2024-05-07T21:00+05:00[GMT+05:00]\",\"description\":\"Enjoy delivery of  your order directly to the doorstep! <br><br><a href=\\\"https://click.daraz.pk/e/_CVFo0H\\\" target=\\\"_blank\\\">Find out more</a>\",\"duringTime\":\"7 - 12 day(s)\",\"extParam\":{},\"fee\":\"Rs. 145\",\"feeValue\":145.0,\"hasTip\":true,\"icon\":\"https://img.alicdn.com/imgextra/i3/O1CN01kzfimb1YwNiJFCQvh_!!6000000003123-2-tps-80-56.png\",\"priority\":4,\"title\":\"Standard Delivery \",\"titleHeadBold\":2,\"titleTile\":\"7 May - 12 May\",\"type\":\"standard\"},{\"badge\":true,\"dataType\":\"service\",\"description\":\"\",\"extParam\":{},\"feeValue\":0.0,\"hasTip\":true,\"priority\":2147483647,\"title\":\"Cash on Delivery Available\",\"titleHeadBold\":0,\"type\":\"COD\"}]},\"warranties\":{\"2292883640\":[{\"dataType\":\"returnPolicy\",\"description\":\"<p>Change of mind is not applicable as a Return Reason for this product due to one or more of the following reasons:",
+    "highlights": [
+        "• One Plus 65 Watt 1st Copy Fast Charger• Model: One Plus• Ports: 1• Category: Mobile Accessories&gt;Wall Chargers• Express delivery available in Islamabad"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-5%%",
+            "Rs. 1900",
+            "Rs. 1800"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/qags-a52-tpu-1-i127194814-s1286142111.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ali Gadgets (Islamabad)",
+    "Product Name": "QAGS Oppo A52 Soft Transparent Tpu Case Silicone Ultra Thin Back Cover 1mm"
+}
+
+{
+    "Color Family": [
+        "Neutral"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1286142111": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "High quality and unique case cover for your phone",
+        "Protects your Phone from scratches, dirt and bumps",
+        "Precise openings on the case, allowing access to all controls and features of the Phone",
+        "Made of durable material"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-67%%",
+            "Rs. 300",
+            "Rs. 99"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "99%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

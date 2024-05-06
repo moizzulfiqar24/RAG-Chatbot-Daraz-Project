@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/y21-i269488888-s1483424899.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "GADGETERZ",
+    "Product Name": "Vivo Y21 Airbag Case Anti Shock and Anti-Scratch Resistant Clear View Transparent Silicone Back Cover"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1483424899": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 2,000 from GADGETERZ",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Four-corner height processing provides a good support cushion for shockproof, smooth TPU exterior cover protects your phone from scratches and drops.",
+        "Ultra Thin &amp; Slim Fit - This minimal case is ultra thin &amp; offers excellent protection for your phone without adding any bulk feeling in your pocket or purse.",
+        "Crystal Clear: Intense transparency shows off your case original style. Micro dot patterns on the clear back can prevent air bubbles.",
+        "Safety Material: Transparent, environmentally friendly TPU, super soft, easy to disassemble, retain the original color and luster of the product, providing maximum protection and extra durability.",
+        "Precisely cut camera and port openings allow easy access to all functions of your device. Comfortable and easy to press replacement key cover to prevent long - term wear and tear on your device buttons"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "Rs. 4%",
+            "Rs. 399",
+            "Rs. 149"
+        ],
+        [
+            "-63%%",
+            "Rs. 399",
+            "Rs. 149"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

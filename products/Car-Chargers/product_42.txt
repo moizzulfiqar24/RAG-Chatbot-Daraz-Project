@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/cod-fm-usb-50-mp3-u-led-i438760412-s2124086027.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Trend era",
+    "Product Name": "【COD+Ready Stock + FREE Shipping 】 Auto Car FM Dual USB Charger Bluetooth 5.0 Handsfree Mp3 Player Support U Disk Music Play With LED Voltage Display"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/1344a3f741f3d3634aa5e7188f4201c5.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/6e24c23f3304d1a85e328cdd66287c44.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/e013fc89a42d751a2a477e0a15c0f560.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/1c50954a2e2fa143e6b1266fa2037732.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/38fa9132fdfdf95ec5542d8d1ea51d9a.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/6620d974f62b31cf0fa190e896f3bb9b.jpg\\\"><img referrerpolicy=\\\"no-referrer\\\" src=\\\"https://static-01.daraz.pk/p/6db14edb25473e19b12d2bbacf849291.jpg\\\">",
+    "highlights": [
+        "Description: 100% Brand New and High Quality! Double USB charging ports for charging iPod/iPhone, Samsung, iPad, Nokia and other mobile devices (Output 5V/2.1A) LED Display the FM frequency Bluetooth hands-free kit, with built-in microphone Support USB flash drive. Answer/hang up the call Connect navigation Built-in intelligent microphone for excellent sound quality Automobile battery voltage detection Multi-mode charging–2 USB port and 2 cigarette lighter charger, can charge for mobile phone and car electronic products at the same time. Multifunction- Support voice navigation, U-disk, play mobile phone music and bluetooth hands-free calls. Switch to hands-free mode automatically from music playing status when receives an incoming call Support fast forward and rewind Special design–Designed to adapt to your car or truck's cup holder, it can make your car much neater. 1. Bluetooth answer, hang up, reject, redial and other functions 2. Support Bluetooth stereo music playback 3. Blue digital tube display 4. Support car battery voltage detection 5. Support U disk playback (maximum 32G) 6. Support MP3/WMA/WAV/FLAC/APE format music 7. Support FM full frequency point transmission function 87.5-108.0MHZ 8. Automatic power-off memory function 9. Support mobile phone navigation voice prompt 10. Support charging recognition 11. Support one-key bass playback Specifications:Name: Bluetooth Car Cigarette Lighter Voltage: 12~24V Output Power: 90W (Max) USB Output Current: DC 5V 2.1A Support music format: WAV, MP3, WMA ,FLAC Frequency: 87.5~108MHz LCD screen: 1.1 inch SNR: 85dBA Transmission Distance: 5M Color: BlackPackage Included:1*Bluetooth MP3 Player（Opp bag）"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-42%%",
+            "Rs. 2400",
+            "Rs. 1404"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "70%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

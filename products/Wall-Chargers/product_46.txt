@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/14-20-i482997660-s2272856005.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Daraz gadgets.",
+    "Product Name": "iPhone 14 pro max original adapter 20 watt fast charging not damage battery health"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 11 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: iPhone 14 pro max original adapter 20 watt fast charging- Express delivery: Islamabad- Category path: Mobiles & Tablets>Mobile Accessories>Wall Chargers- Power output: 5V / 2.0A- Model: iPhone 14 pro max original adapter- Ports: 1Step 2:- Fast charging- Original adapter- iPhone 14 pro max compatible- Express delivery available in IslamabadStep 3:• Original 20W adapter for iPhone 14 pro max.• Fast charging capability for quick power-ups.• Compatible with iPhone 14 pro max model.• Express delivery available in Islamabad for convenience.Step 4:• Original 20W adapter for iPhone 14 pro max.• Fast charging capability for quick power-ups.• Compatible with iPhone 14 pro max model.• Express delivery available in Islamabad for convenience."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-55%%",
+            "Rs. 4800",
+            "Rs. 2150"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "1 Month Seller Warranty"
+}
+

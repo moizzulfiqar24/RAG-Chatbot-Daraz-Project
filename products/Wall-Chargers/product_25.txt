@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/jiyo-lucky-oppo-x-mobile-phone-charge-micro-jack-8600-one-minute-1-quick-charging-i482950720-s2272682266.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "RAHIB MOBILE ACCESSORIES",
+    "Product Name": "JIYO LUCKY | OPPO X MOBILE PHONE CHARGE | MICRO JACK 8600 | ONE MINUTE 1% | QUICK CHARGING"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Fast chargeing ",
+        "Double usb output",
+        "Quick charger",
+        "100 % Fast charger",
+        "Micro jack 8600",
+        "Fast &amp; safe charging "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

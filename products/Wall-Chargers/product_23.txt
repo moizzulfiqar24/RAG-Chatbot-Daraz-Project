@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/120-i486400177-s2283768354.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Vayani mart 1664174648",
+    "Product Name": "fast charging 120w oppo , Infinix, video"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2283768354": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Fast charging 120W for Oppo, Infinix, and video.- Category path: Mobiles & Tablets > Mobile Accessories > Wall Chargers.- Power output: 5V / 2.0A.- Ports: 1.Step 2:- Additional keywords: None.Step 3:• Fast charging 120W compatible with Oppo, Infinix, and video.• Power output of 5V / 2.0A for efficient charging.• Designed with one port for convenient charging experience.Step 4:- No false information found.Step 5:- Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/14-hd-i489564205-s2308288175.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Aali Gadgets Store",
+    "Product Name": "iPhone 14 Pro Max Stone Diamond Camera Lens Protector HD Clear"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Step 1:<br/>Filtered productAttributes:<br/>{<br/>  \\\"Product Title\\\": \\\"iPhone 14 Pro Max Stone Diamond Camera Lens Protector HD Clear\\\",<br/>  \\\"Category Path\\\": \\\"Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Screen Protectors\\\"<br/>}<br/><br/>Step 2:<br/>additionalKeyWords: None<br/><br/>Step 3:<br/>Introducing the iPhone 14 Pro Max Stone Diamond Camera Lens Protector HD Clear, designed to provide premium protection for your device's camera lens. Crafted with high-definition clear material, this protector ensures crystal-clear photo and video quality. Its precision-cut design offers a perfect fit, while the stone diamond embellishment adds a touch of elegance. Compatible with the iPhone 14 Pro Max, this protector is a must-have accessory for safeguarding your device's camera lens from scratches and damage.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative.<br/><br/>Product Description:<br/>Introducing the iPhone 14 Pro Max Stone Diamond Camera Lens Protector HD Clear, designed to provide premium protection for your device's camera lens. Crafted with high-definition clear material, this protector ensures crystal-clear photo and video quality. Its precision-cut design offers a perfect fit, while the stone diamond embellishment adds a touch of elegance. Compatible with the iPhone 14 Pro Max, this protector is a must-have accessory for safeguarding your device's camera lens from scratches and damage.",
+    "highlights": [
+        "Step 1:",
+        "- Product Title: iPhone 14 Pro Max Stone Diamond Camera Lens Protector HD Clear",
+        "- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Screen Protectors",
+        "Step 2:",
+        "- Additional Keywords: iphone 14 pro max  camera protector",
+        "Step 3:",
+        "• High-definition clear lens protector for iPhone 14 Pro Max.",
+        "• Designed with stone diamond for added elegance and protection.",
+        "• Compatible with the camera lens of iPhone 14 Pro Max.",
+        "• Provides reliable protection against scratches and dust.",
+        "• Perfect accessory for maintaining the camera lens in pristine condition."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-22%%",
+            "Rs. 450",
+            "Rs. 349"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

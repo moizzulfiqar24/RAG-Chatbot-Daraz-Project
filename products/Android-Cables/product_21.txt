@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/icool-charging-cable-charging-cable-micro-usb-cable-data-cable-for-android-data-cable-for-android-fast-charging-data-cable-type-c-data-cable-magnetic-data-cable-data-cables-data-cable-3-in-1-data-cable-for-android-fast-charging-oppo-i405085896-s1950700062.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "US Bachat Bazar",
+    "Product Name": "Original ICOOL Micro High-Speed 3.0A USB Charging Cable - High Quality Fast Charging Cable For Android Mobile Phones - Best Data Cable (8600) for Phones & Devices - With Data Transfer Feature"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1950700062": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "- Original ICOOL Micro High-Speed USB Charging Cable.- Charging Speed upto 3.0 A.",
+        "- High Quality Fast Charging Cable For Android Mobile Phones.- Best Micro Data Cable (8600) for Phones.- With Data Transfer Feature.- White Color.- Stable Performance."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-58%%",
+            "Rs. 600",
+            "Rs. 249"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

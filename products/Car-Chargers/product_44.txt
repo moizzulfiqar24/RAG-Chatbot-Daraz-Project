@@ -1,0 +1,93 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-charging-socket-qc30-and-pd-type-c-3-ports-car-charger-adapter-for-bmw-x3-e83-e87-bmw-x5-e53-f30-f20-f10-accessories-i479723586-s2251718879.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Unique Poue",
+    "Product Name": "Usb charging socket QC3.0 and PD Type C 3 Ports Car Charger adapter for bmw x3 e83 e87 bmw x5 e53 f30 f20 f10 accessories"
+}
+
+{
+    "Color Family": [
+        "CHINA AC DZ",
+        "CHINA AAA DZ",
+        "CHINA ACC DZ",
+        "CHINA AAC DZ",
+        "CHINA AC Cable",
+        "CHINA AAA Cable",
+        "CHINA AAC Cable"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Usb charging socket QC3.0 and PD Type C 3 Ports Car Charger adapter for bmw x3 e83 e87 bmw x5 e53 f30 f20 f10 accessories",
+        "Interface:USB2.0",
+        "Special Features:60w Car Charger QC3.0 and PD Type C Three USB Car Charger Socket",
+        "Material Type:Metal",
+        "Item Weight:0.08kg",
+        "Model Name:Car usb socket fast charging",
+        "Out Power:60W",
+        "Voltage:24V",
+        "Brand Name:Fiuzd",
+        "Item Type:Cables, Adapters & Sockets",
+        "Origin:Mainland China",
+        "Usb color:Green Blue Orange",
+        "Light color:White",
+        "Product:Private customized patented products refused to copy",
+        "Feature 1:PD Typec and QC3.0 USB C Outlet Waterproof adapter",
+        "Feature 2:Built-in car usb socket charger 12V/24V Car Power for Marine Boat Motorc",
+        "Feature 3:12v plug tomada usb automotiva car power socket",
+        "Feature 4:QC 3.0 built-in Dual USB Car Charger Socket",
+        "Feature 5:USB Charger Socket Waterproof Fast Charge Adapter PD Type C and QC3.0 Power Outlet",
+        "Feature 6:DIY 12v/24V motorcycle socket charger 3 Port Car USB adapter Power Outlet",
+        "Feature 7:Aluminum adapter Power Outlet Waterproof charge for Marine",
+        "Feature 8:Outlet Fast Charging for 12V 24V"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 1831",
+            "Rs. 1526"
+        ],
+        [
+            "-17%%",
+            "Rs. 2758",
+            "Rs. 2298"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

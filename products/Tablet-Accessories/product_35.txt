@@ -1,0 +1,91 @@
+{
+    "URL": "https://www.daraz.pk/products/kokko-stylus-pen-both-ends-workable-capacitive-pens-digital-stylish-pen-pencil-for-most-capacitive-touch-screens-i460999496-s2185165198.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "KOKKO Official Store",
+    "Product Name": "KOKKO Stylus Pen Both Ends Workable Capacitive Pens Digital Stylish Pen Pencil For Most Capacitive Touch Screens"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Silver"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Description:",
+    "highlights": [
+        "Use Both Ends: Double head thickness can be used, imitation finger contact, there is a big difference. Both ends can be used, thick head 7mm, thin head 5mm, imitation of real finger contact area.",
+        "Freely Adjust: The thickness of the handwriting in the handwriting thickness software has nothing to do with the pen, and the handwriting thickness can be adjusted freely in most of the software.",
+        "Widely Compatible: Compatible for iphone/ Android/laptop. Compatible for 90% 2-in-1 laptop/ phone/tablet and other devices; And most support touch apps.",
+        "Quality Material: The alloy body is fine and frosted, anti-slip and anti-drop paint. Premium quality alloy body spray fine matte texture, non-slip, non-greasy, anti-drop paint, good hand feel is a necessary condition for writing.",
+        "Efficient Work: A variety of efficient working methods, one touch is reached, what needs to be recorded, what is readily recorded."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 701",
+            "Rs. 490"
+        ],
+        [
+            "-30%%",
+            "Rs. 689",
+            "Rs. 481"
+        ],
+        [
+            "-30%%",
+            "Rs. 697",
+            "Rs. 487"
+        ],
+        [
+            "-30%%",
+            "Rs. 713",
+            "Rs. 498"
+        ],
+        [
+            "-30%%",
+            "Rs. 721",
+            "Rs. 504"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "85%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

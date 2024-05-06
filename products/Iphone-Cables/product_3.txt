@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/15-pd-60w-45w-25w-c-pd-60w-c-c-c-c-c-22-i459411442-s2178269791.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "E-Z Cart",
+    "Product Name": "Original PD 60W C type to C type Cable For iPhone 15 Pro Max iPad PD 60W 45W 25W Turbo charging Cord Type C Fast Charger For Samsung S23 S22"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2178269791": {
+            "During Time": "5 - 10 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area E-Z Cart",
+            "Title": "Free Delivery ",
+            "Title Tile": "3 May - 8 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Original PD 60W C type to C type Cable• Fast Charger for Samsung S23 S22, iPhone 15 Pro Max, iPad• Turbo charging Cord Type C• Compatible with PD 60W 45W 25W• High-quality material for durability and safety• Perfect for charging and data transfer• Ideal for mobiles and tablets• Convenient and easy to use• A must-have accessory for tech-savvy users"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-60%%",
+            "Rs. 1500",
+            "Rs. 600"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "99%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

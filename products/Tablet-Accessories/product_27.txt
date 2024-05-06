@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/9-9-9-960-960-960-i478193065-s2243125745.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Xchh5651",
+    "Product Name": "New Touch Stylus S Pen For Samsung Galaxy Note 9 Note9 N960 N960F N960P With Bluetooth Function with logo"
+}
+
+{
+    "Color Family": [
+        "Blue",
+        "Gold",
+        "Purple",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "New Touch Stylus S Pen For Samsung Galaxy Note 9 Note9 N960 N960F N960P With Bluetooth Function with logo",
+        "Compatible Brand:Samsung/三星",
+        "Model Number:note9",
+        "Origin:Mainland China"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-33%%",
+            "Rs. 3254",
+            "Rs. 2170"
+        ],
+        [
+            "-33%%",
+            "Rs. 3242",
+            "Rs. 2161"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "33%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/20-usb-c-100-20-pd-3-uk-c-20-i483166789-s2280155566.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "gadgets world 001",
+    "Product Name": "20W USB c fast charger 100%original 20w Pd charger -3pin uk plug fast iphone charger with type c to lightning ⚡ cable 20w supported|power adapter for iphone"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2280155566": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Orginal iPhone_ Fast Charger 20w USB C Power Adapter Wall Charger, iPhone_ Charger 20 Watt With Type C TO Lightening Cable. Original 20W PD Charger For Iphone_, 20 Watt iPhone_ Charger Original 20W Iphone_ Chargers, IPhone_ PD Charger Type C."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-59%%",
+            "Rs. 3500",
+            "Rs. 1450"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

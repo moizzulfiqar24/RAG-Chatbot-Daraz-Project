@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/pvc-i222168948-s1437665171.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Bunyad Collection (Karachi)",
+    "Product Name": "Underwater Waterproof Rainproof Mobile Case PVC Bag Transparent Touch Screen Premium Cell Phone Pouch Cover For Travel Hiking Rainy Season Monsoon"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1437665171": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<span></span>",
+    "highlights": [
+        "Reliable waterproof casesand submersible, it provides good protection for your devices underwater. Note: Test WaterProof Function before Each Use. (Please use the phone volume buttons to take pictures / videos underwater since cellphone may suffer hydraulic pressure under certain water depth. Set on the volume button before you go underwater)",
+        "Universality with Full Protection The dual rotatable lock and sealable clip design of this waterproof neck pouch provides protection for cellphone, cards, cash, keys from water / snow / dirt damage; The floating waterproof phone case fit for swimming, kayaking, snowing, boating, skating, fishing, rowing，snorkeling, skiing, rafting, beach and water park activities",
+        "Premium Transparent PVC Material The clear waterproof case is made of high-quality soft transparent PVC material. This random colorwaterproof pouch is sensitive for you to taking pictures, videos and checking emails without remove the waterproof phone bag, but NOT for touch ID fingerprint",
+        "Full Compatibility these waterproof phone case are compatible for devices up to 6 inches; Compatible for iPhone 6 / 6 Plus / 6S 6S Plus / 5S 5 SE, Samsung Galaxy S8 S6 S7 Edge, Nexus 6P 5X, Sony Xperia A7, Google Pixel / Google Pixel Plus, Note 5 4 3, LG G5 V20, HTC One M9 and more",
+        "COLOR: Assorted (Random Color)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-10%%",
+            "Rs. 200",
+            "Rs. 180"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/qi-5-led-i482198973-s2266892082.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SPIDRO",
+    "Product Name": "Spidrotech Fantasy Qi Standard 5W Wireless Fast Charger| Crystal Body| Best Wireless Charger| Led Indicator"
+}
+
+{
+    "Color Family": [
+        "Spidrotech Fantasy Qi Standard 5W Wireless Fast Charger"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "[COMPATIBLE] : Any QI enabled device like iPhone X/ 8/8Plus, Galaxy, Samsung S7,S7 Edge, S6,S6 Edge, Nexus 4/5/6 (NOTE: Other device have no wireless charging function except putting on extra receivers)",
+        "[WIRELESS CHARGING]: Wireless Charging: Starts the moment you place down any Qi-enabled device or device equipped with a Qi-compatible cover. No cables or USB interface required. Input: AT LEAST 5V/2A; Output: 5V/1A",
+        "[SLIM] : design of 8.4mm thickness, generate less heat and have more efficient charging, small and convenient, you could use it at desk,room,office,school and anywhere.",
+        "[YOU WILL GET]: wireless charger detailed instruction book, and 1 * Qi Wireless Charger, 1 * Comes with a 3FT mini USB cable, ( Not Included Adapter)",
+        "[VERTICALLY &amp; HORIZONTALLY CHARGING] : Easily answer emails, text messages, receive calls and whatever else you might need to do at office while your phone is charging on wireless charging pad stand."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 1000",
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "33%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

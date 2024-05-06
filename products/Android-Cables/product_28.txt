@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/three-in-one-data-cable-suitable-for-apple-huawei-xiaomi-redmi-android-phone-charging-cable-5v2a-fast-charging-i487824926-s2293665150.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ebazzar.",
+    "Product Name": "Three In One Data Cable Suitable For Apple Huawei Xiaomi Redmi Android Phone Charging Cable 5v2a Fast Charging"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2293665150": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• Three in one data cable suitable for multiple phone brands",
+        "• Supports fast charging at 5V2A for quick power-ups",
+        "• Compatible with Apple, Huawei, Xiaomi, Redmi, and Android phones",
+        "• Good display resolution and electronics features for reliable performance"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

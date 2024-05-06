@@ -1,0 +1,66 @@
+{
+    "URL": "https://www.daraz.pk/products/seneo-wireless-charger-three-in-one-charger-detachable-design-independent-use-compatible-with-141312promini-phone-i486398240-s2283777206.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Computer Hardware Shop (Karachi)",
+    "Product Name": "SENEO Wireless Charger, Three in One Charger, Detachable Design, Independent Use, Compatible with 14|13|12|Pro|Mini Phone"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "3 in 1 Priority The latest 191 wireless support improves your charging habits: combined with the watch charging station to completely solve the problem of charging",
+        "Detachable Design The wireless charger of the magnet can be separated into two parts for independent use. The easy installation of the watch dock can be quickly understood.",
+        "Incredible charging speed: wireless charger provides 7. 5W fast charging for iPhone. For best results, the QC 3.0 wall adapter is recommended, but must be purchased separately.",
+        "Friendly Case The power wave charges directly through protective cases (thinner than 5mm). Lift the plug for an effective charging experience. Note: magnetic connectors, metal and card ports interfere with charging.",
+        "Wide Compatibility Support all Qi enabled devices including iPhone 11Pro, X, XS, XR, XS Max, 8, 8 Plus"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-25%%",
+            "Rs. 3999",
+            "Rs. 2999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "96%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

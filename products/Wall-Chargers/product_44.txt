@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/-i487218405-s2287943583.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SHOPATHON",
+    "Product Name": "Moto Turbo Power Shoe Original"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2287943583": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• The product highlights have been filtered to remove invalid information like 'No brand' or 'Test'.• No additional keywords were provided for the product.• The Original Moto Turbo Power Shoe is designed for mobile accessories, ensuring high-quality performance.• The power output and ports specifications are not specified, providing flexibility for various devices.• The Original Moto Turbo Power Shoe is specifically designed for mobile accessories, ensuring reliable and efficient power supply.• The power output and ports specifications are not specified, allowing for compatibility with a wide range of devices."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/mi-10000mah-i434825919-s2123193079.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AHA Communication",
+    "Product Name": "MI Blue Box 10000Mah fast charging Powerbank"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2123193079": [
+            {
+                "During Time": "6 - 10 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "4 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• MI Blue Box 10000Mah fast charging Powerbank• Input Type: TYPE-C• Battery Capacity: 5001 mAh to 10000 mAh• Ports: 2• Powerbank Features: Fast Charging, Multiple Device Charging"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 2750"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "74%",
+        "Ship on Time": "55%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

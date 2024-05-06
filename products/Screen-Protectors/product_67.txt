@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/infinix-zero-30-uv-glass-protector-origional-kingbull-brand-curved-screen-full-glue-uv-glass-screen-protector-tempered-glass-branded-i489927796-s2314538411.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Phonest",
+    "Product Name": "Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Description:\\nIntroducing the Infinix Zero 30 Uv glass Protector from the original Kingbull brand. These tempered glass screen protectors offer full coverage and a curved design for a seamless fit on your mobile devices. With a single layer construction and neutral color family, these protectors provide reliable protection without compromising the visual appeal of your phone. Perfect for those seeking durable and high-quality screen protection.</pre><div></div>\",\"highlights\":\"<ul class=''><li class=''>• Tempered glass screen protector for Infinix, Techno, and Vivo.</li><li class=''>• Original Kingbull brand with full glue UV protection.</li><li class=''>• Compatible with vivo v29, Infinix Zero 30, Spark 20 pro plus.</li><li class=''>• Neutral color, single layer, and express delivery in Karachi.</li></ul>\",\"link\":\"https://www.daraz.pk/products/infinix-zero-30-uv-glass-protector-origional-kingbull-brand-curved-screen-full-glue-uv-glass-screen-protector-tempered-glass-branded-i489927796-s2314538411.html\",\"mallTag\":false,\"rating\":{\"score\":0.0,\"total\":0},\"rightImgRatio\":1.9,\"shareTitle\":\"Share Product\",\"title\":\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\",\"wishTitle\":\"Add to Wishlist\",\"wishTitle_added\":\"Added to Wishlist\"},\"qna\":{\"haveMainSellerAnswers\":false,\"hidden\":false,\"paging\":{\"pageSize\":3,\"totalItems\":0},\"params\":{\"mainSeller\":{\"itemId\":\"489927796\",\"sellerId\":\"5213\",\"skuId\":\"2314538411\"}},\"summaryIcon\":\"https://img.alicdn.com/imgextra/i4/O1CN01ev6l3r1UAVoEUiXkp_!!6000000002477-2-tps-80-80.png\",\"summaryTitle\":\"Ask questions about the product.\",\"totalItems\":0,\"totalItemsByMain\":0,\"totalItemsByOthers\":0},\"tabHeading\":\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\",\"htmlRender\":{\"msiteShare\":{\"deepLink\":\"daraz://pk/d?itemId=489927796&ps=489927796_PK-2314538411&skuId=2314538411\",\"description\":\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\",\"facebookFallbackValue\":false,\"image\":\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\",\"meta\":\"<meta name=\\\"og:url\\\" content=\\\"https://www.daraz.pk/products/infinix-zero-30-uv-glass-protector-origional-kingbull-brand-curved-screen-full-glue-uv-glass-screen-protector-tempered-glass-branded-i489927796-s2314538411.html/\\\" /><meta name=\\\"og:title\\\" content=\\\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\\\" /><meta name=\\\"og:type\\\" content=\\\"product\\\" /><meta name=\\\"og:description\\\" content=\\\"Rs.150 OFF for New Users! ✓10% Extra Bank Discount on Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded at Daraz.pk. ✓Low Prices ✓Fast Delivery across Pakistan\\\" /><meta name=\\\"og:image\\\" content=\\\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\\\" />\",\"showFacebookFallback\":false,\"title\":\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\",\"type\":\"product\",\"url\":\"https://www.daraz.pk/products/infinix-zero-30-uv-glass-protector-origional-kingbull-brand-curved-screen-full-glue-uv-glass-screen-protector-tempered-glass-branded-i489927796-s2314538411.html\"}},\"skuInfos\":{\"0\":{\"categoryId\":\"9544\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Screen Protectors\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-31%\",\"pdt_photo\":\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":489927796,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Phonest\",\"pdt_simplesku\":2314538411,\"pdt_name\":\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\",\"page\":{\"regCategoryId\":\"011104000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=489927796_PK-2314538411&_p_prod=489927796&_p_sku=2314538411&_p_slr=5213\"},\"supplier_id\":5213,\"pdt_price\":\"Rs. 999\"},\"image\":\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\",\"inWishlist\":false,\"itemId\":\"489927796\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-31%\",\"originalPrice\":{\"text\":\"Rs. 999\",\"value\":999},\"salePrice\":{\"text\":\"Rs. 690\",\"value\":690},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":999,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"5213\",\"skuId\":\"2314538411\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]},\"2314538411\":{\"bottomTagUrls\":[],\"categoryId\":\"9544\",\"dataLayer\":{\"pdt_category\":[\"Mobiles & Tablets\",\"Mobile Accessories\",\"Screen Protectors\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"-31%\",\"pdt_photo\":\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"39704\",\"pdt_sku\":489927796,\"core\":{\"country\":\"PK\",\"layoutType\":\"desktop\",\"language\":\"en\",\"currencyCode\":\"PKR\"},\"seller_name\":\"Phonest\",\"pdt_simplesku\":2314538411,\"pdt_name\":\"Infinix Zero 30 Uv glass Protector | Origional Kingbull  brand | Curved Screen Full Glue UV Glass Screen Protector | Tempered glass Branded\",\"page\":{\"regCategoryId\":\"011104000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=489927796_PK-2314538411&_p_prod=489927796&_p_sku=2314538411&_p_slr=5213\"},\"supplier_id\":5213,\"pdt_price\":\"Rs. 999\"},\"image\":\"https://static-01.daraz.pk/p/6cc0bde15fdbd2ffc64e93cfe51f3783.jpg\",\"inWishlist\":false,\"itemId\":\"489927796\",\"operation\":{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"},\"operations\":[{\"operationWeight\":2,\"text\":\"Buy Now\",\"type\":\"buyNow\",\"url\":\"https://checkout.daraz.pk/shipping\"},{\"operationWeight\":6,\"text\":\"Add to Cart\",\"type\":\"default\"}],\"price\":{\"discount\":\"-31%\",\"originalPrice\":{\"text\":\"Rs. 999\",\"value\":999},\"salePrice\":{\"text\":\"Rs. 690\",\"value\":690},\"voucherPrice\":{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01d769Cf1nTj9Ug0gCf_!!6000000005091-2-tps-45-45.png\",\"priceNumber\":999,\"priceText\":\"\"}},\"quantity\":{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"},\"quantityList\":[{\"limit\":{\"max\":3,\"min\":1},\"text\":\"\",\"type\":\"default\"}],\"sellerId\":\"5213\",\"skuId\":\"2314538411\",\"stock\":0,\"stockList\":[{\"stoock\":0,\"type\":\"default\"}]}},\"vouchers\":{\"2314538411\":{\"params\":{\"timeStamp\":\"1714749215996\",\"itemId\":\"489927796\",\"lzd\":\"6DD6933610C6AC476D7C9C8374AC147FCD5140DECA40D42CCED594B828A1332991BE8B4190ECFF7B8DFB8AC78507FAC0FC4B12327A1B3365126C9F567ADFCA5596B5A631948D3C07A8A62EF04CA94382329623DBF9D32C2D329623DBF9D32C2D\",\"skuId\":\"2314538411\",\"checkCode\":\"9e568f8c1fb7dac8da9988c2426daf3d\"},\"titleContentMore\":{\"content\":\"Min. Spend Rs. 399 Capped at Rs. 100\",\"jumpURL\":\"\",\"numberOfLine\":0,\"title\":\"Vouchers\"},\"voucherPreview\":{\"iconUrl\":\"https://laz-img-cdn.alicdn.com/tfs/TB1S9k7glLoK1RjSZFuXXXn0XXa-45-45.png\",\"moreIconUrl\":\"https://laz-img-cdn.alicdn.com/tfs/TB1BSKbsHrpK1RjSZTEXXcWAVXa-124-64.png\",\"previewList\":[\"50% off\",\"80% off\"]}}},\"deliveryOptions\":{\"2314538411\":[{\"badge\":false,\"dataType\":\"delivery\",\"deliveryWorkTimeMax\":\"2024-05-14T15:00+05:00[GMT+05:00]\",\"deliveryWorkTimeMin\":\"2024-05-10T21:00+05:00[GMT+05:00]\",\"description\":\"Enjoy delivery of  your order directly to the doorstep! <br><br><a href=\\\"https://click.daraz.pk/e/_CVFo0H\\\" target=\\\"_blank\\\">Find out more</a>\",\"duringTime\":\"7 - 11 day(s)\",\"extParam\":{},\"fee\":\"Rs. 125\",\"feeValue\":125.0,\"hasTip\":true,\"icon\":\"https://img.alicdn.com/imgextra/i3/O1CN01kzfimb1YwNiJFCQvh_!!6000000003123-2-tps-80-56.png\",\"priority\":4,\"title\":\"Standard Delivery \",\"titleHeadBold\":2,\"titleTile\":\"10 May - 14 May\",\"type\":\"standard\"},{\"badge\":true,\"dataType\":\"service\",\"description\":\"\",\"extParam\":{},\"feeValue\":0.0,\"hasTip\":true,\"priority\":2147483647,\"title\":\"Cash on Delivery Available\",\"titleHeadBold\":0,\"type\":\"COD\"}]},\"warranties\":{\"2314538411\":[{\"dataType\":\"returnPolicy\",\"description\":\"<p>Change of mind is not applicable as a Return Reason for this product due to one or more of the following reasons:",
+    "highlights": [
+        "• Tempered glass screen protector for Infinix, Techno, and Vivo.",
+        "• Original Kingbull brand with full glue UV protection.",
+        "• Compatible with vivo v29, Infinix Zero 30, Spark 20 pro plus.",
+        "• Neutral color, single layer, and express delivery in Karachi."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 999",
+            "Rs. 690"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

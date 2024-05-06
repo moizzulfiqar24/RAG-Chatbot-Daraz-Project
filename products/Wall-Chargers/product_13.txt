@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/led-4-usb-45-i488715295-s2298686198.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "haroon e store",
+    "Product Name": "LED Charger With 4 USB Hubs Orignal Charger 4.5 A Charger Powerfull Charger"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2298686198": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: LED Charger With 4 USB Hubs- Category: Mobile Accessories>Wall ChargersStep 2:- Additional Keywords: Original, 4.5A, PowerfulStep 3:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 4:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger.Step 5:• LED charger with 4 USB hubs for efficient charging.• Original charger with a powerful 4.5A output.• Ideal for mobiles and tablets, convenient wall charger."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 545"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

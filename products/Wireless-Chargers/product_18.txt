@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/-i456324000-s2161612622.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "muhib at",
+    "Product Name": "MAGSAFE APPLE WIRLESS MOBILE CHARGER"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<lable>Title:&nbsp;</lable>MAGSAFE APPLE WIRLESS MOBILE CHARGER",
+    "highlights": [
+        "Title: MAGSAFE APPLE WIRLESS MOBILE CHARGERDescription: MAGSAFE APPLE WIRLESS MOBILE CHARGER -Detail: 【Strong Compatibility】Wireless Magnetic Charger Compatible With IPhone 13/13 Pro/13 Mini/13 Pro Max/12/12 Pro/12 Mini/12 Pro Max/IPhone SE 2020/11, Charge AirPods 3/Pro(Note:To Avoid Overheating Problem And Weak Magnetism Issue, We Suggest You NOT Use This Magnetic Wireless Charger To Charge Other Devices, Such As Samsung Smartphones, Pixel Phones)【High-Quality Copper Wire】:Reduced Charging Cable Resistance Enable To Provide The Fastest Possible Charge Via Any USB-C Charger. Its Durability, Connectivity, Combatibility, And Performance Is 100%【Through-Case Charging】:The Magnetic Charging Works With Plastic/Rubber/TPU Cases Up To 4mm Thickness.The Metal Attachments Such As Pop Socket, Metal Ring, Magnets, Cards, Grips Will Interfere With Charging.It Is Recommended To Use The Official Mag-Safe Mobile Phone Case Or No Case.Build-In Strong Magnets Which Can Automatically Attract Phones,Perfectly Align The Charging Coil On The Back Of Your Mobile Phone,Strong Adsorption Force And Will Not Fall Off,Free Your Hands And Make Charging Easier.【Superior Safety 】:The Magnetic Wireless Charger Uses Professional Charging Technology To Protect Your Device From Overcharging, Over Current, Over-Voltage, Overheating, And Short Circuit. With Qi Certification, Let You Feel More Peace Of Mind.Provides You With A Better And Safer Charging Experience.The Optimized Magnetic Design Makes Charging Easier And Reducing Charging Heat. (Note: Make Sure No Any Metal Materials On The Back Of The Phone Case When Charging)"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "53%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

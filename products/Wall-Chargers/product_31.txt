@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/10-i487208787-s2287900906.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HaithamElectrics",
+    "Product Name": "Mobile Charger Adapter All Mobile 1.0 Ampere Quick Charge"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2287900906": [
+            {
+                "During Time": "8 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "8 May - 12 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Input : 100-240V 50-60 Hz 0.50.A",
+        "Output : 5.0V–1.0A",
+        "Enables rapid recharge on your devices.",
+        "Whether at home, the office, or on the go, Charging Wall Charger will have your device to full charge.",
+        "Charge other Micro USB devices at a 1A speed",
+        "Charge your phone from a wall outlet via AC adapter and Micro/C Type USB cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-43%%",
+            "Rs. 175",
+            "Rs. 99"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

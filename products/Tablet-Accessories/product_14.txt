@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/13-i487679070-s2296036155.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ahsan Afzaal",
+    "Product Name": "iPhone 13 pro max cover"
+}
+
+{
+    "Color Family": [
+        "Green"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: iPhone 13 pro max back cover- Express delivery: Lahore- Category path: Mobiles & Tablets>Tablet Accessories>Cases & Covers- Model: 13 pro max- Case material: Silicone / TPU- Type (case/cover): Back CoverStep 2:- Additional keywords: Protective, slim, durable, stylish, shockproofStep 3:• iPhone 13 pro max back cover with silicone/TPU material.• Provides slim, durable, and stylish protection for your device.• Designed for shockproof protection against accidental drops and impacts.• Express delivery available in Lahore for quick and convenient purchase.Step 4:- N/AStep 5:- N/A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1500"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

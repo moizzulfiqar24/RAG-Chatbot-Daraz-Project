@@ -1,0 +1,54 @@
+{
+    "URL": "https://www.daraz.pk/products/original-type-c-headphone-2-in-1-jack-adapter-type-c-to-35mm-2-in-1-headphone-jack-converter-c-type-to-35mm-aux-audio-adapter-type-c-to-35mm-headphone-jack-adapter-for-android-2-in-1-usb-type-c-to-audio-charging-converter-adapter-i253533544-s1863245584.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ZI COLLECTION",
+    "Product Name": "Original Type C Headphone 2 in 1 Jack Adapter - Type C to 3.5mm 2 in 1 Headphone Jack Converter , C Type To 3.5mm Aux Audio Adapter - Type C TO 3.5MM HEADPHONE JACK ADAPTER FOR Android - 2 in 1 USB TYPE C to Audio Charging Converter| Adapter"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {}
+}
+
+{
+    "desc": "This cable is designed and constructed for maximum durability, to ensure dependable, long-lasting",
+    "highlights": [
+        "Impressive Sound Quality: This dual adapter supports to 48 KHz and 24-bit output Fully supports IOS 10 and later Headphone use and Charging at the same time Microphone And Volume Control: Supports remote control and microphone from headphones Impressive Sound Quality: This dual adapter supports to 48 KHz and 24-bit output"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 300"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "82%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/c-i486802170-s2296611216.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Bhao Online Shopping Store",
+    "Product Name": "iPhone imported C-Type Fast Charger Portable Power Adapter for Enhanced Mobile Experience Durable high quality fast charger"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2296611216": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "iPhone important C-Type Fast Charger Portable Power AdapterFast Charging Capability: Speed up your charging time without compromising safety.",
+        "Universal Compatibility: Specifically designed for iPhone models, enhancing usability.",
+        "Portable Design: Lightweight and compact, ideal for travel and everyday use.",
+        "Durable Construction: Made with high-quality materials to ensure longevity and reliability.",
+        "Optimal Performance: Engineered to meet the highest standards of power delivery and efficiency.",
+        "Sleek &amp; Trendy Design: Elevate your charging experience with our sleek and stylish charger that complements your iPhone perfectly.",
+        "Customer Satisfaction Guarantee: Your satisfaction is our top priority."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 2500"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "30%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

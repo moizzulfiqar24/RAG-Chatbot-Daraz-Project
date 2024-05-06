@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/10-2-i486484794-s2284384633.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Dream Shadows",
+    "Product Name": "IPad 10\\"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:```json{  \\\"productTitle\\\": \\\"IPad 10\\\\\\\"2 inches Cover\\\",  \\\"categoryPath\\\": \\\"Mobiles & Tablets>Tablet Accessories>Cases & Covers\\\",  \\\"Type (case/cover)\\\": \\\"Case\\\"}```Step 2:```json{  \\\"additionalKeyWords\\\": []}```Step 3:• Protective case for iPad 10.2 inches.• Durable material for long-lasting protection.• Precise cutouts for easy access to all ports.• Slim and lightweight design for easy handling.• Provides full coverage and shock absorption.• Compatible with iPad 10.2 inches (7th and 8th generation).Step 4:```json{  \\\"productHighlights\\\": [    \\\"Protective case for iPad 10.2 inches.\\\",    \\\"Durable material for long-lasting protection.\\\",    \\\"Precise cutouts for easy access to all ports.\\\",    \\\"Slim and lightweight design for easy handling.\\\",    \\\"Provides full coverage and shock absorption.\\\",    \\\"Compatible with iPad 10.2 inches (7th and 8th generation).\\\"  ]}```"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-49%%",
+            "Rs. 5500",
+            "Rs. 2800"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

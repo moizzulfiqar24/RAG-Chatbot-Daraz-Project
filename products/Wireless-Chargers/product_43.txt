@@ -1,0 +1,83 @@
+{
+    "URL": "https://www.daraz.pk/products/rl-309aw-8-lcd-i488910895-s2300045098.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Partswala",
+    "Product Name": "RELIFE RL-309AW Magnetic Wireless Fast Charging with 8 Ports LCD Display"
+}
+
+{
+    "Color Family": [
+        "Blue"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "RELIFE RL-309AW Magnetic Wireless Fast Charging with 8 Ports LCD DisplayRELIFE RL-309AW Magnetic Wireless Fast Charging Tool for Mobile Phone Tablet PD QC3.0 8+1 Port Desktop Charger1. RL-309AW magnetic wireless fast charging, dual PD, dual QC3.0, strong magnetic adsorption without moving",
+        "2. Compatible with Mac/iPad/iPhone/Huawei/Samsung/OPPO/VIVO/ Xiaomi and other major brands of mobile phones/tablets/laptops and various devices.",
+        "3. Strong adsorption force and good positioning prevent the phone from dropping when charging and enjoy the fast charging experience. Convenient and Unlimited 15W",
+        "4. PD Fast Charging Reaches a New Level – A single port PD1 supports 45W high power output, which can quickly charge the new MacBook Pro 16-inch laptop.",
+        "5. Fast Charging Technology Dual PD + dual QC 3.0 fast charging sockets can quickly charge up to 3A, fast charging saves time. Say goodbye to waiting",
+        "6. 45 degree slope design, high resolution LCD display, digital display reading is clear, easy to use",
+        "7. 100W high power, suitable for home/office, compact size and does not take up space. Support all USB charging problems",
+        "8. Built-in smart sleep switch. The screen will automatically sleep after 30 minutes, shake or tap to turn on the screen light, so that the LCD is not disturbed while resting.",
+        "9. Over voltage/over current/over temperature/short circuit protection after charging is turned on. Various intelligent protection systems It will be activated to proactively filter out hazards to ensure your charging safety.",
+        "10. Wide global voltage range, suitable for AC100-240V voltage input, can be used in different countries and regions.",
+        "Parameters:",
+        "1. Net weight: about 368g",
+        "2. Product size: 120 x 95 x 55mm",
+        "3. Input: AC100~240V",
+        "4. PD1 interface: 5V/3A;9V/3A;12V/3A;15V/3A ;20V/2.25A;Voltage: 3.3V-16V 3A",
+        "5. QC2 3.0 interface: 5V/3A;9V/2A;12V/1.5A;4.5V/5A;5V/4.5A",
+        "6. PD5 interface: 5V/3A;9V/2.67A;12V/2A;Voltage: 3.3V-11V 2.65V",
+        "7. QC6 3.0 interface: 5V/3A;9V/2A; 12V/1.5A;4.5V/5A;5V/4.5A",
+        "8. USB 3/4/7/8 interface: 5V 1-2.4A (maximum 2.4A)",
+        "9. USB interface 3 + 4 + 7 + 8: 5V 1-4A (Max)",
+        "10. Wireless charging output: 5W-15W",
+        "11. Total power: 100W"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 12800"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

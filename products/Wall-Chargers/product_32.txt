@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/30-7-7-7t-7tpro-n10-3-3t-5-5t-6-7-n100-30-i485531599-s2280803369.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "KHM Sellers",
+    "Product Name": "Warp Charger 30W One plus warp charger OnePlus 7 OnePlus 7Pro OnePlus 7T OnePlus 7TPro OnePlus Nord OnePlus N10 Fast Charge: OnePlus 3 OnePlus 3T OnePlus 5 OnePlus 5T OnePlus 6 OnePlus 6T OnePlus 7 OnePlus N100 oneplus charger warp charger 30w"
+}
+
+{
+    "Color Family": [
+        "Off White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2280803369": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "• The Warp Charger 30W is specifically designed for fast charging OnePlus devices, such as OnePlus 7 and 7Pro, ensuring quick and efficient power replenishment.• It is also compatible with a wide range of OnePlus models, including 3, 3T, 5, 5T, 6, and 6T, providing versatile charging options for different devices.• Additionally, it is suitable for OnePlus Nord, N10, and N100 models, catering to the charging needs of various OnePlus smartphones.• With its single port design, it offers convenient and hassle-free charging, making it perfect for on-the-go use.• This charger is an ideal power solution for mobile phones and tablets within the OnePlus ecosystem, ensuring reliable and rapid charging performance."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-24%%",
+            "Rs. 2500",
+            "Rs. 1900"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/15-14-13-12-8-30-i486313121-s2283474465.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sunshineing",
+    "Product Name": "30W Magnetic Wireless Charger Pad Desktop Charging Station for iPhone 15 14 13 12 Pro Max 8 USB C Macsafe Fast Charging Station"
+}
+
+{
+    "Color Family": [
+        "Sliver"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "30W Magnetic Wireless Charger Pad Desktop Charging Station for iPhone 15 14 13 12 Pro Max 8 USB C Macsafe Fast Charging Station",
+        "Certification:RoHS,CE,FCC",
+        "Max Charge Equiement Number:1-4",
+        "Set Type:With USB Cable",
+        "Compatible Brand:Apple iPhone",
+        "Connector Type:Type C",
+        "Features:With Charging Indicator,With Cable,Magnetic Wireless Chargers",
+        "Max. Output Power:30W",
+        "Brand Name:DIKELANG",
+        "Origin:Mainland China"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-17%%",
+            "Rs. 3422",
+            "Rs. 2852"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

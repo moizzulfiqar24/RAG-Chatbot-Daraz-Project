@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/1-2-35-i468860045-s2214328224.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ASAD ELECTRONICS 1633856137",
+    "Product Name": "iphone 2in1 adapter and 3.5mm jack connector"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2214328224": [
+            {
+                "During Time": "7 - 9 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "2in1 adapter and 3.5mm jack connector for iPhone",
+        "• Rubber cable with lightning connection",
+        "• Compatible with Apple devices",
+        "Model: iPhone lightning to 3.5mm jack",
+        "Cable length: 0.5 meters",
+        "• Category: Mobile Accessories&gt;Cables &amp; Converters"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 500"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

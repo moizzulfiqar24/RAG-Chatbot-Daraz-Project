@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/10w-elecom-wireless-charger-qi-compatible-universal-fast-wireless-charger-wireless-charger-for-android-iphone-wireless-charger-mobile-gadgets-fast-charging-mobile-fast-charging-high-quality-i421665505-s1992640502.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "STARTECH.",
+    "Product Name": "10W ELECOM Wireless Charger, Qi Compatible Universal Fast Wireless Charger, Wireless Charger for Android & iPhone, Wireless Charger Mobile Gadgets, Fast Charging Mobile Fast Charging High Quality"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "It is a wireless charger that can be charged just by placing it in compliance with \\\"Qi\\\", a wireless charging standard that utilizes electromagnetic induction technology. specification Compatible models Devices compatible with 5W Qi standard wireless charging or some devices compatible with 9W wireless charging",
+    "highlights": [
+        "Branded wireless charger",
+        "Wireless connectivity",
+        "Compatible with all wireless charging devices",
+        "Fast charging",
+        "10W OUTPUT",
+        "100% ORIGINAL",
+        "BEST PRICE"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-58%%",
+            "Rs. 1900",
+            "Rs. 800"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

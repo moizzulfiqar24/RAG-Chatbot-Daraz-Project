@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/d-p-21-i483702907-s2274442878.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Arsalan Communication",
+    "Product Name": "D.p 2.1 A fast mobile charger for Iphone|Android and tablets"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "5 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• D.p 2.1 A fast mobile charger for iPhone/Android.• Power Output: 5V / 2.0A, suitable for quick charging.• Compatible with smartphones and tablets.• Express delivery available in Karachi.• 1 port for charging your device efficiently."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-38%%",
+            "Rs. 1200",
+            "Rs. 749"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

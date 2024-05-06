@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/1500mah-mini-portable-keychain-phone-charger-emergency-power-banks-retractable-plug-power-fast-charging-for-iphone-1212promax-i478999283-s2247743243.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "AGS Smart Gadgets",
+    "Product Name": "1500mah Mini Portable Keychain Phone Charger Emergency Power Banks Retractable Plug Power Fast Charging For iPhone 12|12Pro|Max"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2247743243": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Step 1:<br/>Filtered productAttributes: <br/>- Battery Capacity: Not Specified<br/>- Product Title: 1500mah Mini Portable Keychain Phone Charger Emergency Power Banks Retractable Plug Power Fast Charging For iPhone 12/12Pro/Max<br/>- Ports: Not Specified<br/>- Charging Cable Included: Not Specified<br/>- Category Path: Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Power Banks<br/><br/>Step 2:<br/>additionalKeyWords not provided.<br/><br/>Step 3:<br/>Introducing the 1500mAh Mini Portable Keychain Phone Charger, a compact and convenient emergency power bank designed for on-the-go charging. This retractable plug power bank offers fast charging for iPhone 12/12Pro/Max, ensuring you stay connected wherever you are. With its keychain design, it's easy to carry and perfect for travel or daily use. Whether you're out for a hike or running errands, this power bank provides a reliable backup power source. Stay powered up and connected with this essential mobile accessory.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative.<br/><br/>Product Description:<br/>Introducing the 1500mAh Mini Portable Keychain Phone Charger, a compact and convenient emergency power bank designed for on-the-go charging. This retractable plug power bank offers fast charging for iPhone 12/12Pro/Max, ensuring you stay connected wherever you are. With its keychain design, it's easy to carry and perfect for travel or daily use. Whether you're out for a hike or running errands, this power bank provides a reliable backup power source. Stay powered up and connected with this essential mobile accessory.",
+    "highlights": [
+        "• Mini portable keychain phone charger for iPhone 12/12Pro/Max.",
+        "• Retractable plug for easy storage and portability.",
+        "• Emergency power bank for on-the-go charging needs.",
+        "• Fast charging capability for quick power replenishment.",
+        "• Suitable for mobiles and tablets, convenient for travel."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-33%%",
+            "Rs. 900",
+            "Rs. 600"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "78%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

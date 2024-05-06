@@ -1,0 +1,93 @@
+{
+    "URL": "https://www.daraz.pk/products/hohoo-original-20w-type-c-fast-charger-for-iphone-15-14-13-12-11-pro-max-mini-plus-ipad-macsafe-magnetic-wireless-charging-cable-i470487066-s2219102846.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ambiguoose",
+    "Product Name": "HOHOO Original 20W Type C Fast Charger for iPhone 15 14 13 12 11 Pro Max Mini Plus iPad Macsafe Magnetic Wireless Charging Cable"
+}
+
+{
+    "Color Family": [
+        "For iPhone 20W 1m",
+        "for iwatch 5W 1m"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "HOHOO Original 20W Type C Fast Charger for iPhone 15 14 13 12 11 Pro Max Mini Plus iPad Macsafe Magnetic Wireless Charging Cable",
+        "Connector B:Type-C",
+        "Connector A:Type-C",
+        "Maximum Current:3A",
+        "Features:Fast Charge Cable",
+        "Has Retail Package:Yes",
+        "Brand Name:HOHOO",
+        "Origin:Mainland China",
+        "Certification:CE,EAC,EPA,FCC,RoHS,UL",
+        "Model 1:For Apple iPhone 14 15 Pro",
+        "Model 2:For Apple iPhone 14 15 Pro Max",
+        "Model 3:For Apple iPhone 14 15 Plus",
+        "Model 4:For Apple iPhone 13 Pro Max",
+        "Model 5:For Apple iPhone 12 Pro Max",
+        "Model 6:For Apple iPhone 13 Pro",
+        "Model 7:For Apple iPhone 12 Pro",
+        "Model 8:For Apple iPhone 14 15 Mini",
+        "Model 9:For Apple iPhone 13 Mini",
+        "Model 10:For APPLE iPhone 12 Pro Magnetic wireless charging",
+        "Model 11:For iPhone 11 Pro",
+        "Model 12:For APPLE iPhone 12 Pro Max Magnetic wireless charging",
+        "Model 13:For APPLE iPhone 12 mini Magnetic wireless charging",
+        "Features 1:Magnetic Wireless Charger",
+        "Features 2:For Apple iPhone 8 Plus",
+        "Features 3:USB Type C Fast Charge",
+        "Features 4:For Apple PD 20W Magnetic Wireless Charger",
+        "Features 5:For Apple iPhone Charger"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-39%%",
+            "Rs. 3588",
+            "Rs. 2190"
+        ],
+        [
+            "-38%%",
+            "Rs. 3694",
+            "Rs. 2279"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

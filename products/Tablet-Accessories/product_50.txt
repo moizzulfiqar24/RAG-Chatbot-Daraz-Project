@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/5-i305521001-s1641182915.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FG Fashions (Karachi)",
+    "Product Name": "Ipad mini 5 Smart Case Black Blue Red | Book Cover for Ipad Mini 5"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue",
+        "Red"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "High quality and unique case cover for your phone",
+        "Protects your Phone from scratches, dirt and bumps",
+        "Precise openings on the case, allowing access to all controls and features of the Phone",
+        "Made of durable material"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "96%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

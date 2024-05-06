@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/for-lenovo-tab-m10-fhd-rel-tb-x605fc-lc-101-tpu-tablet-case-i425729553-s2018871267.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Wangshengxingyi",
+    "Product Name": "For Lenovo Tab M10 FHD REL | TB-X605FC | LC 10.1 TPU Tablet Case"
+}
+
+{
+    "Color Family": [
+        "Frosted Clear",
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "For Lenovo Tab M10 FHD REL TB-X605FC LC 10.1 TPU Tablet Case<br/>1. Material: Made TPU material, non-toxic and odorless, wear-resistant and scratch-resistant. It can work for a long time.<br/>2. Full Protection: It fully protects the equipment from general scratches, dirt and abrasion.<br/>3. Lightweght And Easy Use: Compact, light-weight,easy to install and remove.<br/>4. Ultra slim fit: The ultra slim fit and skin-friendly case is specially designed and will bring you a different using experience with a stunning hand feeling.<br/>5. Convenience: All buttons and ports can be accessed, charged, and connected to the headphone cable without removing the case.<br/>Note: The actual product is subject to the title model, the model of the picture is for reference only.<br/><br/>",
+    "highlights": [
+        "Welcome to our store.",
+        "Follow Us Can get more Follower Welfare.",
+        "Every item you can choose is in stock and you can order directly.",
+        "Any problem you meet, contact our After-sale Service.",
+        "Each item will been checked and in good condition 100% before shipping.",
+        "We are Cross-border Sellers from China,Items Usually Arrives in 7-15days as soon as possible."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 1856",
+            "Rs. 1299"
+        ],
+        [
+            "-30%%",
+            "Rs. 1940",
+            "Rs. 1358"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "78%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

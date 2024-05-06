@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/5-40-5v245-usb-euusukau-i483038080-s2272997333.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "E-Power Official",
+    "Product Name": "ORICO 5 Port 40W 5V2.4*5 Micro USB Charger With EU|US|UK|AU Power Adapter For Phone|Pad"
+}
+
+{
+    "Color Family": [
+        "Multicolor"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2272997333": [
+            {
+                "During Time": "7 - 11 day(s)",
+                "Fee": "Rs. 229",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "ORICO 5 Port 40W 5V2.4*5 Micro USB Charger With EU/US/UK/AU Power Adapter For Phone/Pad",
+        "ORICO 5 Ports USB Charger,  Compatible with Phone/Pad",
+        "AC Input 100-240Vac,0.8A,50-60Hz,DC Output: 5V,USB output:2.4A*5 (max 5V8A total)",
+        "Highest Power rating at 40W / 8 Amps output",
+        "With over-heated, over-current, over-charging protection",
+        "Come with good ABS fire-resistant and high temperature-resistan Materia",
+        "R/W LED indicator for power status",
+        "CE/FCC/3C/ROHS Safety Certificate",
+        "Easy to carry on travel"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-28%%",
+            "Rs. 999",
+            "Rs. 720"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

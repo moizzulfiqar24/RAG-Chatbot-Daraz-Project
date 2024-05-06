@@ -1,0 +1,60 @@
+{
+    "URL": "https://www.daraz.pk/products/20-usb-c-20-2-i486881803-s2286078534.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "HYM Sales",
+    "Product Name": "Apple 20w Original Fast Charger for iPhone with Charging Cable USB C to Lightning 20W Power Adapter – 2 Pin Charger"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2286078534": {
+            "During Time": "7 - 12 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend 3 items in certain area from HYM Sales",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 12 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "UK Plug USB Type C 20W PD Wall Charger Type-C 20w USB-C Power Adapter For iPhone 14/13/12/11 Fast Charger ",
+        "Comes in sealed box / Same working day dispatch Package (Optional):1x 20W PD Plug OR1X USB C Cable OR 1x 20W PD Plug + USB C Cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-53%%",
+            "Rs. 2550",
+            "Rs. 1190"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

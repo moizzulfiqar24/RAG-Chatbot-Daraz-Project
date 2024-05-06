@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/100-18-usb-a-pd-i486801498-s2287229179.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Techmob",
+    "Product Name": "100% Original Tecno 18W Super Fast Charger with USB to Type A Cable (Global Certified Charger) Pd Charger For all Mobile Phone"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2287229179": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Android/Tecno Charger",
+        "18W Charger",
+        "Premium Quality",
+        "Fast USB to Type A Cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-25%%",
+            "Rs. 1000",
+            "Rs. 750"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

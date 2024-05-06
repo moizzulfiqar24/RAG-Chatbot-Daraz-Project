@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/18w-18w-v1820b-eu-i487366215-s2288897955.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Zainab.com",
+    "Product Name": "VIVO 18.W Original Used Adaptor With out box 18.W Fast Chager Model.v1820B-EU"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "7 May - 11 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "VIVO Adaptor 18.W Model.v1820B-EU",
+        "ADAPTOR MODEL      V1820B-EUINPUT:       100 240V 50/60Hz 0.5AOUTPOT     5V ===2A          OR     9V ===2A                    18w FAST CHARGER "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1570"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

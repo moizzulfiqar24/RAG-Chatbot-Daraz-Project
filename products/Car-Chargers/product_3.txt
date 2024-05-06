@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/100-1-18-30-18-18-1-a-3a-4a-2a-qc-30-usb-31a-i438035336-s2118729667.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Fasih Tech Store",
+    "Product Name": "100% Original Imported POWER Car Charger [ 1 Min More than 1% Charging ]18 Watt Car Charger Fast 30w 18w 18 w 3.1 A 3A 4A 2A  , Fast Car Mobile Charger Adapter QC 3.0 Multi USB Charging 3.1A -White"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Qualcomm 100% Fast Car Charger Adapter QC 3.0Multi USB fast Charging PortA RELIABLE SOURCE FOR CHARGING YOUR MOBILE DEVICE WHILE DRIVING.",
+        "GREAT QUALITY",
+        "LESS CONSUMPTION OF POWER",
+        "Charge Your Mobile Device With Great Efficiency",
+        "Fast Charging Slots 3.0",
+        "2 ports of 3.0 or 3.1 QC",
+        "Available colors Black/White",
+        "Quick Car Charger QC3.0 For Samsung Xiaomi Huawei Sony Android Charge Adapter Data Tablet Car-Charger",
+        "INPUT:- 12-24V/2.4A/3A",
+        "TYPE: CAR CHARGER",
+        "POWER SOURCE- CAR LIGHTER SLOT OUTPUT- 9V-12V/1.5A/2A",
+        "OUTPUT INTERFACE-USB PORTS:-2"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-56%%",
+            "Rs. 800",
+            "Rs. 349"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "79%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

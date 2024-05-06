@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/10-i205880540-s1410288071.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "A to Z collections 1606225356",
+    "Product Name": "Wireless Charger Ultra-Thin Metallic Desktop round-Shaped 10w Fast Charge Wireless Charger Wireless Charger universal charger fast charger iPhone charger Samsun charger infinix charger iPhone wireless charger Samsung wireless charger android fast chargers"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<span></span>",
+    "highlights": [
+        "Wireless Charger for mobile",
+        "Material: ABS + aluminum alloy",
+        "Product weight: 52g",
+        "Data line length: 1m",
+        "Input: 5 V/2A, 9 V/1.67A",
+        "Output : 5W/7.5W/10W",
+        "Charge efficiency: &gt;75%",
+        "Charging frequency: 110 - 205 KHz"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-29%%",
+            "Rs. 3499",
+            "Rs. 2499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "67%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

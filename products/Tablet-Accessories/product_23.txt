@@ -1,0 +1,77 @@
+{
+    "URL": "https://www.daraz.pk/products/sm-p555c-s-pen-for-galaxy-tab-a-p350-p355-p550-p555-active-stylus-touch-screen-layor-i451308359-s2146286042.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Layor",
+    "Product Name": "SM-P555C S-Pen For Galaxy Tab A P350 P355 P550 P555 Active Stylus Touch Screen Layor"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Brand New and High Quality !<br>\\nMaterial:Plastic<br>\\nSize:11cm/4.33in<br>\\nColor:Black/White<br>\\nPackage Included:<br>\\n1PCS<br>\\nNote:<br>\\n1. Please note that the photo does not show actual size, please refer to Description for size details.<br>\\n2. Please allow 5-10mm differences due to manual measurement, thanks.<br>\\n3. Due to the difference between different monitors, the image may not reflect the actual color of the item.",
+    "highlights": [
+        "Dear users are welcome to Layor. The following is a specific introduction to the product.I wish you a happy shoppingBrand New and High Quality !",
+        "Material:Plastic",
+        "Size:11cm/4.33in",
+        "Color:Black/White",
+        "Package Included:",
+        "1PCS",
+        "Note:",
+        "1. Please note that the photo does not show actual size, please refer to Description for size details.",
+        "2. Please allow 5-10mm differences due to manual measurement, thanks.",
+        "3. Due to the difference between different monitors, the image may not reflect the actual color of the item."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 702",
+            "Rs. 484"
+        ],
+        [
+            "-31%%",
+            "Rs. 728",
+            "Rs. 502"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

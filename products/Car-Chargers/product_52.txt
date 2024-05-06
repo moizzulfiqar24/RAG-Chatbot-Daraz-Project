@@ -1,0 +1,76 @@
+{
+    "URL": "https://www.daraz.pk/products/qc-3020-i377248090-s2136754110.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SK store..",
+    "Product Name": "Qualcomm Original Car Charger QC 3.0|2.0 100% Genuine Fast Charging Port with Blue Lights, Car Charging Best Fitted Spot, New without Box,"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "A RELIABLE SOURCE FOR CHARGING YOUR MOBILE DEVICE WHILE DRIVING.",
+        "GREAT QUALITY",
+        "LESS CONSUMPTION OF POWER",
+        "Charge Your Mobile Device With Great Efficiency",
+        "Fast Charging Slots 3.0",
+        "2 ports of 3.0 or 3.1 QC",
+        "Available colors Black/White",
+        "Quick Car Charger QC3.0 For Samsung Xiaomi Huawei Sony Android Charge Adapter Data Tablet Car-Charger",
+        "INPUT:- 12-24V/2.4A/3A",
+        "TYPE: CAR CHARGER",
+        "POWER SOURCE- CAR LIGHTER SLOT OUTPUT- 9V-12V/1.5A/2A",
+        "OUTPUT INTERFACE-USB PORTS:-2",
+        "3.0 Port is the Fast Charging Port",
+        "New Without Box",
+        "Available colors: Black/White"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-54%%",
+            "Rs. 850",
+            "Rs. 390"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

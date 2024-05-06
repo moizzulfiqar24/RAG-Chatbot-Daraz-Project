@@ -1,0 +1,81 @@
+{
+    "URL": "https://www.daraz.pk/products/c-8-x-1112-15-i466334638-s2203140862.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Ibn e Anees",
+    "Product Name": "Wireless Magsafe Charger with type C connected cable with magsafe animation Compatible with Iphone 8,X,11,12,13,14,15promax"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Step 1:<br/>Filtered productAttributes:<br/>{<br/>  \\\"Product Title\\\": \\\"Wireless Magsafe Charger with type C connected cable with magsafe animation Compatible with Iphone 8,X,11,12,13,14,15promax\\\",<br/>  \\\"Connectivity\\\": \\\"USB Type C\\\",<br/>  \\\"Category Path\\\": \\\"Mobiles &amp; Tablets&gt;Mobile Accessories&gt;Wireless Chargers\\\"<br/>}<br/><br/>Step 2:<br/>additionalKeyWords: \\\"fast charging, magnetic, portable, efficient\\\"<br/><br/>Step 3:<br/>Introducing the Wireless Magsafe Charger with type C connected cable, featuring a mesmerizing magsafe animation. This charger is compatible with a wide range of iPhone models, including 8, X, 11, 12, 13, 14, and 15promax. With USB Type C connectivity, it offers fast charging and a magnetic design for efficient and portable use. Say goodbye to tangled wires and hello to seamless charging with this innovative wireless charger.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative.<br/><br/>Final Product Description:<br/>Introducing the Wireless Magsafe Charger with type C connected cable, featuring a mesmerizing magsafe animation. This charger is compatible with a wide range of iPhone models, including 8, X, 11, 12, 13, 14, and 15promax. With USB Type C connectivity, it offers fast charging and a magnetic design for efficient and portable use. Say goodbye to tangled wires and hello to seamless charging with this innovative wireless charger.",
+    "highlights": [
+        "Step 1:",
+        "- Product Title: Wireless Magsafe Charger with type C connected cable",
+        "- Compatibility: Compatible with iPhone 8, X, 11, 12, 13, 14, 15 Pro Max",
+        "- Connectivity: USB Type C",
+        "Step 2:",
+        "- Magsafe Charger",
+        "- Wireless Charging",
+        "- iPhone Compatibility",
+        "- USB Type C",
+        "Step 3:",
+        "• Wireless Magsafe Charger with USB Type C connectivity.",
+        "• Compatible with iPhone 8, X, 11, 12, 13, 14, 15 Pro Max.",
+        "• Magsafe animation for easy and secure attachment.",
+        "• Fast and efficient wireless charging capability.",
+        "• Convenient and tangle-free charging experience.",
+        "• USB Type C connectivity for versatile usage.",
+        "Step 4:",
+        "- N/A",
+        "Step 5:",
+        "• Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-71%%",
+            "Rs. 3999",
+            "Rs. 1149"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "81%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

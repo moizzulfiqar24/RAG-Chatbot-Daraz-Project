@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/20-15-i488019373-s2295521038.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Saad Rafique",
+    "Product Name": "Cygnett TwoFold 20W Dual Wireless Charger With 1.5m Charging Cable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Charge 2 Phones At The Same Time",
+    "highlights": [
+        "Dual wireless fast chargingWirelessly charge your phone &amp; AirPodsSmart chargingWall charger &amp; cable includedCondition : New - Brand New / SealedAnti - Slip Surface Input : 12V/2.5AWireless Output 1 : 10W MaxWireless Output 2 : 10W MaxTotal Output : 20W Max Charging Cable : 1.5mConvenient designModern lookSafe-charging technology"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 4250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

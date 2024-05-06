@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/_-usb-i220943886-s1434944382.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Onelink",
+    "Product Name": "Tecno_ Original Charging and Data Cable Fast Charging Supported | Micro USB Cable | for Android Mobiles"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "1434944382": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 135",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Charge your smartphone with this Micro USB cable fastly",
+        "Enjoy smooth data transfers to/from computer, laptops",
+        "1.2 Meter length cable",
+        "10X Durability",
+        "10,000+ Bend Lifespan; Lasts upto 10X longer than conventional cable."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 190"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "75%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

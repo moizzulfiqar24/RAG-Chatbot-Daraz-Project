@@ -1,0 +1,75 @@
+{
+    "URL": "https://www.daraz.pk/products/2usb-st-95-i482846596-s2272015058.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "MusaTraders.Tech",
+    "Product Name": "2USB Charger ST-95"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "6 May - 11 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Step 1:",
+        "- Product title: 2USB Charger ST-95",
+        "- Category: Mobile Accessories, Wall Chargers",
+        "- Model: CHST95",
+        "- Ports: 2",
+        "Step 2:",
+        "- Additional Keywords: None",
+        "Step 3:",
+        "• 2USB Charger ST-95 with 2 ports for efficient charging.",
+        "• Model CHST95, suitable for mobiles and tablets.",
+        "• Wall charger for convenient charging at home or office.",
+        "Step 4:",
+        "- No false information found.",
+        "Step 5:",
+        "- Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-48%%",
+            "Rs. 1450",
+            "Rs. 750"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

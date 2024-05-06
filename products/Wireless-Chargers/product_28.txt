@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/qi-15-i447670641-s2137287991.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Poruis",
+    "Product Name": "Poruis Desktop Qi Phone Wireless Charger 15W Fast Charging Sink Hole Furniture Desk Charging Dock"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "<img src=\\\"http://www.yinxiangzhao.com/2023/08/22/SJP23082202B_20230822141728374_3YJ.jpg\\\" />",
+    "highlights": [
+        "Integrate on any surface without interfering with interior design and perfectly and beautifully integrate into your furniture design.They are elegant enough to fit into the decor of our home.Easy to install on conference tables to avoid cable entanglement while keeping the table clean and saving space.Unique multi-functional intelligent protection technology, providing temperature control, overvoltage protection, short circuit prevention and other functions.Perfectly designed to mount on a desktop conference table, the wireless fast charger keeps your phone strong at all times.Universal compatible with most Qi devices. Built-in over current, over voltage, over temperature, short circuit and other multiple protection to ensure safe and fastInput voltage: 12V-2A 9V-2AOutput power: 5W, 10W, 15WCharging distance: ≤8mmDimensions: Approximately 67.5x67.5x17,5mm2,65x2,65x0,69inches"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 2567",
+            "Rs. 1771"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

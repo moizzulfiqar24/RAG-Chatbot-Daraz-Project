@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/type-c-cable-6acharging-and-data-transfer-for-android-devices-i428995473-s2040004212.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "S.i.d Collection",
+    "Product Name": "Type C Cable 6A:Charging and Data Transfer for Android Devices"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2040004212": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "The A6 Type C Cable is the perfect companion for your Android devices, offering fast charging and efficient data transfer. Stay powered up and seamlessly transfer files, photos, and videos with this versatile cable. Experience convenience and reliability in one sleek package.<br/>",
+    "highlights": [
+        "Fast charging and efficient data transfer for Android devices.",
+        "Seamlessly transfer files, photos, and videos.",
+        "Reliable and convenient connectivity for your Android device.",
+        "Designed for fast charging and reliable data transfer.",
+        "Enjoy hassle-free charging and data synchronization.",
+        "High-quality construction for durability and longevity."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-45%%",
+            "Rs. 199",
+            "Rs. 110"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "78%",
+        "Ship on Time": "93%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-5-i439053152-s2125766483.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Liberty Pk",
+    "Product Name": "Dual USB Ports Dashboard Mount Fast Charger 5V for Toyota Car"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Material: ABS",
+        "Color: Black",
+        "Product weight: 0.04kg",
+        "Product size: 3.5*2.4*5.8cm",
+        "Cable Length: 60cm",
+        "Input voltage: 12V",
+        "Output voltage: 5V",
+        "Output current: 2.1V",
+        "USB Port: 2",
+        "Suitable model: Toyota",
+        "Suitable for iPhone, iPad, iPod, tablet PC, smartphones, cellphones, MP3, MP4 and camera"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-10%%",
+            "Rs. 1000",
+            "Rs. 899"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

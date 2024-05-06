@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/samsung-j7-2018-j7-prime-j7-prime2-ceramic-matte-protector-for-pubg-gaming-unbreakable-antishock-hybrid-film-9d11d21d-fiber-nano-sheet-i264834114-s1481149378.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Usama Mobile Shop",
+    "Product Name": "Samsung J7 2018 , J7 Prime , J7 Prime2 Ceramic Matte Protector for PUBG Gaming Unbreakable Antishock Hybrid film 9D|11D|21D Fiber Nano Sheet"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Brand Name: Usama Glass Shop",
+        "Edge-to-edge Coverage:Yes",
+        "With Retail Package:No",
+        "Type:Front Film",
+        "Package:Yes",
+        "Model Number: Samsung J7 2018 , J7 Prime , J7 Prime 2",
+        "Compatible Phone Brand: Samsung",
+        "Features:Scratch Proof",
+        "Features:Easy to Install",
+        "Features:Ultra-thin and Specially for PUBG Gaming"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 199",
+            "Rs. 99"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

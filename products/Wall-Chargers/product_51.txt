@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/40-4-i482957140-s2272675808.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Silat Mobile Accessories",
+    "Product Name": "Anker 40W Adapter 4 ports"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2272675808": [
+            {
+                "During Time": "6 - 11 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "6 May - 11 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Anker 40W Adapter with 4 ports for efficient charging.• Brand: Anker, known for high-quality electronic accessories.• Power Output: 5V / 2.0A for fast charging.• 4 ports to charge multiple devices simultaneously.• Express delivery available in all Pakistan for quick shipping."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 1100"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

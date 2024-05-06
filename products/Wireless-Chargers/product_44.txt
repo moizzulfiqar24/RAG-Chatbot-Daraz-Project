@@ -1,0 +1,67 @@
+{
+    "URL": "https://www.daraz.pk/products/8xxs1112131415-15-i463044695-s2191870684.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Mihome store",
+    "Product Name": "Remax Magnetic Wireless Charger 15W MagSafe High Power Fast Charging for iPhone 8|x|xs|11|12|13|14|15|Pro|Promax and Samsung|Xiaomi|Android Suitable for Multiple Devices"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Product Information：<br/>Brand: remax<br/>Name: Remax Magnetic Wireless Charging 15W<br/>Thickness: 6mm<br/>Diameter: 58mm<br/>Line length: 1m<br/><br/>",
+    "highlights": [
+        "15W fast charging",
+        "Compact and convenient",
+        "Aviation aluminum materials",
+        "Magnetic adsorption",
+        "Multiple security measures",
+        "Suitable for various devices"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-13%%",
+            "Rs. 4599",
+            "Rs. 3999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "87%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

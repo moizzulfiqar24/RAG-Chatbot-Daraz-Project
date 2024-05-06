@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/3-in-1-stylus-pen-for-cellphone-capacitive-touch-pencil-drawing-screen-pencil-layor-i436370657-s2095397652.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Layor",
+    "Product Name": "3 In 1 Stylus Pen For Cellphone Capacitive Touch Pencil Drawing Screen Pencil Layor"
+}
+
+{
+    "Color Family": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Feature<br>\\n1. Mobile phones and tablets are universal.<br>\\n2. The pen cover can be used as a holder.<br>\\n3. Write accurately.<br>\\n4. It won't hurt the screen.<br>\\nType：Stylus Pen<br>\\nColor：as show<br>\\nSize：as show<br>\\nMaterial：plastic<br>\\nPackage include：1pc Stylus Pen<br>\\nNote:<br>\\n1.Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. <br>\\n2. Item Measure by hand, it could be 1cm different,your kind understanding will be much appreciated.",
+    "highlights": [
+        "Dear user, welcome to Layor. The following is a specific introduction to the product.I wish you a happy shoppingFeature1. Mobile phones and tablets are universal.2. The pen cover can be used as a holder.3. Write accurately.4. It won't hurt the screen.Type：Stylus PenColor：as showSize：as showMaterial：plasticPackage include：1pc Stylus PenNote:1.Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. 2. Item Measure by hand, it could be 1cm different,your kind understanding will be much appreciated."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 541",
+            "Rs. 373"
+        ],
+        [
+            "-31%%",
+            "Rs. 525",
+            "Rs. 362"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,70 @@
+{
+    "URL": "https://www.daraz.pk/products/1-4-b-c-4-10000-mah-i333216469-s2159583259.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "SPY EYES CCTV SOLUTION",
+    "Product Name": "10000&150000 mah mini power bank with 4 cable type B type c 4in1 fast charging best quality power bank with cable for all phones"
+}
+
+{
+    "Color Family": [
+        "15000 MAH J112",
+        "10000 mah J102"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2159583259": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        " 10000 have own price15000 have own price4 builten cable i phone samsang usb cable and type c cable"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-8%%",
+            "Rs. 2500",
+            "Rs. 2299"
+        ],
+        [
+            "-22%%",
+            "Rs. 2300",
+            "Rs. 1799"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

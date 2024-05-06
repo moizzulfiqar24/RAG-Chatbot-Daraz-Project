@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/y20y12sy20s-i486601872-s2288132079.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "BRANDSTORE(LAHORE",
+    "Product Name": "Vivo y20|Y12s|Y20s Back Cover"
+}
+
+{
+    "Color Family": [
+        "Clear"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Redmi 12C Anti shock for android phones Back Cover SOCKED PROOF JELLY"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-22%%",
+            "Rs. 450",
+            "Rs. 350"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,92 @@
+{
+    "URL": "https://www.daraz.pk/products/mobile-phone-touch-screen-stylus-pencil-for-ipad-tablet-touchscreen-pen-layor-i448757985-s2138643264.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Stylus Pens\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Layor",
+    "Product Name": "Mobile Phone Touch Screen Stylus Pencil For |ipad Tablet Touchscreen Pen Layor"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Red",
+        "Silver"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "Mobile Phone Touch Screen Stylus Pencil For //ipad Tablet Multifunction Touchscreen Pen<br>\\n<br>\\nspecification：<br>\\nnew and high quality<br>\\nMaterial：Plastic<br>\\nColor：Black / Silver / Red<br>\\nSize: 12 * 1 * 1 cm<br>\\n<br>\\n<br>\\nFeatures:<br>\\nThis dual function stylus includes a soft touch capacitive stylus fully compatible with all touch-screen devices AND a resistive hard tip stylus.<br>\\nCapacitive Stylus and Resistive Hard Tip Stylus Combination<br>\\nCapacitive Stylus fully compatible with all capacitive touch-screen devices<br>\\nPractical design brings more convenience to your life.<br>\\nThe touching end of stylus is designed with rubber, soft enough to protect your screen against fingerprints and scratches, maintaining high definition to your screen.<br>\\nCompatible with all capacities touch screen devices, such as 7/7 Plus/6/6s/6 Plus/6s Plus, iPad Mini, iPad Air, iPod, Galaxy S3/s4/s5/s6/s7 edge, HTC, Google Nexus, Blackberry, Sony, Android Phones and Resistive Touch Screen device<br>\\n<br>\\nPackage include : <br>\\n1 * Stylus Pen(Double-end)<br>\\n<br>\\n<br>\\nNote：<br>\\nThere is 2-3% difference according to manual measurement.<br>\\nPlease check the measurement chart carefully before you buy the item.<br>\\nPlease note that slight color difference should be acceptable due to the light and screen.",
+    "highlights": [
+        "Dear user, welcome to Layor. The following is a specific introduction to the product.I wish you a happy shoppingMobile Phone Touch Screen Stylus Pencil For //ipad Tablet Multifunction Touchscreen Pen",
+        "specification：",
+        "new and high quality",
+        "Material：Plastic",
+        "Color：Black / Silver / Red",
+        "Size: 12 * 1 * 1 cm",
+        "Features:",
+        "This dual function stylus includes a soft touch capacitive stylus fully compatible with all touch-screen devices AND a resistive hard tip stylus.",
+        "Capacitive Stylus and Resistive Hard Tip Stylus Combination",
+        "Capacitive Stylus fully compatible with all capacitive touch-screen devices",
+        "Practical design brings more convenience to your life.",
+        "The touching end of stylus is designed with rubber, soft enough to protect your screen against fingerprints and scratches, maintaining high definition to your screen.",
+        "Compatible with all capacities touch screen devices, such as 7/7 Plus/6/6s/6 Plus/6s Plus, iPad Mini, iPad Air, iPod, Galaxy S3/s4/s5/s6/s7 edge, HTC, Google Nexus, Blackberry, Sony, Android Phones and Resistive Touch Screen device",
+        "Package include : ",
+        "1 * Stylus Pen(Double-end)",
+        "Note：",
+        "There is 2-3% difference according to manual measurement.",
+        "Please check the measurement chart carefully before you buy the item.",
+        "Please note that slight color difference should be acceptable due to the light and screen."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-31%%",
+            "Rs. 460",
+            "Rs. 317"
+        ],
+        [
+            "-31%%",
+            "Rs. 422",
+            "Rs. 291"
+        ],
+        [
+            "-31%%",
+            "Rs. 447",
+            "Rs. 308"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

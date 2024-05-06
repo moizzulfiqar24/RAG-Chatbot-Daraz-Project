@@ -1,0 +1,72 @@
+{
+    "URL": "https://www.daraz.pk/products/20000mah-pd66w-i471884773-s2225735726.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Rehmat's Bazaar",
+    "Product Name": "Maphie 20000mAh Portable PD66W Transparent Two Way Fast Charging Power Bank With Multiple Protection Features"
+}
+
+{
+    "Color Family": [
+        "Yellow"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2225735726": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "4 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "Maphie 20000mAh Portable PD66W Transparent Two Way Fast Charging Power Bank With Multiple Protection Features",
+    "highlights": [
+        "Product Type: Portable Power Bank",
+        "Origin: China",
+        "Color: Yellow, Grey, Black",
+        "Color Choice: Random",
+        "Material: ABS-PVC",
+        "Capacity: 20000mAh",
+        "Case: Transparent",
+        "Display: LED",
+        "Output:",
+        "Type-C: 5V/3A 9V/2.25A 12V/1.8A",
+        "USB 1: 5V/3A 9V/2.25A 12V/1.8A",
+        "USB 2: 5V/3A 9V/2.25A 12V/1.8A"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-41%%",
+            "Rs. 5500",
+            "Rs. 3250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

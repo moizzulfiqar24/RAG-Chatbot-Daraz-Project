@@ -1,0 +1,79 @@
+{
+    "URL": "https://www.daraz.pk/products/new-digital-display-car-charger-4usb-66w-fast-charge-pd-mobile-phone-charging-head-one-drag-four-qc30-car-charger-i482166374-s2266314897.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "bdlop11",
+    "Product Name": "New digital display car charger 4usb 66W fast charge PD mobile phone charging head one drag four QC3.0 car charger"
+}
+
+{
+    "Color Family": [
+        "4USB PD20W + QC3.0 + 2.4A Digital Display Fast Charge OPP Bag"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Brand：JMG",
+        "Output Interface：Dual USB",
+        "Item No.：00011",
+        "Patent Source：No",
+        "Model：4USB 4.8A Digital Display Car Charge OPP Bag, 4USB QC3.0 Digital Display Fast Charge OPP Bag, 4USB 22.5W Digital Display Super Fast Charge OPP Bag, 4USB 66W Digital Display Super Fast Charge OPP Bag, 4USB PD20W + QC3.0 + 2.4A digital display fast charging OPP bag, 4USB type-c + QC3.0 digital display car charging black OPP bag, 4USB PD20W + type-c + QC3.0 digital display car charging black OPP bag, C8 4USB 4.8A digital display car charging black OPP bag, C8 4USB 4.8A digital display car charging gold OPP bag, C8 4USB 4.8A digital display car charging blue O8A digital display bag, c8 4USB QC3.0 digital display car is charged with black OPP bag, C8 4USB QC3.0 digital display car is charged with gold OPP bag, C8 4USB QC3.0 digital display car is charged with silver OPP bag, C8 4USB QC3.0 digital display car is charged with red OPP bag, C8 4USB 66W digital display car is charged with black OPP bag, C8 USB 66W digital display car is charged with silver OPP bag, c8 4USB PD20W + QC3.0 digital display car is charged with black OPP bag, C8 4USB PD20W + QC3.0 digital display car is charged with gold OPP bag, C8 4USB PD20W + QC3.0 digital display car is charged with silver OPP bag, C8 4USB type-c + QC3.0 digital display car is charged with black OPP bag, C8 4USB PD20W + type-c + QC3.0 digital display car is charged with black OPP bag, c8 5USB PD15W + Super + 3.1A Digital Display Car Charging Black OPP Bag",
+        "Product Certification：CE",
+        "Main Downstream Platform：ebay, Amazon, wish, AliExpress, Independent Station, LAZADA",
+        "Authorized Private Brand：No",
+        "Charging Method：Wired Charging",
+        "Product Size：63*32mm",
+        "Operating temperature：-40-80",
+        "Output current：3100",
+        "Charging type：QC3.0 fast charging",
+        "Customized processing：Yes",
+        "Whether to export cross-border exclusive supply：Yes",
+        "Main sales areas：Africa, Europe, South America, Southeast Asia, North America, Northeast Asia, Middle East",
+        "Display：car voltage",
+        "whether digital display：yes",
+        "type：one-to-three cigarette lighter"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-29%%",
+            "Rs. 2211",
+            "Rs. 1579"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

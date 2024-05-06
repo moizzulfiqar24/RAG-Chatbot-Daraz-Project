@@ -1,0 +1,59 @@
+{
+    "URL": "https://www.daraz.pk/products/9-uv-i489696315-s2310204629.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "JM hub",
+    "Product Name": "One Plus 9 pro front uv matte sheet"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: One Plus 9 Pro Front UV Matte Sheet- Type of screen guard: Matte- Category path: Mobiles & Tablets > Mobile Accessories > Screen Protectors- Model: 9 Pro One Plus- Material: Rubber Tree- Color family: Black- Number of layers: 3Step 2:- Additional keywords: Screen protector, UV protection, Matte finishStep 3:• Matte screen guard for One Plus 9 Pro.• Made from durable Rubber Tree material.• Provides UV protection for the screen.• Matte finish reduces glare and fingerprints.• Three layers for enhanced screen protection.Step 4: - No false information found.Step 5:- Return the product highlights to the user."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 300"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,69 @@
+{
+    "URL": "https://www.daraz.pk/products/1-3-c-i473240935-s2233892511.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Pic Prime Selfie Stick",
+    "Product Name": "Fast Data Cable 3in1 function Micro Type c iphone"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2233892511": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 7 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Introducing our 120W Super Fast Type C Data Cable, a groundbreaking innovation in the world of charging and data transfer. This cable is not your ordinary accessory; it's a game-changer designed to provide the ultimate user experience for your devices. Here's a closer look at why our 120W Super Fast Type C Data Cable is the best-ever fast Type C data cable on the market:",
+    "highlights": [
+        "Product Name: 120w Super Fast Type C Data Cable (6mm thick)",
+        "Unparalleled Speed: This Type C data cable boasts a blazing-fast 120W charging capability, ensuring your devices charge in record time.",
+        "Ultra Durable: Constructed with premium materials, it's built to withstand daily wear and tear, making it exceptionally robust.",
+        "Slim and Sleek: At just 6mm thick, it's incredibly slim and easy to carry, making it perfect for on-the-go use.",
+        "Superior Performance: Designed for the best-ever fast data transfer and charging experience, delivering unmatched efficiency.",
+        "Universal Compatibility: Works seamlessly with a wide range of Type C devices, ensuring versatility and convenience.",
+        "The Perfect Accessory: Elevate your charging and data transfer game with this super-fast and strong Type C cable."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-43%%",
+            "Rs. 699",
+            "Rs. 399"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

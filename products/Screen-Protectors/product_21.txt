@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/oppo-reno-3-pro-glass-protector-5d10d11d21d9d-glass-full-coverage-back-protector-carbon-fiber-matte-soft-skin-sheet-for-oppo-reno-3-pro-i314743539-s1665840260.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Screen Protectors\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Z Collections",
+    "Product Name": "Oppo Reno 3 Pro Glass Protector 5D|10D|11D|21D|9D Glass Full Coverage + Back Protector Carbon Fiber Matte Soft Skin Sheet For Oppo Reno 3 Pro"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Back Matte Protector + 9DGlass Protector:",
+        "Back matte Protector Features:",
+        "Back Matte Protector Designed To Give You Maximum Protection.",
+        "Maintain your phone&#39;s original shine.",
+        "Maintains original shine and finish.",
+        "9D Glass:",
+        "Full screen 5dComplete Tempered Glass, curved to fit the entire screen.",
+        "Edge-to-edge coverage.",
+        "Ultra clear Shock-resistant layer under the glass.",
+        "High touch sensitivity.",
+        "Rounded edges for flawless integration and smooth feel.",
+        "Durable, Easy to apply, high quality glass which enables you to still enjoy clear and vivid colors on your phone.",
+        "Designed to Give You Maximum Protection Maintain your phone&#39;s original shine and finish with this 5D Complete Tempered Glass Protector for Your Smartphone.",
+        "It is designed to give you maximum protection to your phone against dust and scratches."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-46%%",
+            "Rs. 360",
+            "Rs. 196"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

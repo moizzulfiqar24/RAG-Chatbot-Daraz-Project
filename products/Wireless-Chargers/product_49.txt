@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/1-3-i437300305-s2103129975.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wireless Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Moiez Mart Online",
+    "Product Name": "German Imported Wireless Charger,3 in 1 Fast Charging Station with Alarm Clock and Night Light"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• German imported 3-in-1 wireless charger with alarm clock and night light.• Fast charging station with Qi wireless charging technology.• USB Type C connectivity for easy charging.• Suitable for mobiles and tablets.• Express delivery available in Lahore."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-46%%",
+            "Rs. 12500",
+            "Rs. 6786"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "96%",
+        "Ship on Time": "81%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

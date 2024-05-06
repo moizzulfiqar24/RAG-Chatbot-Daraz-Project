@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-i430551503-s2053322498.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Power Banks\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "FA Collection Lahore",
+    "Product Name": "Power Bank: Dual USB Port for Fast Charging on the Go!\\"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2053322498": [
+            {
+                "During Time": "5 - 10 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "3 May - 8 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "<img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/5366dd117b906558cc9dc02ca7c81dde.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/4e69dcb9ce3749f09ffc26241380a95d.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/5fa3254762b0f7158d34b9cd249bd20d.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/6c01510d07cc3c8aa23797ce3938e314.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/5f0f68ea4810e5de7c9dbfe2dd5d68dc.jpg\\\"/><img style=\\\"width:100%;display:block\\\" src=\\\"https://static-01.daraz.pk/p/164e987d64406c2dc33d17a7d436fc2f.jpg\\\"/>",
+    "highlights": [
+        "This product is a \\\"10000mAh ELEC Power Bank\\\" with a capacity of 10000 milliampere-hours, indicating how much energy it can store. It is designed as a \\\"Dual USB Port\\\" power bank, meaning it has two USB ports, allowing you to charge two devices simultaneously. The product is advertised as a \\\"Fast Charging Power Bank,\\\" implying that it can deliver quick charging capabilities to your devices when you are on the go."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-50%%",
+            "Rs. 2999",
+            "Rs. 1499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "69%",
+        "Ship on Time": "89%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

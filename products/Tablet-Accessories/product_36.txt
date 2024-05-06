@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/1-2-3-4-5-tpu-6d-tpu-i214265218-s1423071889.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Accessories Point (Lahore)",
+    "Product Name": "iPad Mini 1 | 2 | 3 | 4 | 5 Clear | Transparent TPU Case (Shock Proof Gel Case) 6D TPU cover"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Allows easy access to all buttons, controls and ports without having to remove the skin",
+        "Sleek and lightweight designed with precision to fit your device perfectly. Buttons are specially designed for a more natural responsive feel",
+        "Camera lens precisely cutout",
+        "Resistant gel material protects your phone from all those bumps and scrapes.",
+        "Clear color enhances the original look of your phone without making it bulky",
+        "Lightweight and flexible material displays device with clarity",
+        "Single, flexible layer provides hassle-free application",
+        "Raised four corners to reduce impact / shock",
+        "Shock proof / impact resistant"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 999",
+            "Rs. 598"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

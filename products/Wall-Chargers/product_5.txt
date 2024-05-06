@@ -1,0 +1,64 @@
+{
+    "URL": "https://www.daraz.pk/products/9-5-18a-a02760-uk-i481788923-s2263686026.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Muhammad Smart Store",
+    "Product Name": "Genuine Amazon 9W 5V 1.8A Power Adapter Three Pin Plug A02760 (Used UK Lot)"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2263686026": [
+            {
+                "During Time": "7 - 12 day(s)",
+                "Fee": "Rs. 145",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "7 May - 12 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Genuine Amazon 9W 5V 1.8A Power Adapter• Three Pin Plug A02760 (Used UK Lot)• Mobile Accessories>Wall Chargers category• 1 port for charging• Power Output (W) information not specified"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 350"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

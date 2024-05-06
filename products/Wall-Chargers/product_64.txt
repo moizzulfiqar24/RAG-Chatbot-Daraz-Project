@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/-i483303862-s2273755293.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Wall Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Sohail ms",
+    "Product Name": "infinix mobile charger original high quality high volta"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2273755293": [
+            {
+                "During Time": "5 - 9 day(s)",
+                "Fee": "Rs. 125",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "5 May - 9 May"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }Step 1:- Product title: Infinix mobile charger, original, high quality, high volta- Express delivery available in Karachi- Category: Mobile Accessories>Wall Chargers- Power output: 12v- Ports: Not specifiedStep 2:- Additional keywords: NoneStep 3:• Original Infinix mobile charger with high quality and high volta.• Express delivery available in Karachi for quick access.• Power output of 12v for efficient charging.• Suitable for various mobile devices and tablets.• Compact design for easy portability and storage.Step 4:- N/AStep 5:• Original Infinix mobile charger with high quality and high volta.• Express delivery available in Karachi for quick access.• Power output of 12v for efficient charging.• Suitable for various mobile devices and tablets.• Compact design for easy portability and storage."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            null,
+            null,
+            "Rs. 440"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/7th8th9th-102-2019-20202021-tpu-i450166765-s2286154223.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Tablet Accessories\"/\"Cases & Covers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "ePower Store",
+    "Product Name": "For iPad 7th|8th|9th Generation Case,Compatible iPad 10.2 inch (2019|2020|2021 Releases),iPad Case 10.2 Case with Pencil Holder, Lightweight Smart Cover with Soft TPU Back,Auto Sleep|Wake"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Blue"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "  iPad 7th Generation10.2\\\" 2019 release [Model: A2198, A2200, A2197]",
+        " iPad 8th Generation10.2'' 2020 release [Model: A2270, A2428, A2429]",
+        "   iPad 9th Generation10.2'' 2021 release [Model: A2602, A2603, A2604, A2605",
+        "  Protects the back and screen",
+        "   Elegant aniline-dyed leather covering",
+        "  Designed for Apple iPad"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-24%%",
+            "Rs. 2499",
+            "Rs. 1899"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "93%",
+        "Ship on Time": "99%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

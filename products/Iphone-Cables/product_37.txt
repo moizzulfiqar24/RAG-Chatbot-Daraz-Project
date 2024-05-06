@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/usb-i468535756-s2240933551.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Cables & Converters\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Fly buy 334",
+    "Product Name": "iPhone Original Cable USB Fast Charging Cable for ipad iPhone Lightning Cable"
+}
+
+{
+    "Color Family": [
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "7 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "5 May - 9 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "    pre {        white-space: pre-wrap;    }• Original USB fast charging cable for iPad and iPhone.• Made of durable rubber material for long-lasting use.• Compatible with Apple devices for seamless connectivity.• Cable length of 1 meter for convenient use.• Express delivery available in Islamabad for quick shipping."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-72%%",
+            "Rs. 799",
+            "Rs. 220"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "100%",
+        "Ship on Time": "80%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

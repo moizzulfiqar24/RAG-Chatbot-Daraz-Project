@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/car-dual-usb-charger-socket-pd-type-c-adapter-for-toyota-qc-30-quick-charge-i423111988-s2002530721.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Car Chargers\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "BAILURE",
+    "Product Name": "Car Dual USB Charger Socket PD Type-C Adapter for Toyota QC 3.0 Quick Charge"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2315101327": {
+            "During Time": "6 - 11 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum 1 items.",
+            "Title": "Free Delivery ",
+            "Title Tile": "9 May - 14 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "1. This socket with USB & Type-C ports allows you to charge any device including digital cameras, PDAs, mobile phones and USB accessories.",
+        "2. This socket fits on most models of for Toyotas SUV's and some cars, it will give you the charging convenience no matter where you travel.",
+        "3. With short circuit protection, the USB Power Socket is the perfect solution for those who are always on the go. It never overheats and has a dual socket so you can charge two devices at one time.",
+        "4. Make keeping your device ready for use simple by using this Socket. It will ensure that you stay connected when you need to the most."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 2972",
+            "Rs. 2093"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+
