@@ -1,0 +1,63 @@
+{
+    "URL": "https://www.daraz.pk/products/100-2023-i463647061-s2193500227.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Business\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "New Choice Corner",
+    "Product Name": "100% Imported Premium Quality Watch For Men And Boys New Design 2023"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2193500227": {
+            "During Time": "4 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from New Choice Corner",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 19 Apr"
+        }
+    }
+}
+
+{
+    "desc": "This premium quality watch is perfect for men and boys who want to make a statement with their style. With its sleek and modern design, this watch is sure to turn heads. Made from high-quality materials, this watch is built to last and withstand the test of time. Whether you're dressing up for a business meeting or just running errands around town, this watch is the perfect accessory to complete your look. So why wait? Add this stylish and functional watch to your collection today!",
+    "highlights": [
+        "• Premium quality watch for men and boys",
+        "• Imported with new design for 2023",
+        "• Perfect for business attire",
+        "• Category: Watches&gt;Sunglasses&gt;Jewellery&gt;Men&gt;Business"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-63%%",
+            "Rs. 900",
+            "Rs. 333"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "63%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

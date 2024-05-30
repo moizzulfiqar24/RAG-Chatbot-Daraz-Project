@@ -1,0 +1,119 @@
+{
+    "URL": "https://www.daraz.pk/products/-i409485404-s1960964280.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Maal-Lo",
+    "Product Name": "High Quality Wrist Watch For Men & Boys| Decent Wrist Leather Strap Attractive Dial"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2195275326": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Maal-Lo",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "1963947238": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Maal-Lo",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "1960964279": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Maal-Lo",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "1960964278": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Maal-Lo",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "1960964280": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Maal-Lo",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Gender: Men",
+        "Style: Casual",
+        "Color: Black",
+        "Case Material: Stainless Steel",
+        "Band Material: Rubber",
+        "Buckle Type: Master Lock",
+        "Watch of Dial: Round"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 1000",
+            "Rs. 699"
+        ],
+        [
+            "-10%%",
+            "Rs. 1000",
+            "Rs. 900"
+        ],
+        [
+            "-20%%",
+            "Rs. 1000",
+            "Rs. 799"
+        ],
+        [
+            "-42%%",
+            "Rs. 1000",
+            "Rs. 580"
+        ],
+        [
+            "-41%%",
+            "Rs. 1000",
+            "Rs. 590"
+        ],
+        [
+            "Rs. 23%",
+            "Rs. 1000",
+            "Rs. 580"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "98%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

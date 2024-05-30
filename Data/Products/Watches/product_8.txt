@@ -1,0 +1,58 @@
+{
+    "URL": "https://www.daraz.pk/products/qiunery-yesur-i202992571-s1402460810.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Qiunery",
+    "Product Name": "Qiunery YESURPRISE Unisex Antique Case Vintage Brass Rib Chain Quartz Pocket Watch Train"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1402460810": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Qiunery",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        }
+    }
+}
+
+{
+    "desc": "Package included:1 x watch.",
+    "highlights": []
+}
+
+{
+    "Price Info": [
+        [
+            "-30%%",
+            "Rs. 1790",
+            "Rs. 1250"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

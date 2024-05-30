@@ -1,0 +1,117 @@
+{
+    "URL": "https://www.daraz.pk/products/-i419428976-s2095369287.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "The Wardrobee",
+    "Product Name": "Branded Watch For Men and Boys Latest Design Matt Chain Fashion Wrist Watch Rubber Straps Casual Watch for Men Quartz Watches for Boys & Men"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2095369286": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from The Wardrobee",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2095369287": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from The Wardrobee",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2095369288": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from The Wardrobee",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2095369285": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from The Wardrobee",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2071479494": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from The Wardrobee",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Gender: Men",
+        "Style: Casual",
+        "Color: Black,Grey,Brown,Blue,Silver,Golden",
+        "Case Material: Stainless Steel",
+        "Band Material: Rubber",
+        "Buckle Type: MAster Lock",
+        "Watch of Dial: Round",
+        "Dial Diameter: 36mm &amp; 28mm",
+        "Case Thickness: 9mm, 8mm",
+        "Band Width: 20mm, 16mm"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-46%%",
+            "Rs. 1399",
+            "Rs. 760"
+        ],
+        [
+            "-37%%",
+            "Rs. 899",
+            "Rs. 570"
+        ],
+        [
+            "-28%%",
+            "Rs. 999",
+            "Rs. 720"
+        ],
+        [
+            "-24%%",
+            "Rs. 899",
+            "Rs. 680"
+        ],
+        [
+            "-29%%",
+            "Rs. 1399",
+            "Rs. 999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "86%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

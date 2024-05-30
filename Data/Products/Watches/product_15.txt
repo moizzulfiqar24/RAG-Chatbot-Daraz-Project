@@ -1,0 +1,115 @@
+{
+    "URL": "https://www.daraz.pk/products/-i201752553-s2272816821.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Modern watch company",
+    "Product Name": "Black and Brown stylish Rubber|Silicon Strap Watch for boys & Girls with Box  Watches for men"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2272816825": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2272816824": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2272816821": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2272816820": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2272816823": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2272816822": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        }
+    }
+}
+
+{
+    "desc": "<strong>Gents Round Dail Rubber/silicone Strap Watches for men- New Fashion Watch for boys- Black-</strong>",
+    "highlights": [
+        "Black and Brown stylish Rubber/Silicon Strap Watch for boys &amp; Girls with Box -unisex- Watches for menBlack and Brown stylish Rubber/Silicon Strap Watch for boys &amp; Girls with Box -unisex- Watches for men"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-71%%",
+            "Rs. 2100",
+            "Rs. 599"
+        ],
+        [
+            "-44%%",
+            "Rs. 900",
+            "Rs. 500"
+        ],
+        [
+            "-55%%",
+            "Rs. 1900",
+            "Rs. 850"
+        ],
+        [
+            "-52%%",
+            "Rs. 940",
+            "Rs. 450"
+        ],
+        [
+            "-40%%",
+            "Rs. 750",
+            "Rs. 450"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "79%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

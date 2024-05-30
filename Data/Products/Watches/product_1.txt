@@ -1,0 +1,93 @@
+{
+    "URL": "https://www.daraz.pk/products/led-i431801201-s2265468211.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Sports\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Modern watch company",
+    "Product Name": "Sports Digtal Fashion Watch Women Men Square LED Watch Silicone Electronic Watch Women's Watches Clock"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2265468214": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2265468213": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2265468210": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2265468211": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2265468209": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Modern watch company",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        }
+    }
+}
+
+{
+    "desc": "Step 1:<br/>The product title and category path are valid.<br/><br/>Step 2:<br/>No additional keywords provided.<br/><br/>Step 3:<br/>Introducing the Sports Digital Fashion Watch for both women and men. This square LED watch features a silicone band and electronic display, making it a stylish and functional accessory for any occasion. Whether for sports or everyday wear, this watch offers a modern and trendy look while providing accurate timekeeping. Perfect for those who appreciate a blend of fashion and technology in their timepiece.<br/><br/>Step 4:<br/>The tone of voice is in accordance with Informative. No amendments needed.<br/><br/>Product Description:<br/>Introducing the Sports Digital Fashion Watch for both women and men. This square LED watch features a silicone band and electronic display, making it a stylish and functional accessory for any occasion. Whether for sports or everyday wear, this watch offers a modern and trendy look while providing accurate timekeeping. Perfect for those who appreciate a blend of fashion and technology in their timepiece.",
+    "highlights": [
+        "Sports Digtal Fashion Watch Women Men Square LED Watch Silicone Electronic Watch Women's Watches ClockSports Digtal Fashion Watch Women Men Square LED Watch Silicone Electronic Watch Women's Watches Clock"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-67%%",
+            "Rs. 899",
+            "Rs. 300"
+        ],
+        [
+            "-69%%",
+            "Rs. 650",
+            "Rs. 199"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "79%",
+        "Ship on Time": "97%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

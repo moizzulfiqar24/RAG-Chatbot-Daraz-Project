@@ -1,0 +1,62 @@
+{
+    "URL": "https://www.daraz.pk/products/-i363571651-s1814637678.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Personalized Memories",
+    "Product Name": "Customized Wrist Watch with Photo|Logo & Name"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1814637678": [
+            {
+                "During Time": "14 - 17 day(s)",
+                "Fee": "Rs. 115",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "25 Apr - 28 Apr"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "make your on designcustomized watches with picturescustomized watch facescustomized watch giftcustomized watch with name watch facescustom watch dial logo custom watch dial printing custom watch dial painting custom watch design"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-41%%",
+            "Rs. 999",
+            "Rs. 585"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "88%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

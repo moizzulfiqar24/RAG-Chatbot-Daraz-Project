@@ -1,0 +1,71 @@
+{
+    "URL": "https://www.daraz.pk/products/samsung-galaxy-a15-6gb-ram-128-gb-rom-i467969987-s2248436657.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobiles\"",
+    "Brand Name": "Samsung",
+    "Seller Name": "Samsung",
+    "Product Name": "Samsung Galaxy A15 6GB RAM + 128 GB ROM"
+}
+
+{
+    "Color Family": [
+        "Yellow",
+        "Light blue",
+        "Blue Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2248436657": [
+            {
+                "During Time": "3 - 7 day(s)",
+                "Fee": "Rs. 115",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "14 Apr - 18 Apr"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "Introducing the Samsung Galaxy A15 with 6GB RAM and 128GB ROM, featuring a triple camera setup for detailed photography. With a sleek design and powerful performance, it's an ideal choice for those seeking a reliable and feature-packed smartphone, offering a seamless experience for all your mobile needs. This mobile device is perfect for photography enthusiasts and multitasking professionals alike.",
+    "highlights": [
+        "• Samsung Galaxy A15 with 3 high-quality cameras.",
+        "• Generous 6GB RAM for smooth multitasking experience.",
+        "• Spacious 128GB ROM for ample storage of files.",
+        "• Sleek design and advanced features for modern users."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-10%%",
+            "Rs. 52999",
+            "Rs. 47499"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "92%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "1 Year Brand Warranty",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

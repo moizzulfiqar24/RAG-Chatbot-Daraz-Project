@@ -1,0 +1,65 @@
+{
+    "URL": "https://www.daraz.pk/products/-i329637432-s1708267186.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "M.A CUSTOMIZE",
+    "Product Name": "Customized Wrist Watch with Photo|Logo & Name"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1708267186": [
+            {
+                "During Time": "4 - 8 day(s)",
+                "Fee": "Rs. 115",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "15 Apr - 19 Apr"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "CUSTOMIZE YOUR NAME AND PICTURE ON WATCH",
+        "WEAR ANY WARE VERY COMFORTELY",
+        "BLACK,BROWN,ANY MANY MORE COLOR AVALABLE",
+        "NEW FASHION DESIGN "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 999",
+            "Rs. 599"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "91%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,141 @@
+{
+    "URL": "https://www.daraz.pk/products/full-rhinestone-steel-belt-ladies-watch-roman-face-stars-temperament-business-womens-watch-bracelet-watch-i431566719-s2057668634.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Women\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Pink Girl Store",
+    "Product Name": "Full Rhinestone Steel Belt Ladies Watch Roman Face Stars Temperament Business Women's Watch Bracelet Watch"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2057668630": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668633": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668634": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668631": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668632": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668635": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668636": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668628": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "2057668629": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 from Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Movement: Quartz",
+        "Surface material: glass",
+        "Case material: Alloy",
+        "Strap material: Alloy",
+        "Case thickness: 9mm",
+        "Dial diameter: 28mm",
+        "Strap length: 23cm",
+        "Dial shape: round",
+        "Style: simple, temperament",
+        "Waterproof level: no waterproof",
+        "Display type: pointer + number"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-54%%",
+            "Rs. 666",
+            "Rs. 305"
+        ],
+        [
+            "-46%%",
+            "Rs. 1582",
+            "Rs. 855"
+        ],
+        [
+            "-52%%",
+            "Rs. 1582",
+            "Rs. 755"
+        ],
+        [
+            "-45%%",
+            "Rs. 1582",
+            "Rs. 869"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

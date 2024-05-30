@@ -1,0 +1,208 @@
+{
+    "URL": "https://www.daraz.pk/products/-i411043073-s1964553711.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "D&K Online",
+    "Product Name": "Men Quartz Watch for Waterproof Vacuum Plating Strap with Car Wheel Rim Hub Design Sport Automatic Wristwatch (Does not rotate)"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1964553722": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553711": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553723": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553712": {
+            "During Time": "3 - 7 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 18 Apr"
+        },
+        "1964553720": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553710": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553715": {
+            "During Time": "3 - 7 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 18 Apr"
+        },
+        "1964553716": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553724": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553713": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553725": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553714": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553719": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553708": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553709": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553717": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1964553707": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area D&K Online",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        }
+    }
+}
+
+{
+    "desc": "&nbsp;",
+    "highlights": [
+        "Case Thickness:11mm;",
+        "Band Width:13mm;",
+        "Band Material Type:Stainless Steel;",
+        "Case Shape:Round;",
+        "Dial Window Material Type:Hardlex;",
+        "Boxes &amp; Cases Material:Paper;",
+        "Dial Diameter:37mm;",
+        "Water Resistance Depth:3Bar;",
+        "Clasp Type:Bracelet Clasp;",
+        "Band Length:24cm;",
+        "Case Material:Stainless Steel;",
+        "Movement:Quartz;",
+        "Style:Fashion &amp; Casual;",
+        "Brand Name:nanoleaf;",
+        "Certification:NONE;",
+        "Origin:Mainland China;",
+        "Item Type:Quartz Wristwatches;"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-56%%",
+            "Rs. 3999",
+            "Rs. 1768"
+        ],
+        [
+            "-53%%",
+            "Rs. 3999",
+            "Rs. 1869"
+        ],
+        [
+            "-56%%",
+            "Rs. 3999",
+            "Rs. 1769"
+        ],
+        [
+            "Rs. 694%",
+            "Rs. 3999",
+            "Rs. 1768"
+        ],
+        [
+            "-53%%",
+            "Rs. 3999",
+            "Rs. 1868"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

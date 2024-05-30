@@ -1,0 +1,76 @@
+{
+    "URL": "https://www.daraz.pk/products/men-luxury-steel-band-casual-skeleton-watch-for-men-i214909968-s1480615705.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "Jianuo",
+    "Seller Name": "Eastern Watches",
+    "Product Name": "Men Luxury Steel Band Casual Skeleton Watch For Men"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "4 - 6 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Eastern Watches",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 17 Apr"
+        },
+        "1480615705": {
+            "During Time": "4 - 6 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Eastern Watches",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 17 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "100% Brand New &amp; High Quality",
+        "Stainless steel watch case back makes the watch more durable.",
+        "Skeleton dial design reveals your fashionable point of view.",
+        "Daily water resistance (not for showering and swimming).",
+        "Specification (approx):",
+        "Movement: Hand-winding Mechanical",
+        "Watch band: Stainless steel",
+        "Case back: Stainless steel"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-21%%",
+            "Rs. 699",
+            "Rs. 549"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "83%",
+        "Ship on Time": "90%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

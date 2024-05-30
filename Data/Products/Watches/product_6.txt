@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.daraz.pk/products/-i433228448-s2139698887.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "OMGs",
+    "Product Name": "OMG's Stylish watch for men , steel Built Design , Heavy Weight Watch in Fashion and for Casual use"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "4 - 6 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from OMGs",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 17 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Fashion and Special design ",
+        "Suitable for any occasion Long life batteryHigh performance in low priceRound watch case shape with 30mm to 34mm sizeGenuine leather strap for comfortable wearCasual men's watch suitable for any occasionFashion and Special design Suitable for any occasionHigh performance in low priceQuartz Movement: Luxury and classy looking, classical and unique hublot dial, movement to provide precise and accurate time keeping, perfect for all kindsof business, casual, indoor activities and daily use."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-12%%",
+            "Rs. 2500",
+            "Rs. 2199"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "96%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

@@ -1,0 +1,74 @@
+{
+    "URL": "https://www.daraz.pk/products/-i426007487-s2021853823.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Women\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Pink Girl Store",
+    "Product Name": "Luxury Ladies Watch for Women Clock Female Women's Dress Quartz Waterproof Wristwatches Dual Calendar Glow Gift"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2021853823": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 0 in certain area Pink Girl Store",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Specification",
+        "Type: square rhinestone-set quartz watch",
+        "Movement type: quartz",
+        "Display type: brown",
+        "Style: elegant, fashionable",
+        "Dial shape: round",
+        "Clasp style: pin buckle",
+        "Material: alloy + PU + rhinestone",
+        "Size: dial diameter of 27mm, thickness of about 7mm, strap width of 10mm, the overall length of the watch is about 215mm",
+        "Power supply: 377a button battery",
+        "Operation mode: rotary button",
+        "Warranty: no",
+        "Waterproof level: not waterproof",
+        "Application: daily with, party, shopping, dating, gift",
+        "Quantity: 1pc"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-39%%",
+            "Rs. 1017",
+            "Rs. 624"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "90%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

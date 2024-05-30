@@ -1,0 +1,73 @@
+{
+    "URL": "https://www.daraz.pk/products/samsung-galaxy-a04-3gb-32gb-official-pta-approved-non-active-official-warranty-i398440602-s1927450261.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobiles\"",
+    "Brand Name": "Samsung",
+    "Seller Name": "Samsung Official",
+    "Product Name": "Samsung Galaxy A04 3GB - 32GB OFFICIAL PTA APPROVED NON ACTIVE OFFICIAL WARRANTY"
+}
+
+{
+    "Color Family": [
+        "Black",
+        "Orange",
+        "White"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Samsung Official",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "1927450262": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Samsung Official",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "General FeaturesRelease Date2022-02-28SIM SupportSingle SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)Phone Dimensions164.4 x 76.3 x 9.1 mmPhone Weight192 gOperating SystemAndroid 12, One UI Core 4.1DisplayScreen Size6.5 inchesScreen Resolution720 x 1600 pixelsScreen TypePLS LCD Capacitive Touchscreen, 16M Colors, MultitouchScreen ProtectionN/AMemoryInternal Memory32GBRAM3/GBCard SlotmicroSDXC (dedicated slot)PerformanceProcessor2.35 Ghz Octa CoreBatteryTypeLi-Po 5000 mAh, non-removableCameraFront Camera5 MPFront Flash LightNoFront Video RecordingYesBack Flash LightYesBack Camera50 MP + 2 MPBack Video Recording1080p@30fpsConnectivityBluetoothYes3GYes4G/LTEYes5GNoRadioN/AWiFiYesNFCNo"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-40%%",
+            "Rs. 31499",
+            "Rs. 18999"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "65%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "1 Year Brand Warranty",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+

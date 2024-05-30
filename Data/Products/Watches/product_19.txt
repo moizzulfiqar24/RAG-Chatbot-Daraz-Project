@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.daraz.pk/products/a10-i431770549-s2081865532.html?search=1"
+}
+
+{
+    "Category": "\"Mobiles & Tablets\"/\"Mobile Accessories\"/\"Phone Cases\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Zyaan Accessories",
+    "Product Name": "Samsung galaxy auto focus A10"
+}
+
+{
+    "Color Family": [
+        "Black"
+    ]
+}
+
+{
+    "Delivery Info": {
+        "2081865532": [
+            {
+                "During Time": "4 - 9 day(s)",
+                "Fee": "Rs. 135",
+                "Promotion": "",
+                "Title": "Standard Delivery ",
+                "Title Tile": "15 Apr - 20 Apr"
+            }
+        ]
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Samsung galaxy",
+        "Auto focus A10 ",
+        "Soft material",
+        "Silicone case",
+        "Flexible back cover "
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-49%%",
+            "Rs. 350",
+            "Rs. 180"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "84%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

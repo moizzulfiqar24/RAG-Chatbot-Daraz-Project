@@ -1,0 +1,106 @@
+{
+    "URL": "https://www.daraz.pk/products/-i454962186-s2156721169.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Casual\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "New-Gen",
+    "Product Name": "Casual Fashion Wrist Watch Rubber Straps Men Quartz Watch For Boys & Men"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "0": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from New-Gen",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2156721169": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from New-Gen",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2156721167": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from New-Gen",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        },
+        "2156721168": {
+            "During Time": "4 - 9 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from New-Gen",
+            "Title": "Free Delivery ",
+            "Title Tile": "15 Apr - 20 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Movement: Quartz",
+        "Strap: Rubber Straps",
+        "Dial Shape: Round",
+        "Clasp Type: Mater Lock",
+        "Look: Casual",
+        ".It will definitely add beauty to your personality It looks very beautiful. It is Available Beautiful Colors. It is best thing to buy as a gift. If you have any question about this product, please feel free to message us in chat-box."
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-25%%",
+            "Rs. 999",
+            "Rs. 750"
+        ],
+        [
+            "-32%%",
+            "Rs. 999",
+            "Rs. 680"
+        ],
+        [
+            "-28%%",
+            "Rs. 999",
+            "Rs. 720"
+        ],
+        [
+            "-14%%",
+            "Rs. 699",
+            "Rs. 598"
+        ],
+        [
+            "-30%%",
+            "Rs. 999",
+            "Rs. 700"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "89%",
+        "Ship on Time": "94%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

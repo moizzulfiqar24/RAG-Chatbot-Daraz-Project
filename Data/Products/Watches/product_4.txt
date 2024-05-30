@@ -1,0 +1,79 @@
+{
+    "URL": "https://www.daraz.pk/products/-i438130449-s2118958341.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Business\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "Finds Shop",
+    "Product Name": "BUISNESS WATCH CLASSIC LUXURY ROUND DILE STEEL STRAPS WITH SILVER HAND|WRIST BRACELT CHAIN FOR BOYS MENS"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "2118958341": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Finds Shop",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        },
+        "2253226504": {
+            "During Time": "3 - 8 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from Finds Shop",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 19 Apr"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "BUISNESS WATCH",
+        "ROUND DILE",
+        "STEEL STRAPS",
+        "HAVY MATERIAL",
+        "STRONG UPER GLASS",
+        "EASY TO USE",
+        "BEAUTIFULL LOOCK",
+        "LOOCK SMART IN HAND"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-54%%",
+            "Rs. 999",
+            "Rs. 457"
+        ],
+        [
+            "-47%%",
+            "Rs. 999",
+            "Rs. 529"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "82%",
+        "Ship on Time": "95%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available"
+}
+

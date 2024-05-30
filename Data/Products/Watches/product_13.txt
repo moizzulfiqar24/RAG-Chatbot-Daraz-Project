@@ -1,0 +1,142 @@
+{
+    "URL": "https://www.daraz.pk/products/2022-i366103747-s1819200832.html?search=1"
+}
+
+{
+    "Category": "\"Watches Sunglasses Jewellery\"/\"Watches\"/\"Men\"/\"Fashion\"",
+    "Brand Name": "No Brand",
+    "Seller Name": "lamgool Electronic",
+    "Product Name": "2022 trend full-automatic quartz movement men's watch wheel non mechanical watch wrist watch fashion men's watch"
+}
+
+{
+    "Color Family": []
+}
+
+{
+    "Delivery Info": {
+        "1819200833": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1819200832": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1819200835": {
+            "During Time": "3 - 7 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "14 Apr - 18 Apr"
+        },
+        "1819200834": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1819200836": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1819200839": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        },
+        "1819200838": {
+            "During Time": "13 - 22 day(s)",
+            "Fee": "0",
+            "Promotion": "Enjoy free shipping promotion with minimum spend of Rs. 599 from lamgool Electronic",
+            "Title": "Free Delivery ",
+            "Title Tile": "24 Apr - 3 May"
+        }
+    }
+}
+
+{
+    "desc": "",
+    "highlights": [
+        "Model: 6275",
+        "Special function: decoration",
+        "Special function: 24-hour indication",
+        "Display type: pointer",
+        "Applicable population: male",
+        "Style: casual",
+        "Movement type: quartz",
+        "Movement brand: domestic",
+        "Origin of movement: China",
+        "Movement model: SL68",
+        "Thickness: 14mm",
+        "Dial diameter: 39mm",
+        "Crown type: spiral crown",
+        "Bottom type: common",
+        "Mirror material: ordinary glass mirror",
+        "Table buckle style: single fold buckle",
+        "Buckle material: stainless steel",
+        "Band material: stainless steel ",
+        "Dial shape: round",
+        "Case material: zinc alloy",
+        "Color: blue belt",
+        "Color: red belt",
+        "Color: yellow belt",
+        "Color: green belt",
+        "Color: blue steel strip",
+        "Color: red steel strip",
+        "Color: yellow steel strip",
+        "Color: green steel strip",
+        "Listing year/season: spring 2022 Watch movement: quartz watch",
+        "Surface diameter: 40mm",
+        "Case diameter: 43mm&lt;br class=&quot;img brk&quot;/&gt;Dial thickness: 12mm",
+        "Band width: 20mm",
+        "Band length; 250mm (including case)",
+        "Watch weight: 94g",
+        "Band material: alloy imitation ",
+        "Meter head material: alloy",
+        "Mirror material: ordinary glass",
+        "Buckle type: concealed buckle",
+        "Package list: watch * 1"
+    ]
+}
+
+{
+    "Price Info": [
+        [
+            "-23%%",
+            "Rs. 1836",
+            "Rs. 1410"
+        ]
+    ]
+}
+
+{
+    "Additional Info": {
+        "Positive Seller Ratings": "81%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+    }
+}
+
+{
+    "Return Policy": {
+        "Subtitle": "Change of mind is not applicable",
+        "Title": "14 days free & easy return"
+    },
+    "Warranty": "Warranty not available",
+    "Daraz Verified": "Get exactly what you ordered!",
+    "100% Authentic from Trusted Brand": "or Get 2x Your Money Back"
+}
+
