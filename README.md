@@ -11,7 +11,7 @@ This repository houses the implementation of a RAG (Retriever-Augmented Generati
 - `Data/` - Contains only the raw data files, which were collected via detailed scraping of the Daraz website.
 - `Evaluation/` - Scripts and metrics for evaluating the quality of the retriever and the outputs of the LLMs.
 - `LLM Chats/` - Scripts used for interfacing with LLMs to produce responses to user queries.
-- `chromaDB9/` - A vector database repository used for retrieving documents relevant to user queries.
+- `chromaDB/` - A vector database repository used for retrieving documents relevant to user queries.
 - `Retriever.ipynb` - A Jupyter notebook containing the retriever code.
 
 ## Setup and Installation
