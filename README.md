@@ -1,4 +1,4 @@
-# RAG-Based Project for eCommerce Platform
+# RAG-Based Project for Daraz eCommerce Platform
 
 This repository houses the implementation of a RAG (Retriever-Augmented Generation) based project aimed at enhancing eCommerce platforms through sophisticated text analytics. Developed as part of the Intro to Text Analytics course, the project is segmented into three pivotal phases:
 
